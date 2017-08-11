@@ -1,3 +1,5 @@
+![Laguna Creek Makers](misc/images/Laguna_Creek_Makers.png)
+
 # General Information
 General Information
 
