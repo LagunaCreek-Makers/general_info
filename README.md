@@ -16,6 +16,8 @@ General Information
 
 [Make](https://makezine.com/)
 
+[The Full Circle: The Independent Magazine for Ubuntu Linux Community](https://fullcirclemagazine.org) **FREE**
+
 ## Microcontrollers
 
 - Arduino
