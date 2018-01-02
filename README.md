@@ -39,11 +39,29 @@ General Information
 
 ## CAD
 
+### 3D
+
+### 2D
 
 ## 3D Printing
 
+[MatterControl](http://www.mattercontrol.com/)
+
+[TinkerCad](https://www.tinkercad.com/)
+
+[Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
+
+[Repetier](https://www.repetier.com/)
+
 
 ## CNC
+
+### CAD
+[Carbide Create](http://carbide3d.com/downloads/)
+
+### CAM
+
+[Carbide Motion](http://carbide3d.com/downloads/)
 
 
 ## Projects
