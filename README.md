@@ -8,15 +8,11 @@ General Information
 
 ## Magazines
 
-[Hello World: The computing and digital making magazine for educators](https://helloworld.raspberrypi.org/)  **FREE**
-
-[HackSpace: Technology In Your Hands](https://hackspace.raspberrypi.org/)
-
-[MagPi: The Official Raspberry Pi Magazine](https://www.raspberrypi.org/magpi/) **FREE**
-
-[Make](https://makezine.com/)
-
-[The Full Circle: The Independent Magazine for Ubuntu Linux Community](https://fullcirclemagazine.org) **FREE**
+- [Hello World: The computing and digital making magazine for educators](https://helloworld.raspberrypi.org/)  **FREE**
+- [HackSpace: Technology In Your Hands](https://hackspace.raspberrypi.org/)
+- [MagPi: The Official Raspberry Pi Magazine](https://www.raspberrypi.org/magpi/) **FREE**
+- [Make](https://makezine.com/)
+- [The Full Circle: The Independent Magazine for Ubuntu Linux Community](https://fullcirclemagazine.org) **FREE**
 
 ## Microcontrollers
 
@@ -45,23 +41,21 @@ General Information
 
 ## 3D Printing
 
-[MatterControl](http://www.mattercontrol.com/)
-
-[TinkerCad](https://www.tinkercad.com/)
-
-[Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
-
-[Repetier](https://www.repetier.com/)
+- [MatterControl](http://www.mattercontrol.com/)
+- [TinkerCad](https://www.tinkercad.com/)
+- [Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
+- [Repetier](https://www.repetier.com/)
 
 
 ## CNC
 
 ### CAD
-[Carbide Create](http://carbide3d.com/downloads/)
+
+- [Carbide Create](http://carbide3d.com/downloads/)
 
 ### CAM
 
-[Carbide Motion](http://carbide3d.com/downloads/)
+- [Carbide Motion](http://carbide3d.com/downloads/)
 
 
 ## Projects
