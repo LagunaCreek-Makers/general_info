@@ -6,6 +6,12 @@ General Information
 
 # Resource Links
 
+## Magazines
+
+[Hello World: The computing and digital making magazine for educators](https://helloworld.raspberrypi.org/)  **FREE**
+[HackSpace: Technology In Your Hands](https://hackspace.raspberrypi.org/)
+[MagPi: The Official Raspberry Pi Magazine](https://www.raspberrypi.org/magpi/) **FREE**
+[Make](https://makezine.com/)
 
 ## Microcontrollers
 
