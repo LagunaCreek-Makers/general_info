@@ -16,28 +16,25 @@ General Information
 
 ## Microcontrollers
 
-- Arduino
-- STM32
-- BBC Micro:bit
+- [Arduino](https://www.arduino.cc/)
+- [STM32](http://www.st.com/en/microcontrollers/stm32-32-bit-arm-cortex-mcus.html)
+- [BBC Micro:bit](http://microbit.org/)
+- [ESP8266](https://www.espressif.com/en/products/hardware/esp8266ex/overview)
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)
 
 
 ## SBC
 
-- Raspberry Pi
-- Pine64
-- NextThing CHIP
-- Onion Omega2
-- STM32
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [Pine64](https://www.pine64.org/)
+- [NextThing CHIP](https://getchip.com/)
+- [Onion Omega2](https://onion.io/omega2/)
+- [STM32](http://www.st.com/en/microcontrollers/stm32-32-bit-arm-cortex-mcus.html)
 
 ## Programming
 - [Tynker - Coding for Kids](https://www.tynker.com/)
-
-
-## CAD
-
-### 3D
-
-### 2D
+- [PICO-8](https://www.lexaloffle.com/pico-8.php)
+- [TIC-80](https://tic.computer/)
 
 ## 3D Printing
 
@@ -50,7 +47,8 @@ General Information
 ## CNC
 
 ### CAD
-
+- [TinkerCad](https://www.tinkercad.com/)
+- [Fusion360](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 - [Carbide Create](http://carbide3d.com/downloads/)
 
 ### CAM
