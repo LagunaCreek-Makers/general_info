@@ -1,0 +1,2073 @@
+Integrated Circuits (ICs)
+	Clock and Timing
+		Clock Buffers, Drivers 
+		Clock Generators, PLLs, Frequency Synthesizers 
+		Real Time Clocks 
+		Timers and Oscillators 
+	Data Converter ICs
+		Analog to Digital Converters (ADCs) 
+		Digital Potentiometers 
+		Digital to Analog Converters (DACs) 
+		Touch Screen Controllers 
+	Embedded Processors and Controllers
+		CPLDs - Complex Programming Logic Devices 
+		DSPs - Digital Signal Processors 
+		FPGAs - Field Programmable Gate Arrays 
+		Microcontrollers 
+		Microprocessors 
+		Single Board Computers (SBCs) 
+	Interface ICs
+		CODECs 
+		Ethernet Interface ICs 
+		RS-232 / RS-422 / RS-485 Interface ICs 
+		UART Interface ICs 
+		USB Interface ICs 
+	Linear ICs
+		Amplifiers - Audio 
+		Amplifiers - Op Amps, Buffer, Instrumentation 
+		Comparators 
+	Logic ICs
+		Buffers, Drivers and Transceivers 
+		Counters 
+		Decoders, Multiplexers 
+		Latches and Flip Flops 
+		Logic Gates 
+		Shift Registers 
+		Voltage Level Shifters 
+	Memory
+		EEPROM 
+		FIFO 
+		Flash 
+		RAM 
+	Power Management ICs
+		Battery Management 
+		Gate Drivers 
+		Hot Swap Controllers 
+		LED Drivers 
+		Motor Drivers 
+		Voltage References 
+		Voltage Regulators - Linear 
+		Voltage Regulators - Switching 
+		Voltage Supervisors 
+	RF Semiconductors and Devices
+		RF Amplifiers 
+		RF Antennas 
+		RF Mixers 
+		RF Receivers, Transceivers 
+Discrete Semiconductors
+	Diodes
+		Rectifier Diodes 
+		Schottky Diodes 
+		Zener Diodes 
+	Thyristors
+		DIACs, SIDACs 
+		SCRs 
+		TRIACs 
+	Transistors
+		BJTs 
+		IGBTs 
+		JFETs 
+		MOSFETs 
+Passive Components
+	Capacitors
+		Aluminum Electrolytic Capacitors 
+		Capacitor Arrays 
+		Capacitor Kits 
+		Ceramic Capacitors 
+		Film Capacitors 
+		Mica Capacitors 
+		Polymer Capacitors 
+		Tantalum Capacitors 
+		Trimmer / Variable Capacitors 
+	Crystals / Oscillators
+		Crystals 
+		Oscillators 
+		Resonators 
+	EMI / RFI Components
+		Common Mode Chokes 
+		Ferrite Beads and Chips 
+	Inductors
+		Fixed Inductors 
+		Inductor Kits 
+		Variable Inductors 
+	Resistors
+		Chip SMD Resistors 
+		Resistor Arrays 
+		Resistor Kits 
+		Thermistors 
+		Through-Hole Resistors 
+		Variable Resistors and Potentiometers 
+		Wirewound Resistors 
+	Transformers
+Electromechanical
+	Audio Products
+		Buzzers 
+		Microphones 
+		Speakers 
+	Motors and Drives
+		AC, DC and Servo Motors 
+		Motor Drives 
+		Stepper Motors 
+	Relays
+		Power Relays 
+		Signal Relays 
+		Solid State Relays 
+		Time Delay Relays 
+	Switches
+		Accessories 
+		DIP Switches 
+		Encoders 
+		Keylock Switches 
+		Pushbutton Switches 
+		Rocker Switches 
+		Rotary Switches 
+		Slide Switches 
+		Snap Action / Limit Switches 
+		Tactile Switches 
+		Toggle Switches 
+	Thermal Management
+		Fans and Blowers 
+		Heat Sinks 
+Connectors
+	Audio / Video Connectors
+	Automotive Connectors
+	Backplane Connectors
+		DIN 41612 Connectors 
+		Hard Metric Connectors 
+	Board to Board Connectors
+	Card Edge Connectors
+	Circular Connectors
+	D-Sub Connectors
+	FFC / FPC
+	Fiber Optic Connectors
+	Headers and Wire Housings
+	IC and Component Sockets
+	Memory Connectors
+	Modular / Ethernet Connectors
+	Photovoltaic / Solar Connectors
+	Power Connectors
+	RF / Coaxial Connectors
+	Terminal Blocks
+	Terminals
+	USB Connectors
+Test Equipment
+	Benchtop Power Supplies
+	Function Generators
+	Multimeters
+	Oscilloscopes
+	Spectrum Analyzers
+	Test Probes, Leads and Clips
+	Thermometers
+Tools and Supplies
+	Anti-Static Control
+	Chemicals
+	Enclosures
+	Flashlights
+	Hand Tools
+		Drills 
+		Hammers 
+		Heat Guns 
+		Knives and Blades 
+		Micrometers 
+		Pliers and Tweezers 
+		Screw and Nut Drivers 
+		Wrenches 
+	Hardware, Fasteners
+		Anchors 
+		Screws and Fasteners 
+		Spacers, Standoffs 
+		Thread Inserts 
+		Washers 
+	Prototype Boards and Breadboards
+	Raw Materials
+	Soldering Supplies and Tools
+	Storage Bins
+	Wire Crimpers and Strippers
+Sensors
+	Current Sensors
+	Flow Sensors
+	Magnetic Sensors
+	Motion Sensors
+		Accelerometers 
+		Gyroscopes 
+		Inertial Measurement Units (IMUs) 
+	Optical Sensors
+		Photodiodes 
+		Photoelectric Sensors 
+		Phototransistor 
+	Pressure Sensors
+	Proximity Sensors
+	Temperature and Humidity Sensors
+Optoelectronics
+	Displays
+		LCD, OLED, Graphic Displays 
+		LED Displays 
+	Fiber Optics
+	LEDs
+	Lamps
+	Laser Products
+	Optocouplers
+Circuit Protection
+	Circuit Breakers
+	ESD and Circuit Protection ICs
+	Fuse Holders
+	Fuses
+	PTC Resettable Fuses
+	TVS Diodes
+	Varistors
+Power Products
+	Batteries and Accessories
+	DC to AC Inverters
+	Power Supply Modules
+		Board Mount Modules 
+		Off-Board Modules 
+		Wall Adapters 
+	Surge Protectors
+	Uninterruptible Power Supply (UPS)
+Cables and Wire
+	Audio / Video Cables
+	Bulk Hook-up Wire
+	Bulk Multiple Conductor Cables
+	Coaxial / RF Cable Assemblies
+	D-Sub Cables
+	Ethernet Cables
+	FFC / FPC Cables
+	Fiber Optic Cables
+	Flat Ribbon Cables
+	USB Cables
+	Wire Protection and Management
+		Cable Markers 
+		Cable Ties 
+		Heat Shrink Tubing 
+		Non-Heat Shrink Tubing and Sleeves 
+		Wire Ducting 
+Machining
+	Indexable Inserts
+		Milling Inserts 
+		Parting and Grooving Inserts 
+		Threading Inserts 
+		Turning Inserts 
+	Indexable Tools
+	Machine Cutting Tools
+		Countersinks and Center Reamers 
+		Grooving Tools 
+		Jobber Length Drill Bits 
+		Routing End Mills 
+		Screw Machine Length Drill Bits 
+		Solid Boring Bars 
+		Taper Length Drill Bits 
+		Taps 
+		Thread Mills 
+	Machine Fluids
+	Machine Tool Accessories
+		Collets 
+		Drill Bushings 
+		Hand Knobs and Wheels 
+	Machinery
+Industrial Control
+	Hydraulics
+	Panel Meters
+	Pneumatics
+	Programmable Logic Controllers (PLC)
+	Temperature Controllers
+Automation Components
+	Linear Motion
+		Linear Shafts
+		Shaft Supports
+		Shaft Collars
+		Linear Bushings
+		Ball Guides
+		Spline Shaft
+		Oil Free Bushings, Washers
+			Oil Free Bushings
+			Oil Free Washers
+			Lubrication-Free Material (Round Bars, Pipes)
+		Oil Free Plates, Guide Rails
+			Oil Free Slide Plates
+			Oil Free Guide Rails
+			Standard Guide Rails
+		Linear Guides
+			Standard Linear Guides
+			Linear Guide Accessories
+			Needle Roller Guides
+		Cable Carriers
+			Cable Carriers
+			Cable Carrier Peripheral Components
+		Ball Screw
+		Support Units
+		Lead Screws, Slide Screws
+			Lead Screws
+			Nuts for Lead Screws
+			Lead Screw Support Units
+			Slide Screws, Change Nuts
+			Digital Position Indicators
+			Stopper Plates
+		Cross Roller
+			Cross Roller Guides
+			Cross Roller Tables
+			Linear Ball Slides
+		Linear Rails, V Guides, Oil Free Guides Units
+			Linear Rails (Retainer Type)
+			V Guides
+			Linear Rails (Bearing Type)
+			Linear Rails (Ball Roller Type)
+			Lubrication-Free Guide Units
+		Actuators
+			Single Axis Robots
+			Single Axis Actuators
+			Belt Actuators	Drives and Accessories
+			Single Axis Units (KU)
+			Rod Style Actuators
+	Rotary Motion
+		Bearings
+			Ball Bearings
+			Roller Bearings
+		Bearing Accessories
+			Bearing Lock Nuts
+			Bearing Spacers
+			Bearing Shaft Screws
+			Bearing Covers, Seals
+			Shaft End Plates / Caps
+			Bearing Balls
+		Bearing Units
+			Pillow Type
+			Flange Type
+			Other Shapes
+		Bearings with Housings
+		Cam Followers, Roller Followers
+		Rotary Shafts, Drive Shafts
+			Rotary Shafts
+			Drive Shafts
+		Cantilever Shafts
+	Connecting Parts
+		Fulcrum Pins
+		Hinge Pins
+		Hinge Bases, Hinge Plates, Hinge Bolt
+		Links
+		Rod End Bearings, Spherical Bearings
+		Connecting Bars, Link Cables	Wires
+	Rotary Power Transmission
+		Shaft Couplings
+			Flexible Shaft Couplings
+			Rigid Type
+			Universal Joints
+			Chain Couplings
+			Flange Couplings
+			Large Specialty Couplings
+		Keyless Bushing (Fastening Fittings)
+		Timing Belts, Pulleys
+			Timing Belt
+			Timing Pulleys, Idlers
+		Round Belts, Pulleys
+			Round Belts
+			Round Belt Pulleys, Idlers
+		V Belts, Pulleys
+			V Belt Pulleys, Idlers
+				V Belt Pulleys
+			V Belt
+		Chains, Sprockets
+			Chains
+			Roller Chain Sprockets
+			Idlers
+			Chain Guides
+			Chain Bolts, Turnbuckles
+			Roller Chain Installation Equipment
+			Cleaners and Lubricants for Chain
+		Tensioners
+			Tensioners (for Idler Set)
+			Chain Guide Tensioners
+			Auto Tensioners
+		Gears
+			Spur Gears
+			Bevel Gears
+			Helical Gear
+			Worm Gears
+			Rack Gears
+			Ratchet
+		Non-contact magnetic drives
+		Other Belts, Pulleys
+			Other Belts
+	Motors
+		Reducers, Clutches, Brakes
+			Transmissions, Reducers
+			Clutches, Brakes
+		Small AC Motors
+		Gear Motors
+		Other Motor Related Components
+		Stepper Motors
+		Servo Motors	Drives
+	Conveyors & Material Handling
+		Belt and Plastic Chain Conveyors
+			Belt Conveyors, Plastic Chain Conveyors
+			Stands for Conveyors
+			Maintenance Parts for Conveyors
+				Belt Support Covers for Conveyor
+				Driving Parts for Conveyor
+				Conveyor Drive Section Covers
+				Aluminum Frames for Conveyor
+				Tensioning Parts for Conveyor
+				Pulley Holders for Conveyor
+				Connecting Parts for Conveyor
+			Accessories for Conveyors
+				Post-Assembly Insertion Nuts for Belt Conveyor
+				Accessories for Belt Top Surface
+				Stands, Brackets, Worktables Accessories for Conveyors
+				Accessories for Conveyor Line Under
+				Accessories for Conveyor Line Entry and Exit
+				Stopper for Conveyor
+		Roller Conveyors
+			Gravity Conveyors
+		Wheel Conveyors
+		Accessories for Conveyor
+			Conveyor Guides
+		Flat Belts, Pulleys
+			Flat Belt
+			Flat Belt Pulleys, Idlers
+		Conveyer Timing Belts
+		Conveyer Chains, Sprockets
+			Chains with Attachments
+			Chains with Rollers
+			Specialty Chains
+			Sprockets for Conveyer Chains
+			Conveyor Chain Accessories
+		Plastic Chains
+			Plastic Chains
+			Sprockets for Plastic Chains
+			Idlers for Plastic Chains
+		Rollers
+			Rollers
+			Conveyer Rollers
+			Wheels
+			Guide Rollers
+			Pipe Rollers
+		Industrial Brushes
+		Bearings with Resin
+		Ball Rollers
+	Locating, Positioning, Jigs & Fixtures
+		Locating Pins, Bushings
+			Bushings for Fixtures
+			Locating Pins for Jigs and Fixtures
+			Height Adjusting Pins
+			Locating Pins
+			NAAMS Locating Pins
+			NAAMS Pin Retainer
+		Stop Pins, Stopper Blocks
+			Stop Pins, Stopper Bolts
+			Stopper Block
+			Stoppers, Point Pads
+		Adjustment Screws, Blocks
+			Adjustment Screws
+			Clamp Plates
+			Adjusting Bolts
+			Grub Screws
+			Adjusting Blocks and Shims for Welding Fixtures
+			Clamping Screws
+			Stopper Bolts
+			Leveling Screws
+			Blocks for Adjusting Bolts
+			Threaded Stopper Blocks, Brackets
+			NAAMS L-Block
+			NAAMS NC Block
+		Locating and Guide Components
+			Locating Block Sets
+			Guides
+			Rough Guide Pins
+			Rough Guide for Welding Fixtures
+			NAAMS Rough Locators
+		Locating Units
+		Automotive Inspection Components
+			Hinge	Slide Units, Base	Angle Plates for Inspection Jigs
+			Locating Balls
+			Height Adjusting Pins, Shim Plates for Jigs
+			Components for Inspection Jigs
+			L Pin / T Pin for Inspection Jigs
+			Slot Pins for Inspection Jigs
+			Bushings for Inspection Jigs
+		Plungers, Index Plungers
+			Spring Plungers
+			Special Purpose Plungers
+			Ball Lock Pins, Slot Pins
+			Roller Plungers
+			Plunger Accessories
+			Ball Buttons
+			Other Peripheral Components
+			Ball Plungers
+			Indexing Plungers
+		Toggle Clamp
+			Horizontal Hold-Down  Toggle Clamps
+			Vertical Hold-Down Toggle Clamps
+			Push-Pull Toggle Clamps
+			Heavy Duty Welded Toggle Clamps
+			Plier Clamps
+			Pneumatic Clamps
+			Toggle Clamp Accessories
+		Workpiece Clamps
+			Push-Down Clamps
+			Straight Line Action Clamp
+			Slide Pushers
+		NAAMS Components
+			NAAMS Locating Pins
+			NAAMS Pin Retainer
+			NAAMS L-Block
+			NAAMS NC Block
+			NAAMS Rough Locators
+			NAAMS Risers
+			NAAMS Shims & Spacers
+			NAAMS Socket Screws
+			NAAMS Hardened Washers
+			NAAMS Pull Dowel Pins
+			NAAMS Nuts
+			NAAMS Leveling Screw Assemblies
+	Inspection
+		Motorized Stages
+			Motorized Stage Accessories
+				Controllers
+				Other Controller Accessories
+			X-Axis
+			Z-Axis
+			XY-Axis
+			XYZ-Axis
+			Rotary
+			Goniometer
+		Manual Stages
+			X Axis
+			Z Axis
+			XY Axis
+			XZ Axis
+			XYZ Axis
+			Rotary
+			Goniometers
+			Tilts
+			Multi Axis
+			Rods, Stands, Cross Clamps
+			Micrometer Heads, Feed Screw
+			Base Plates for Manual Stage
+			Brackets for Manual Stage
+			Scales for Manual Stage
+			Attraction Plates for Stage
+			Mounting Accessories for CCD Camera
+		Simplified Adjustment Units
+			X-Axis
+			XY-Axis
+			Z-Axis
+			Rotary
+		Centering Unit
+		Lens
+			CCTV Lens
+			Macro Lens
+		Optoronics Related Components
+			Holder
+				Mirror Holders
+				Cross Motion Holder
+				Cross Motion Adaper
+				Lens Holders
+				Polarizer Holders
+				Prism Holders
+				Filter Holders
+				Pin Holes, Diaphragms
+				Shutters, Optical Path Shutters
+				Laser Holders
+				Fixed Holders, Holder Accessories
+				Opt Station Units
+			Base
+				Tooling Plates
+				Post System
+				Rods, Rod Stands
+				Cross Clamps
+				Optical Rails
+				Magnetic Bases
+				Spacers (for OPS)
+				Spacers (for Light Axis Positioning)
+				Platforms
+				Base Plate
+				Adapter Plates
+				L-Shaped Brackets
+			Optics
+				Mirrors
+				Lens
+				Polarizers
+				Beam Splitters
+				Prisms
+				Dichroic
+				Filter
+				Circuit Boards
+				Pin Holes
+			Laser Related Items
+			Table
+				Vibration Reduction Boards with Frames
+				Desk Type Vibration Reduction Boards
+				Desktop Type Vibration Reduction Boards
+				Optical Surface Plates
+				Measurement Equipment Shelves, Darkroom
+				Open Racks
+		Lamps for Inspection
+			Lamp Fixtures for Inspection
+			Power Source, Light Source for Illumination
+		Contact Probes
+	Sensors, Switches
+		Sensors
+			Photoelectric Sensors, Fiber Sensors
+				Brackets & Stands for Sensors
+				Reflectors (for Photoelectric Sensors and Fiber Sensors)
+			Photomicrosensors
+				Small Screws for Photo-micro Sensors
+			Proximity Sensors
+				Proximity Sensors
+				Peripheral Components (for Proximity Sensors)
+		Switches
+			Contact Switches
+				Contact Switches
+		Sensor Rails, DIN Rails
+		Sensor Peripheral Components
+			Sensor Flags, Slit Cams
+	Pneumatics, Hydraulics
+		Cylinders, Rotary Actuators
+			Air Cylinders
+				General Purpose Cylinders
+				Compact Cylinders
+				Cylinders with Guides
+				Other Cylinders
+			Pneumatic Slide Cylinders
+			Rotary Actuators
+			Clamp Cylinders
+			Hands, Grippers
+			Sensors for Cylinders
+			Metal Fittings for Cylinders
+			Hands, Fingers for Grippers
+			Cylinder / Rotary Actuator / Gripper Accessories
+			Hands, Fingers for Grippers
+		Cylinder Connecting Components
+			Floating Joints
+			Knuckle Joints
+			Pushers
+			Coupling Rod
+		Filters, Regulators, Lubricators
+			FRL Units
+			Filter
+			Regulators, Pressure Boosting Valves
+			Lubricators
+			Drain
+		Solenoid Valves
+			Solenoid Valves
+		Electromagnetic Valves
+		Pneumatic Pipe Fittings
+			One-Touch Couplings
+			Miniature Couplings
+			Tightening Fittings
+		Speed Controllers
+		Auxiliary Devices
+		Manual-Type Valves, Mechanical-Type Valves
+			Hand Valves
+			Check Valves
+			Manual Switching Valves
+			Step Switching Valves
+			High Speed Exhaust Valves, Shuttle Valves
+		Tubes
+		Pneumatic Pipe Fittings
+			Fitting
+			Valves
+		Pressure, Flow Rate Sensors
+			Pressure Sensors, Flow Rate Sensors
+			Pressure Gauge
+		Compressors, Blowers
+			Blowers
+		Vacuum Pumps, Vacuum Ejectors
+			Vacuum Generators, Vacuum Ejectors
+		Dryers
+		Grippers
+			Hands, Fingers for Grippers
+		Other Pneumatic Devices
+			Escapement
+			Detecting Devices
+			Other Pneumatic Related Devices
+	Vacuum Components
+		Vacuum Fitting Parts
+			Fittings for Vacuum Plumbing
+				(NW	KF Standard) Plumbing Components, Flanges
+				(NW	KF Standard) Clamps, Center Rings and Others
+			Vacuum Plumbing Parts (JIS Standard)
+			Vacuum Plumbing Parts (ISO-MF Standard)
+			Vacuum Plumbing Parts (ICF Standard)
+			Flexible Tubes for Vacuum
+			Tubes, Hoses for Vacuum
+		Vacuum Generators, Vacuum Ejectors
+		Vacuum Filters
+		Vacuum Gauges
+		Suction Cups, Components for Suctioning
+			Suction Cups
+			Vacuum Tweezers, Manual Wands
+	Hydraulic Equipment
+		Hydraulic Valves
+			Flow Control (not throttle)
+		Hydraulic Hoses, Adaptors
+			Hydraulic Hoses
+			Hydraulic Hose Adaptors
+		Oil Gauges, Oil Caps
+			Oil Gauges
+	Spray Equipment And Accessories
+		Air Blowing Accessories
+		Nozzles
+			Adjustable Hoses
+			Air Nozzles
+			Spray Nozzles
+		Tanks And Accessories
+			Pressurized Tanks
+			Open Tanks
+			Tank Accessories
+			Agitators
+	Pipe, Tubes, Hoses & Fittings
+		Steel Pipes, Copper Pipes, Stainless Steel Pipes
+			Steel Tube
+			Stainless Steel Pipes
+			Copper Pipes
+			PVC Pipes
+			Plastic Pipes
+			Pipe Accessories
+		Screw Fittings
+			Screw Fittings, Screw-In Type Flanges
+			Hose Fittings
+			Fittings for Stainless Steel Pipes
+			Fittings for Steel Pipes and Copper Pipes
+			Weld-On Type Fittings
+			Welding Flanges
+			Rotary / Swivel Joints
+			Mechanical Type Pipe Fittings
+			Plastic Pipe Fittings
+			Elastic Pipe Fittings
+			Fittings for PVC Pipes
+		Couplers, One-Touch Joints
+			Couplers, One-Touch Joints
+			Other Coupler, One-Touch Joint Related Components
+		Valves
+			Ball Valves
+			Needle Valves
+			Check Valves
+			Gate Valves
+			Globe Valves
+			Butterfly Valves
+			Diaphragm / Pinch Valves
+			Air Operated Valves
+			Valves for various applications
+			Strainers
+			Other Valve Related Components
+		Safety Valves, Control Valves
+		Pipe Supports
+			Metal Fittings for Hung Plumbing
+			Pipe Stand-off Clamps
+			Floor Through Metal Fittings
+			Level Bands
+			Pipe U-Straps
+			Pipe Saddle Clamps
+			Pipe Support Brackets
+			Pipe Clamps
+		Manifolds
+			Manifold Blocks
+			Pipe Manifolds
+			Rotary Manifolds
+			Bracket With Fittings
+			Aluminum Extrusion Manifolds
+		Resins, Ducts, Flexible Hoses
+			Resins, Ducts, Flexible Hoses
+			Hose Clamps
+			Hose Reels
+			Piping Parts for Duct Hoses
+		Duct Hoses, Duct Plumbing Components
+			Duct Hoses
+			Ducts Fittings
+			Duct Hose Accessories
+			Duct Tubes
+		Flexible Hoses
+		Sanitary Pipes
+			Sanitary Valves
+			Sanitary Pipes
+			Sanitary Fittings
+			Sanitary Pipe Peripheral Components
+			Sight Glasses
+			Strainers
+		Seal Materials
+			O-Rings
+			Oil Seals
+			Gaskets
+			Seal Washers, Others
+			Sealing Caps
+			Rubber Seal
+		Nozzles
+			Adjustable Hoses
+		Tanks
+			Open Tanks
+	Modules, Units
+		Part Feeders
+			Bowl Feeders
+			Inline Feeders
+			Other Part Feeder Related Components
+		Pick and Place Units
+	Heaters, Temperature Control
+		Temperature Control Equipment
+			Temperature Conditioning Components
+			Temperature Controllers
+		Temperature Sensors
+			Standard Sheath Type
+			Screw Mounting Type
+			Terminal Type
+			Surface Temperature Measurement Type
+			Temperature Safety Measure Components
+			Thermocouples & Peripheral Components
+			Sensor Peripheral Components
+		Heaters
+			Cartridge Heaters
+			Plate Heaters
+			Sheathed Heaters for Air Heating
+			Sheathed Heaters for Liquid Heating
+			Rubber Heaters
+			Radiant Heaters
+			Other Heaters
+			Heat Resistant Components
+		Hot Air Generators
+		Cooling Related Products
+			Jet Coolers
+			Heat Sinks
+			Heat Radiation Gel Sheets
+			Peltier Cooling Unit
+		Air Conditioners, Air Holes
+	Aluminum Extrusions, Framing, Support & Posts
+		Aluminum Extrusion and Brackets
+			Aluminum Extrusions
+			Special AEX
+				Fence Extrusions
+				Flat Aluminum Extrusions
+				Aluminum Channels
+				Safety Fence Frames
+				Aliminum Extrusions for Doors
+				Aluminum Bracket Extrusions
+			AEX Units
+			Brackets and Joint Parts
+				90 degree Brackets
+				Corner Brackets
+				Blind Brackets
+				Blind Joint Parts
+				AEX Corner Gussets
+				Post-Assembly Easy Brackets
+				Block Brackets and Plate Brackets
+				Angular Brackets
+				Metal Brackets
+			Nuts
+			Bolts
+			Frame Caps
+			Slot Covers
+			Handles for Aluminum Extrusions
+			Hinges
+			Catches and Locks
+			Casters
+			Foot Bases
+			Adjuster Pads
+			Panel Mounts
+			Curtains, Sheets
+			Door Sliders
+			Conveyor Parts
+			Clamps, Holders, Hooks
+			Jigs, Maintenace Parts
+		Pipe Frames
+			Pipe Frames
+			Accessories for Pipe Frames
+			Joints for Pipe Frames
+				Metal Joints
+				Plastic Joints
+				Joints, Accessory Parts
+			Casters for Pipe Frame
+			Leveling Mounts for Pipe Frame
+			Lifting Parts
+			Conveyor Components
+			Assembly Tools
+			Pipe Frame Units
+		Mounting Plates & Brackets
+			Plates
+			L-Brackets
+			Round Plates
+			Convex Bend Plates
+			Z Plates
+		Angle Plates
+		Gussets
+		Welded Standoffs, Metal Boxes
+			Welded Standoffs
+			Metal Boxes
+		Posts, Strut Clamps, Stands
+			Posts
+			Strut Clamps
+				Single Post
+				Double Post
+				Strut Clamps Accessories
+			Post Stands
+			Free Guide Arms, Magnet Bases
+			Pipe Stands
+			Rotary Connectors
+			Spacer Blocks
+	Casters, Leveling Mounts, Posts
+		Casters
+			Casters
+			Caster Related Components
+		Wheels
+		Leveling Mounts, Rubber Feet
+			Adjuster
+			Leveling Mount Related Components
+			Leveling Bolts
+		Angle Brackets
+		Leveling Mounts
+	Doors, Cabinet Hardware
+		Catches
+		Door Stays
+		Telescopic Slide Rails
+		Fasteners, Draw Latches
+			Draw Latches
+			Stainless Steel - Standard Type
+			Stainless Steel - Corner Type
+			Stainless Steel - Spring Tension Type
+			Stainless Steel - with Adjustment Function
+			Steel - Standard Type
+			Steel - Corner Type
+			Steel - with Adjustment Function
+			Resin
+			Special Type
+		Latch Handles, Locks, Keys
+			Handle Type
+				T-Shaped Handles
+				Swing Handles
+				Latch Handles
+				Lever Handles
+				Special Type
+			Embedding Type
+			Key Locks
+			Electric Keys
+			Barrel Slide Bolt Latches, Slide Bar Latches, Inside Locks
+			Airtight Latch
+			Key Switches
+		Lighting System
+			Other Lightings
+		Gas Springs
+			Gas Springs
+			Mounting Brackets for Gas Springs
+		Wires, Chains, Metal Fittings, Small Work Pieces
+			Wire
+			Chains
+		Parts, Small Work Pieces
+			Water Levels
+			Scale
+			Accessories
+		Hanging Tools
+		Grip Handles
+		Knobs, Screws
+		Lever
+		Rotation Handles, Crank Handles
+		Hanger Hooks
+			Single Hooks
+		Handles
+		Hinges
+			Flat Hinges
+			Detachable Hinges
+			Damper Hinges, Spring Hinges
+			Other Hinges and Nuts for Hinge
+	Springs, Shock Absorbers
+		Springs
+			Torsion Springs
+			Tension Springs
+			Compression Springs
+				Round Wire Springs
+				Irregular Cross Section Wire Springs
+				Washers - SW Type
+			Disc Springs
+			Constant Load Springs
+			Other Springs
+			Posts for Tension Springs
+			Flat Springs
+			Battery Springs
+			Hooks for Tension Springs
+		Shock Absorbers, Gas Springs
+			Shock Absorbers, Gas Springs
+				Fixed Type
+				Adjustable
+				Other Shock Absorbers
+				Shock Absorber Related Products
+	Adjusting, Fastening,  Magnets
+		Magnets
+			Magnets - Round
+			Magnets - Rectangular
+			Magnets with Holders
+			Magnets - Ball Type
+			Magnets-Threaded
+			Rubber Magnets
+			Magnet Hooks / Holders
+			Magnetic Bases
+			Electromagnetic Holders, Rectifiers
+		Dowel Pins, Spring Pins, Stepped Pins
+		Grease Nipples
+		Washers, Collars
+			Metal Washers, Collars
+			Non-Metal Washers, Collars
+		Shims
+			Shim Tapes
+			Shim Plates
+			Shim Rings
+			Rectangular Shims
+		Hair Pins, Cotter Pins
+		Machine Keys
+		Retaining Rings
+	Antivibration, Soundproofing Materials, Safety Products
+		Sound Proofing, Antivibration
+			Sound Proofing Materials
+			Antivibration Materials
+			Antivibration Pads
+			Wire Ropes
+			Antivibration Mounts
+		Safety Protection Materials
+			Trims
+			Safety Protection Materials
+			Edge Trim Seals
+		Antistatic Materials
+			Ionizer
+			Conductive Rubber, Sponge Related
+		Stickers, Plates
+			Stickers
+			Plates
+Fasteners
+	Screws, Bolts
+		Cross Recessed Bolts
+			Pan Head Screws
+			Flat Head Machine Screws
+			Round Flat Head Screws
+			Small Truss Screws
+			Binding Head Screws
+			Upset bolts
+		Micro Screws, Pan Head Machine Screws for Precision Instruments
+		Screws with Captured Washer
+		Self Tapping Screws, Taptite High Tech Screws
+		Tamper Proof Button Head Cap Screws
+		Hex Screws
+		Hex Socket Head Cap Screws
+		Space Saving Bolts
+		Small Screws
+		Screws with Through Hole
+		Hex Socket Button Head Cap Screws
+		Hex Socket Flat Head Cap Screws
+		Unified screw, Inch screw
+		Hex Socket Set Screws
+		Fully Threaded, Stud Bolts
+		Knurled Wing Screws
+			Thumbscrews
+			Ornamental Screws
+			Wing Screws
+		Square bolts
+		Plastic Screws
+		Cover Screws
+		Strippers, Reamer Bolts
+		I-Bolts, U-Bolts for Plumbing
+			Wing Hinge Screws
+			Lifting Eyebolts
+		U-Bolts
+		Fastening Related Components
+	Washers
+		Washers
+	Nuts
+		Hex Nuts
+		Domed (Acorn) Nuts
+		Flanged Nuts
+		Rectangular Nuts
+		Hex Nut (Tall)
+		Lock Nuts
+		Resin Hex Nuts
+		Wing Nuts
+		Knurled Nuts
+		Cylindrical Nuts
+	Rivet
+		Rivet
+	Insert
+		Tangless Inserts
+		Threaded Inserts
+		Tangless Inserts Dedicated Tools
+		Threaded Inserts Dedicated Tools
+	Tools
+		Manual Work Tools
+	Washers, Collars
+		Metal Washers, Collars
+		Non-Metal Washers, Collars
+	Shims
+		Shim Tapes
+		Shim Plates
+		Shim Rings
+		Rectangular Shims
+	Hair Pins, Cotter Pins
+	Machine Keys
+	Retaining Rings
+	Screw Plugs
+		Screw Plugs
+Materials
+	Metal Materials
+		Material Plates, Blocks
+		Circular Plates
+		Rods
+		Pipes, Metal Tubes
+		Hex Rods
+		L-Shaped Angles
+		U-Shaped Channels
+		L-Shaped Blocks
+		U-Shaped Blocks
+		T-Shaped Blocks
+		Inclined Blocks
+		Plates
+		L-Brackets
+		Round Plates
+		Convex Bend Plates
+		Z Plates
+	Resin Materials
+		Resin Plates
+		Resin Round Plates
+		Resin Rods
+		Resin Pipes
+	Thermal Insulation Material
+	Ceramics
+	Glass Plate, Mirrored Plate
+	Resin Covers (Transparent Resin)
+		Transperent Resin Covers
+		Transperent Resin Round Plates
+		L-Shaped Plastic Covers
+		U-Shaped Plastic Covers
+		Plastic Cases
+		Transparent Resin Rods
+		Transparent Resin Hollow Tubes
+	Perforated Metals, Fences, Nets, Panels
+		Cover Panels
+		Painted Panels
+		Perforated Metals
+		Expanded Metals
+		Fences, Nets
+		Plywood Panels
+	Urethane, Rubber, Sponge, Felt
+		Urethane, Rubber, Sponge, Felt - Sheets
+		Urethane, Rubber, Sponge, Felt - Round Shape
+		Rubber Cords, Rubber Sponge Ropes
+		Adhesives / Mounting Components for Urethane, Rubber
+	Mesh
+
+Wiring Components
+	Connector
+		Square connector
+		Round connector
+		Coaxial connector
+		Nylon connector
+		Contact pin
+		Between circuit board connector
+		Conversion adapter
+		Cap
+		Connector (option, other)
+		Connector set product
+	Wire	Cable
+		Power cable
+		Robot cable for machinery
+		Insulation Wire
+		Flat cable
+		Curled cord
+		Information communication cable
+		Coaxial cable
+		Wire-saving	Network cable
+		Electric wire housing tool
+		Control	Instrumentation cable
+		Emergency alarm cable
+		Eco-Wire cable
+	Crimp terminal
+		Crimp terminal
+		Crimp terminal (option, other)
+	Equipment supported cable
+		PLC compatible cable
+			Mitsubishi ElectricQ Series
+			Mitsubishi Electric FX Series
+			Keyence	KV	KZ	KV	Nano Series
+			Omron CJ series
+			Omron CS series
+			Omron CPC Series
+			Yokogawa Electric Corporation FA-R Series
+			Fuji Electric MICREX-SX Series
+			PLC Press harness
+			Other PLC manufacturers	series
+		Relay terminal cable
+		Touch panel compatible cable
+			Mitsubishi	GOT Series
+			Keyence VT Series
+			Digital GP4000	GP3000	GP2000 Series
+			Omron NB	NS	NT631	NT31
+			MISUMI GX Series
+		AC servo motor cable
+			Mitsubishi Electric
+			Yasukawa Electric
+			Keyence
+			Panasonic
+			Omron
+			ORIENTAL MOTOR
+			I	O output	Harness for control signals
+		Image Sensor Compatible Cables
+		Harness (option)
+	Zip tie
+		Zip tie
+		Zip tie fixture	Options
+	Cable gland
+		Cable gland
+		Cable gland options
+	Cable Bushing	Clip	Sticker
+		Cable bushing
+		Cable clip
+		Cable sticker
+	Screw	Spacer
+		Screw	Spacer
+	Cable accessories
+		Cable accessories
+	Tube
+		General purpose tube
+		Heat Shrink Tube
+		Braided tube
+		Spiral tube
+		Sheet-type tube
+		Tube Options
+	Protection tube
+		Resin Tube
+		Metal tube
+		Resin tube options
+		Metal tube options
+	Duct	Wiring
+		Duct
+		Wiring
+		Wiring options
+		Duct options
+	General purpose tool
+		Crimping tool	Pressure welding tool
+		Cutting tool
+		Wire peeler tool
+		Screwdriver (for wiring connections)
+		Tweezers	Wrench
+		Binding tool
+		General purpose tool (option, other)
+	Dedicated tools
+		Connector dedicated tool
+		Terminal extraction tool
+		Dedicated tool (option, other)
+	Soldering supplies
+		Soldering Iron
+		Soldering iron holder
+		Solder Wire
+		Solder absorbing wire	absorber
+	Personal computer	AV cable
+		USB cable
+			USB cable
+			USB adapter
+		Display cable
+			Display cable
+		AV cable
+			AV cable
+		Printer cable
+			Printer cable
+		PS	2 Standard cable
+			PS	2 Standard cable
+		SCSI Cable
+			SCSI Cable
+		Antenna cable
+			Antenna cable
+	LAN	Network cable
+		LAN Cable
+			LAN Cable
+			LAN Bulk Cable
+		LAN Connector
+			LAN Connector
+		LAN Cable	Connector Options
+			LAN Pressure welding tool
+			LAN Cable (option, other)
+		LAN Adapter
+			LAN Adapter
+		Telephone line (RJ11)
+			Telephone line (RJ11)
+			Telephone line (RJ11) connector
+			Telephone line (RJ11) tool
+			Telephone line (RJ11) Other options
+		Optic fiber cable
+	Cable with connector
+		Cable with square connector
+		Conversion	Branching cable
+		Cable with coaxial connector
+		Cable with round connector
+		Cable with nylon connector
+	RS232C Cable
+		RS232C Cable
+Electrical & Controls
+	Control
+		Switches
+			Pushbutton
+			Emergency Stop Safety Switch
+			Select Switch
+			Rocker Switch
+			Toggle Switch
+			Switch Unit
+			Foot Switches
+			Switches (Options, Others)
+		Small Indicator Lights
+			Small Indicator Lamp
+		Stack Lights
+			Stack Lights
+			Stack Lights (Options, Others)
+		Display Lights
+			Display Lights
+		Alarms	Buzzers
+			Alarms	Buzzers
+			Alarms	Buzzers (Options, Others)
+		Meters
+			Analog Meter
+		Controllers
+	PC Parts
+		Extension Boards
+			Extension Boards
+		Chassis
+			Chassis
+		PC Power Supplies
+			PC Power Supplies
+		HDD	SSD
+			HDD	SSD
+		KVM	Display Extenders
+			KVM	Display Extenders
+	Terminal Block
+		Interface Terminal Base (Bar Terminal Style)
+		Common Terminal Block
+		Block Terminal Base (Round / Y Terminal Style)
+		Block Terminal Base (Bar Terminal Style)
+		Crossing Fittings
+		End Plate
+		Studs
+		Marking Plate / Sheet
+		Insulation Cover
+		Terminal Base (Options / Others)
+	Receiving and Distribution
+		Fuse
+			Glass Tube Fuse
+			Fuse Holder
+		Circuit Protector
+			Circuit Protector
+		Circuit Breaker for Wiring
+			Circuit Breaker for Wiring (Low Capacity)
+		Earth Leakage Circuit Breaker
+			Earth Leakage Circuit Breaker (Low Capacity)
+		Electromagnetic Switch
+			Electromagnetic Switch
+			Magnetic Contactor
+			Thermal Relay
+			Electromagnetic Switch (Options / Others)
+	Power
+		Switching Power Supply
+			Switching Power
+			Switching Power (Options, Others)
+		Noise Filter / Surge Protector
+			Noise Filter
+		AC Adapter
+			AC Adapter
+		Power Tap / Power Cord / Extension Cord
+			Power Cord
+				Multiple Standard Approved Power Cord / Extension Cord
+				Overseas Standard Power Cord
+				Power Cord Accessories
+			Power Tap / Power Cord / Extension Cord (Options / Others)
+				Power Tap / Power Cord / Extension Cord (Options / Others)
+			Extension Cords
+				Extension Cords
+			Power Taps
+				Overseas Standard Power Taps
+		AC Receptacle / Inlets
+			AC Receptacle / Inlets
+			AC Receptacle / Inlets (Options / Others)
+		SPD Arrester (Lightning Arresters)
+			SPD Arrester (Lightning Arresters)
+		Ferrite Core
+			Ferrite Core
+	Communication
+		Data Converters
+			Data Converters
+	Board	Cabinet parts
+		Board	Cabinet	Box
+			Control box
+			Relay box
+			Aluminum	Plastic box
+			Switch box
+			Terminal block box
+		Board parts
+			DIN rail, dedicated bracket
+			Ground	Copper bar
+			Drawing holder
+			Insulating support
+			Board cable clamp
+			Earth leakage breaker mounting base
+			Interior parts
+			Board handle
+			Louver
+			Window frame
+			Packing
+			Exterior parts
+			Line tape	Conductivity tape
+			Mounting bracket
+			Board Trestle	Stand	Mounting Pole
+			Installation parts
+			Maintenance parts
+			Board heater	Heat sink
+		LED lights
+			LED lights
+			Lighting (option, other)
+		Fan
+			Fan
+			Fan (option, other)
+		Display parts
+			Warning label
+	Inspection / Measurement
+		Test Terminal
+			Alligator / Electrical Clip
+		Analog USB Camera
+			Camera
+	Parts for Board
+		Switch for Board
+			Slide Switches
+			Dip Switches
+			Toggle Switch (for Substrate)
+			Rotary Cord Switch
+			Tact Switch
+			Rocker Switch (For Substrate)
+			Push Button Switch
+		Substrate Accessories
+			Jumper Pin
+			Terminal Block for Substrate
+	Electric Facility Materials
+		Display Lights
+			Display Lights
+			Display Lights (Options, Others)
+Cutting Tools
+	Carbide End Mill
+		Carbide Square End Mill
+			Square End Mill (Carbide)
+			Multi-function Square End Mill (Carbide)
+			High Helical End Mill (Carbide)
+			Roughing End Mill (Carbide)
+			Long Neck Square End Mill (Carbide)
+		Carbide Ball End Mill
+			Carbide Ball End Mill
+			Long Neck Ball End Mill (Carbide)
+		Carbide Radius End Mill
+			Carbide Radius End Mill
+			Long Neck Radius End Mill (Carbide)
+		Carbide Taper End Mill
+			Taper Square End Mill (Carbide)
+			Carbide Taper Ball End Mill
+			Taper Radius End Mill (Carbide)
+	HSS End Mill
+		HSS Square End Mill
+			Square End Mill (HSS)
+			Roughing End Mill (HSS)
+			High Helical End Mill (HSS)
+		HSS Ball End Mill
+		HSS Radius End Mill
+	Milling Cutter Insert / Holder
+		Cutter / Indexable End Mill
+		Insert (for Milling)
+	Customized Straight Blade End Mill
+		Ram Ball (Customized Straight Blade Size)
+		Radius (Customized Straight Blade Size)
+		V Groove / Chamfer (Customized Straight Blade Size)
+		Carbide Blank
+	Dedicated Cutter
+		For O-ring Groove
+		For Countersinking
+		T-Slot
+		Molding Blank
+	Turning Tool
+		Chip (for Turning)
+	Drill
+		Carbide Drill
+			Straight Shank, End Mill Shank Drill (Carbide)
+			Step Drill (Carbide)
+		HSS Drill
+			Straight Shank, End Mill Shank Drill (HSS)
+			Taper Shank Drill (HSS)
+	Screw Hole Related Tools
+		Hand Tap
+		Spiral Tap
+		Point Tap
+		Roll Tap
+		Threading Cutter
+		Tap Wrench
+	Reamer
+		Carbide Reamer
+			Straight Reamer (Carbide)
+			Spiral Reamer (Carbide)
+		HSS Reamer
+			Straight Reamer (HSS)
+			Spiral Reamer (HSS)
+	Chamfering, Centering Tool
+		Centering / Countersink
+		Chamfering, V Groove
+	Step Drill
+Processing Tools
+	Machine Tool
+		Jig
+			Hand Tightening Jig
+				Clamping Parts (for Hand Tightening)
+				Clamp Unit (for Hand Tightening)
+			Screws, Accessories
+				Clamping Parts (Screw Accessories)
+			Lathe Jig
+			Vise
+				Clamp
+				Precision Machine Vise
+	Measurement Tools / Measurement Equipment
+		Gauge
+			Thickness Gauge
+		Speed Square
+	Electric Discharge Tool
+		Wire Electrode Line
+		Wire Cut Filter
+		Sinker Electrical Discharge Filter
+		Electric Discharge Jig
+	Grinding and Polishing Supplies
+		DIA / CBN Grinding Wheel
+		Flat Grinding Wheel
+		Grinding stone dresser
+		Disk
+		Sheet Polishing Material
+		Belt Polishing Material
+		Grinding Stone with Shaft
+		DIA / CBN Bar
+		Wheel with Shaft
+		Stick Grinding Stone
+		File
+		Deburring Tool
+		Abrasive for Grinder
+	Manual Tools
+		Wrench / Box Wrench / Ratchet Wrench
+		Engraver / Punch
+Safety Products
+	Safety / Protection Supplies
+		Gloves
+			Cotton Work Gloves
+			Leather Gloves
+			Non-slip Gloves
+		Safety Glasses / Disaster Prevention
+			Safety Glasses
+			Disaster Prevention
+		Earplugs / Earmuffs
+		Helmet / Related Goods
+			Helmet
+			Helmet Related Goods
+		Rain Gear
+		Protective Equipment
+			Supporter
+		Disaster Prevention / Crime Prevention Supplies
+			Evacuation Supplies
+	Construction Supplies
+		Safety Products
+			Safety Vest
+Press Die Components
+	Punches & Dies
+		Punches
+			Punches
+			Key Flat Shank Punches
+			Tapped Punches
+			Punches With Key Grooves
+			Flange Stopper Punches
+			Straight Punches
+			Blanking Punches
+			Punches With Locating Dowel Holes
+			Punches For Heavy Load
+			Straight Punches For Heavy Load
+			Punches For Heavy Load, With Dowel Holes
+			Tapered Head Punches
+			Punch Blanks
+			Components for Punches
+				Jector Pin Sets
+				Punch Holders
+				Punch Spacers And Shims
+				Fixing Keys For Punches With Key Grooves
+				Key Flats
+				Spare Punch Boxes
+		Pilot Punches
+			Pilot Punches
+			Flange Stopper Pilot Punches
+			Tapped Pilot Punches
+			Pilot Punches With Key Grooves
+			Straight Pilot Punches
+			Tapped Straight Pilot Punches
+			Straight Pilot Punches With Key Grooves
+			Pilot Punches With Locating Dowel Holes
+			Pilot Punches For Fixing To Stripper Plates
+			Straight Pilot Punches for Stripper Plates
+			Pilot Punches, Movable Type
+			Pilot Ejector Bushings
+		Punch Guide Bushings
+			Punch Guide Bushings
+		Button Dies
+			Button Dies
+			Scrap Retention Button Dies
+			Scrap Retention Reverse Tapered Dies
+			Non-Clogging Button Dies
+			Button Die Blanks
+			Scrapping Components
+				Scrap Vacuum Units
+				Product Shooters
+				Scrap Removers
+			Spacers, Collars For Button Dies
+				Spacers For Button Dies
+				Collars For Headed Button Dies
+		Block Punches
+			Block Punches
+			Block Punches For Heavy Load
+			Straight Block Punches
+			Block Punch Blanks
+			Flange Holders
+		Block Dies
+			Block Dies
+			Scrap Retention Block Dies
+			Block Die Blanks
+		Carbide Punches
+			Carbide Punches
+			Key Flat Shank Carbide Punches
+			Carbide Punches With Taps
+			Carbide Punches With Key Grooves
+			Carbide Straight Punches
+		Carbide Pilot Punches
+			Carbide Pilot Punches
+			Carbide Straight Pilot Punches
+			Carbide Pilot Punches For Fixing To Stripper Plates
+			Carbide Straight Pilot Punches For Fixing To Stripper Plates
+			Movable Carbide Pilot Punches
+		Carbide Button Dies
+			Carbide Button Dies
+			Scrap Retention Carbide Button Dies
+			Non-Clogging Carbide Button Dies
+			Carbide Button Die Blanks
+		Carbide Block Punches
+			Carbide Block Punches
+			Carbide Straight Block Punches
+			Carbide Block Punch Blanks
+		Carbide Block Dies
+			Carbide Block Dies
+			Scrap Retention Carbide Block Dies
+			Carbide Block Die Blanks
+		Precision Punches & Dies
+			Precision Punches
+			Precision Carbide Block Punches
+			Precision Carbide Straight Punches
+			Precision Carbide Pilot Punches
+			Precision Button Dies
+			Precision Non-Clogging Carbide Button Dies
+			Precision Scrap Retention Carbide Button Dies
+		Misfeed Sensor Units
+			Contact Type Misfeed Sensors
+			Misfeed Sensor Units
+			Brackets For Sensors
+		Punches and  Dies for Forming
+			Burring Punches
+			Burring Die Units
+			Embossing Punches
+			Chamfering Punches
+			Drawing Punches (30 Shapes)
+			Drawing Dies (10 Shapes)
+			Bending And Chamfering Punches & Dies (16 Shapes)
+			Bending Dies
+			Rib Punches
+			Engraving Punches
+			Engraving Punch Holder Set
+			Die Check Buttons
+			Components For Punches & Dies For Forming
+				Engraving Punch Shims
+				Camber Correction Height Adjustment Units
+				General Purpose Scrap Cutters
+		Special Shaped Punches and Dies
+			Special Shaped Punches
+			Special Shaped Ball-Lock Punches
+			Special Shaped Block Punches
+			Special Shaped Straight Punches
+			Special Shaped Punch Guide Bushings
+			Special Shaped Button Dies
+			Special Shaped Block Dies
+		Retainers
+			Retainers
+			Select Retainer Sets
+			Special Retainers
+			Urethane Strippers
+			Strippers For Cams
+		Ball-lock Punches, Dies and Retainers
+			Ball-Lock Punches
+			Ball-Lock Button Dies
+			Ball-Lock Retainers
+	Guide Components
+		Stripper Guide Pins and Bushings
+			Stripper Guide Pins
+			Stripper Guide Bushings
+			Stripper Guide Pins - Tolerance Range 3MIC -
+			Stripper Guide Bushings - Tolerance Range 3MIC -
+			Stripper Guide Pins - Tolerance Range 2MIC -
+			Stripper Guide Bushings - Tolerance Range 2MIC -
+			Roller Stripper Guides
+			Components For Stripper Guide Pins & Bushings
+				Fixed-Type Stopper For High-Rigidity Stripper Guide Pins
+				Clamps For Stripper Guide Pins
+				Ball Cages
+				Springs For Ball Cages
+				Fixed-Type Stopper For Roller Guide Posts
+		Guide Posts and Bushings for Die Sets
+			Roller Guide Post Sets For Die Sets
+			Ball Guide Post Sets For Die Sets
+			Plain Guide Post Sets For Die Sets
+			Guide Posts For Die Sets
+			Ball Guide Bushings For Die Sets
+			Plain Guide Bushings For Die Sets
+			Components For Guide Posts & Bushings For Die Sets
+				Roller Guide Retainers
+				Roller Guide Post Springs
+				Rings For Preventing Cage Lifting
+				Roller Guide Post Stoppers
+				Springs For Ball Guide Bushings For Lower Die Sets
+				Stoppers For Ball Guide
+				Springs For Ball Guide
+				Rings For Preventing Cage Lifting - For Ball Guide -
+				Shanks For Die Sets
+		Holder Guide Post Sets
+			Plain Guide Post Sets
+			Ball Guide Post Sets
+			Guide Post Sets
+			Guide Holders
+			Guide Bushings
+			Guide Posts
+			Components For Holder Guide Post Sets
+				Ball Cages For Die Sets
+				Stoppers For Ball Guide Post Set
+				Washers For Preventing Dowel Pin Fall-Out
+				Springs For Ball Guide Post Sets
+				Spacers For Holder Guide Post Set
+				Stroke End Blocks
+		Guide Components
+			Guide Posts
+			Guide Bushings
+			Stroke End Blocks
+			Ball Guide Post Sets
+			Distance Guide Rings
+			Heel Guide Plates
+			Keepers, Pad Guides
+		Oil-free Slide Plates
+			Oil-Free Slide Plates
+			Shims For Oil-Free Slide Plates
+	Components	Peripheral Components
+		Components for Guide Lifters
+			Guide Lifters
+			Lifter Pins
+			Stripper Pressure Pins
+			Adjuster Pins, Pressure Pins
+			Knockout Pins
+			Pushing Pins
+			Plungers
+				Spring Plungers
+				Ball Plungers
+				Wrenches For Plungers
+			Material Guides
+				Material Guide Units, Parts
+				Fitting Guides
+		Components
+			Dowel Pins
+				Dowel Pins
+				Components for Dowel Pins
+			Hexagon Socket Head Cap Screws
+			Screw Plugs
+			Magnets
+			Washers
+			Spacers, Shims
+			Stripper Bolts
+			Stroke End Blocks
+			Die Storage Components
+				Name Plates, Seals
+			Die Cooling Components
+		Components for Automobile Dies
+			Spool Retainers
+			Retainer Pins
+			Cushion Pins
+			Plate Lifter Pins
+			Die Clamping And Adjustment Components
+				Distance Plates
+				Shims For Distance Plates
+				Stroke End Blocks
+				Locating Keys
+				Backup Keys
+				Washers For Die Fastening
+				Air Vents For Drawing Dies
+				Hole Repair Screws
+				Angle Stays
+				Scrap Breakers For Cam Pierce Dies
+			Link Components For Hemming Dies
+				Hinge Pins
+				Tension Springs
+		Locating Components for Automobile Dies
+			Panel Input Detectors
+			Nest Guides
+				Nest Guides
+				Rough Guides
+				Nest Guide Blanks
+			Locating Pins
+				Locating Pilot Pins
+				Locating Pins For Arrangement
+			Location Pins
+			Pre-Holding Pins
+			Skid Brackets
+				Square
+				Round
+				With Slide Adjustment Function
+			Drawing-Out Pins
+			Push-Out Pins
+			Limit Unit
+		Conveyance Components for Automobile Dies
+			Material Guides
+			Material Lifters
+			Conveyance Components
+			Piping And Wiring Components
+			Misgripping Sensor Units
+			Junction Boxes With Terminal Blocks
+			Flange Lifters
+			Pushers
+		Cams
+			Under Cam Units
+			Flying Cam Units
+			Cam Upper Plates
+			Cam Side Parts
+			Cam Bottom Parts
+			Cam Center Parts
+			Cam Stroke Plates
+			Cam Pad Guide Parts
+			Cam Positive Return Parts
+			Cam Stoppers
+			Cam Return Units
+		Components for Lifting and Die Storing
+			Lifting Tools
+			Casting Die Storing Components
+				Die Fixing Plates
+				Holding Pipes For Transport
+				Die Storage Bushings
+				Urethane Stock Blocks
+				Urethane Absorbers, Urethane Pads
+		Inspection Jig Components
+			Limit Gauges
+			Pin Gauges
+			Plug Gauges For Checking Fixtures
+			Locating Bars For Tapping Positions
+			Shim Plates For Inspection Jigs
+		Hemming Components
+		NAAMS
+			NAAMS Accessory
+	Springs
+		Coil Springs
+			Round Wire Springs
+			Coil Springs
+			Spring-Related Components
+		Gas Springs
+			Gas Springs
+			Components For Gas Spring
+		Urethane Springs
+			Urethane Springs
+			Urethane Springs - Square Type -
+			Urethane Sheets
+Plastic Mold Components
+	Ejector Pins
+		Straight Ejector Pins
+			No Tip Processing
+			Ejector Pins With Tip Process
+			With Engraving
+			Gas Release
+		Stepped Ejector Pins
+			One-Step
+			Two-Steps
+			Gas Release
+			With Engraving
+		Free Flange-Position Ejector Pins
+			Straight
+			Stepped
+			Blade
+		Pusher Pins
+		Ejector Blades
+			No Tip Processing
+			Gas Release
+			Ejector Pins With Tip Process
+			D Type
+			Rectangular Shank
+			With Engraving
+		Air-jet Valves
+			Air-Jet Valves
+			Air-Jet Valve Accessories
+		Pins for Ejector Block
+	Sleeves, Center Pins
+		Straight Ejector Sleeves
+			Ejector Sleeves
+			One-Step Center Pin Sets
+		Stepped Ejector Sleeves
+			Ejector Sleeves
+			One-Step Center Pin Sets
+		Straight Center Pins
+		Taperless Center Pins
+		Stepped Center Pins
+			One-Step
+			Two-Steps
+	Core Pins
+		Straight Core Pins
+			Without Tip Processing
+			Ejector Pins With Tip Process
+			Gas Release
+			With Engraving
+		Steps-type Round Core Pins
+			One-Step
+			Two-Steps
+			Gas Release
+		Taperless Core Pins
+			One-Step
+			Two-Steps
+			Gas Release
+		For Boss, Round Shank, Inlay Core Pins
+			Inlay Core Pins
+			Inlay Bushings
+			Round Core Pins For Boss
+			Straight Core Sleeves
+			Round Shank, Tip Processed Core Pins
+			Large-Diameter Core Pins
+	Sprue bushings, Gates, and other components
+		Pin Point Gate Bushings
+			Steel Pin Gate
+			Carbide Pin Gate
+			Electroformed Pin Gate
+		Pin Gate Extension Bushings
+		Rolling Gate Cut Unit
+		Components of Runner
+			Runner Lock
+			Runner Ejector Sets
+			Runner Change Pins
+			Flow Rate Adjustment Pin
+		Electrodes
+		Sprue Bushings
+			Steel Sprue
+			Electroformed Sprue
+			Sprue-Related Components
+		Locating Rings
+	Date Mark Inserts, Recycle Mark Inserts, Pins with Gas Vent
+		Gas Release Unit
+		Cavity Inserts for Gas Release
+		Date Mark Inserts
+			Pl Exchange Type
+			Plate Side Exchange Type
+			Double Ring Type
+			L Adjustable Type
+		Recycle Mark Inserts
+	Undercut, Plates
+		Angled Pins
+			Angled Pins
+			Angled Pins Components
+			Angled Cams
+		Locking Blocks
+		Guide Rails, Center Rails
+			Steel Guide Rail
+			Plate Guide Rails
+			Slide Plates
+		Slide Cores, Loose Cores
+			Slide Cores
+			Slide Components
+			Mini Slide Core Units
+			Loose Cores
+		Block Core Pins, Cavity Inserts
+			Hardened Plates For Core
+			Block Core Pins
+			Cavity Insert Blocks
+			Cavity Insert Wedges
+	Leader Components, Components for Ejector Space
+		Components for Ejector Space
+			Ejector Leader Pins
+			Ejector Leader Bushings
+			Components For Ejector Space
+			Support Pillars
+			Plate Return Detection Switch
+			Return Pins
+			Early Return Unit
+		Leader Components
+			Leader Pins
+			Guide For Rubber Type
+			Support Pins
+			Support Pin Collars
+			Leader Bushings
+			Oil-Free Leader Bushings
+			Stopper Plates For Guide Bushings For Middle & Large Mold
+		Components for Positioning
+			Straight Pin Sets
+			Positioning Pins
+			Straight Block Sets
+			Tapered Leader Pin Sets
+			Tapered Pin Spacer
+			Tapered Interlocks
+			Tapered Block Sets
+			Side Cotter Blocks
+	Mold Opening Controllers
+		Stop Bolts, Puller Bolts
+		Parting Lock Sets
+			Resin Sleeve Type
+			Side Mounting Type
+			Roller Side InterLock Sets
+			Magnetic Lock Sets
+		Tension Links
+			Tension Links
+			Special Bolts For Tension Link
+			Tension Chains
+			Tension Chain Holders
+		Mold Opening Components
+		Mold Opening Prevention Plates
+	Cooling or Heating  Components
+		Heating Items
+			Cartridge Heaters
+			Thermocouples
+			Heating Items
+			Thermometers
+		Heat Insulation Sheets
+			Without Hole Boring
+			With Hole Boring
+		Couplers, Plugs, One-touch Joints
+			Sockets
+			Plugs
+			Nipples
+			Joints
+		Tubes, Hoses, Peripheral Components
+			Hose, Tube
+			Hose-Specific Plugs
+			Hose Peripheral Components
+			Cooling Joint Plugs
+		Inside of Mold Cooling Components
+			Baffle Boards
+			O-Rings
+			Heat Transaction Pipes
+			Cooling Pipes
+			Cooling Circuit
+			Cooling Circuit Plugs
+			Accessories For Cooling
+	Accessories, Others
+		Coil Springs
+			Gate Cut Spring
+			Heat-Resistant Coil Springs
+		Spring Guide Pins
+			Spring Guide Pins
+		Gas Springs
+			Gas Springs
+		Screws, Washers
+			Screw Plugs
+			Spacers, Washers
+			Bolt
+		Lifting Eye Bolts
+		Lifting Bars for Mold
+		Dowel Pins
+		Magnets
+		Others
+	Components for Molding
+		Hoses for Molding, Joints
+			Sockets, Plugs, Joints
+	Components of Large Mold, Die Casting
+		Die Casting
+			Cooling Units
+			Ejector Pins For Die Cast
+			Ejector Sleeves For Die Cast
+			Die Cast Core Pins
+			Burr Cutting Pins
+			Date Mark Inserts For Die Cast
+		Components for Large Mold or Hot Runners
