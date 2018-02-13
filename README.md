@@ -61,6 +61,6 @@ General Information
 
 
 
-# Electronics
+# References
 
-## [Engineering Reference](http://www.chip1stop.com/web/SGP/en/tutorialsTop.do#001)
+- [Engineering Reference](http://www.chip1stop.com/web/SGP/en/tutorialsTop.do#001) Great quick reference for basic electronics
