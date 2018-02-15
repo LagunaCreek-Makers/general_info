@@ -60,3 +60,7 @@ General Information
 - [Hackster.io](https://www.hackster.io/)
 
 
+
+# References
+
+- [Engineering Reference](http://www.chip1stop.com/web/SGP/en/tutorialsTop.do#001) Great quick reference for basic electronics
