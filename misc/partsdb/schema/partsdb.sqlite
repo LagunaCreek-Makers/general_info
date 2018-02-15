@@ -1,0 +1,193 @@
+PRAGMA synchronous = OFF;
+PRAGMA journal_mode = MEMORY;
+BEGIN TRANSACTION;
+
+CREATE TABLE IF NOT EXISTS `asset_type` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `type` TEXT NOT NULL,
+  `description` TEXT NULL DEFAULT NULL
+);
+
+CREATE TABLE IF NOT EXISTS `category` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `category` TEXT NOT NULL,
+  `parent_id` INTEGER NULL DEFAULT NULL
+);
+
+CREATE TABLE IF NOT EXISTS `manufacturer` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `manufacturer` TEXT NOT NULL,
+  `homepage_url` TEXT NULL DEFAULT NULL);
+
+CREATE TABLE IF NOT EXISTS `package_classification` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `classification` TEXT NOT NULL,
+  `description` TEXT NULL DEFAULT NULL
+);
+
+CREATE TABLE IF NOT EXISTS `packaging` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `packaging` TEXT NOT NULL,
+  `classification_id` INTEGER NOT NULL,
+  `description` TEXT NULL DEFAULT NULL,
+  `num_pins` INTEGER NULL DEFAULT NULL,
+  CONSTRAINT `packaging_UNIQUE` UNIQUE (`packaging`),
+  CONSTRAINT `fk_packaging_classification_id`
+    FOREIGN KEY (`classification_id`) 
+    REFERENCES `package_classification` (`id`)
+);
+
+CREATE TABLE IF NOT EXISTS `storage_location` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `storage_location` TEXT NOT NULL,
+  `comment` TEXT NULL DEFAULT NULL
+);
+
+CREATE TABLE IF NOT EXISTS `supplier` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `name` TEXT NOT NULL,
+  `url` TEXT NULL DEFAULT NULL
+);
+
+CREATE TABLE IF NOT EXISTS `part` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `category_id` INTEGER NOT NULL,
+  `mpn` TEXT NOT NULL,
+  `manufacturer_id` INTEGER NOT NULL,
+  `description` TEXT NULL DEFAULT NULL,
+  `short_description` TEXT NULL DEFAULT NULL,
+  `storage_id` INTEGER NOT NULL,
+  `comments` TEXT NULL DEFAULT NULL,
+  `packaging_id` INTEGER NULL DEFAULT NULL,
+  `stock_level` INTEGER NULL DEFAULT NULL,
+  `supplier_id` INTEGER NULL DEFAULT NULL,
+  `price` REAL NULL DEFAULT NULL,
+  `entry_created` NUMERIC NULL DEFAULT CURRENT_TIMESTAMP,
+  `entry_modified` NUMERIC NULL DEFAULT CURRENT_TIMESTAMP, 
+  CONSTRAINT `fk_part_category_id`
+    FOREIGN KEY (`category_id`)
+    REFERENCES `category` (`id`)
+  CONSTRAINT `fk_part_manufacturer_id`
+    FOREIGN KEY (`manufacturer_id`)
+    REFERENCES `manufacturer` (`id`)
+  CONSTRAINT `fk_part_packaging_id`
+    FOREIGN KEY (`packaging_id`)
+    REFERENCES `packaging` (`id`)
+  CONSTRAINT `fk_part_storage_id`
+    FOREIGN KEY (`storage_id`)
+    REFERENCES `storage_location` (`id`)
+  CONSTRAINT `fk_part_supplier_id`
+    FOREIGN KEY (`supplier_id`)
+    REFERENCES `supplier` (`id`)
+);
+
+CREATE TABLE IF NOT EXISTS `part_asset` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `title` TEXT NULL DEFAULT NULL,
+  `description` TEXT NULL DEFAULT NULL,
+  `asset_type_id` INTEGER NOT NULL,
+  `part_id` INTEGER NOT NULL,
+  `asset` BLOB NOT NULL,
+  `metadata` TEXT NULL DEFAULT NULL,
+  `comment` TEXT NULL DEFAULT NULL,
+  `attribution` TEXT NULL DEFAULT NULL,
+  `url` TEXT NULL DEFAULT NULL,
+  `source` TEXT NULL DEFAULT NULL,
+  `subtype` TEXT NULL DEFAULT NULL,
+  `size` INTEGER NULL DEFAULT NULL,
+  `md5` TEXT NULL DEFAULT NULL,
+  `entry_created` NUMERIC NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `entry_modified` NUMERIC NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT `fk_asset_asset_type_id`
+    FOREIGN KEY (`asset_type_id`)
+    REFERENCES `asset_type` (`id`)
+  CONSTRAINT `fk_asset_part_id`
+    FOREIGN KEY (`part_id`)
+    REFERENCES `part` (`id`)
+  CONSTRAINT `md5_UNIQUE` UNIQUE (`md5`)
+);
+
+
+CREATE TABLE IF NOT EXISTS `category_asset` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `asset` BLOB NOT NULL,
+  `metadata` TEXT NULL DEFAULT NULL,
+  `asset_type_id` INTEGER NOT NULL,
+  `category_id` INTEGER NOT NULL,
+  `filename` TEXT NOT NULL,
+  `size` INTEGER NOT NULL,
+  `md5` TEXT NOT NULL,
+  `entry_created` NUMERIC NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `entry_modified` NUMERIC NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT `fk_category_asset_type_id`
+    FOREIGN KEY (`asset_type_id`)
+    REFERENCES `asset_type` (`id`)
+  CONSTRAINT `fk_category_asset_category_id`
+    FOREIGN KEY (`category_id`)
+    REFERENCES `category` (`id`)
+  CONSTRAINT `md5_UNIQUE` UNIQUE (`md5`)
+);
+
+
+CREATE TABLE IF NOT EXISTS `orders` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `order_number` TEXT NULL DEFAULT NULL,
+  `part_id` INTEGER NOT NULL,
+  `supplier_id` INTEGER NOT NULL,
+  `quantity` INTEGER NOT NULL,
+  `price` REAL NOT NULL,
+  `order_asset_id` INT NULL DEFAULT NULL,
+  `comment` TEXT NOT NULL,
+  `entry_created` NUMERIC NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT `fk_orders_part_id`
+    FOREIGN KEY (`part_id`)
+    REFERENCES `part` (`id`)
+  CONSTRAINT `fk_orders_supplier`
+    FOREIGN KEY (`supplier_id`)
+    REFERENCES `supplier` (`id`)
+  CONSTRAINT `fk_order_order_asset_id`
+    FOREIGN KEY (`order_asset_id`)
+    REFERENCES `order_asset` (`id`)
+);
+
+
+CREATE TABLE IF NOT EXISTS `order_asset`(
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `asset` MEDIUMBLOB NOT NULL,
+  `metadata` TEXT NULL DEFAULT NULL,
+  `asset_type_id` INTEGER NOT NULL,
+  `order_number` TEXT NOT NULL,
+  `filename` TEXT NOT NULL,
+  `size` INTEGER NOT NULL,
+  `md5` TEXT NOT NULL,
+  `entry_created` NUMERIC NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `entry_modified` NUMERIC NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT `md5_UNIQUE` UNIQUE  (`md5`),
+  CONSTRAINT `fk_order_asset_asset_id`
+    FOREIGN KEY (`asset_type_id`)
+    REFERENCES `asset_type` (`id`)
+);
+
+
+CREATE TABLE IF NOT EXISTS `unit_of_measurement` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `name` TEXT NOT NULL,
+  `abbreviation` TEXT NULL DEFAULT NULL,
+  `symbol` TEXT NULL DEFAULT NULL
+);
+
+CREATE TABLE IF NOT EXISTS `part_parameter` (
+  `id` INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  `part_id` INTEGER NOT NULL,
+  `parameter` TEXT NOT NULL,
+  `value` TEXT NOT NULL,
+  `min` TEXT NULL DEFAULT NULL,
+  `max` TEXT NULL DEFAULT NULL,
+  `unit_id` INTEGER NULL DEFAULT NULL,
+  CONSTRAINT `fk_part_parameter_part_id`
+    FOREIGN KEY (`part_id`)
+    REFERENCES `part` (`id`)
+  CONSTRAINT `fk_part_unitofmeasurement_id`
+    FOREIGN KEY (`unit_id`)
+    REFERENCES `unit_of_measurement` (`id`)
+);

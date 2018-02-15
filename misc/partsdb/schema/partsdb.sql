@@ -115,7 +115,7 @@ DEFAULT CHARACTER SET = utf8;
 -- Table `partsdatabase`.`part`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `partsdatabase`.`part` (
-  `id` INT(11) NOT NULL,
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
   `category_id` INT(11) NOT NULL,
   `mpn` VARCHAR(45) NOT NULL,
   `manufacturer_id` INT(11) NOT NULL,
@@ -165,28 +165,30 @@ DEFAULT CHARACTER SET = utf8;
 
 
 -- -----------------------------------------------------
--- Table `partsdatabase`.`asset`
+-- Table `partsdatabase`.`part_asset`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `partsdatabase`.`asset` (
+CREATE TABLE IF NOT EXISTS `partsdatabase`.`part_asset` (
   `id` INT(11) NOT NULL AUTO_INCREMENT,
   `title` VARCHAR(45) NULL DEFAULT NULL,
   `description` TEXT NULL DEFAULT NULL,
   `asset_type_id` INT(11) NOT NULL,
   `part_id` INT(11) NOT NULL,
-  `asset` MEDIUMBLOB NOT NULL,
+  `asset` MEDIUMBLOB NULL DEFAULT NULL,
   `metadata` TEXT NULL DEFAULT NULL,
   `comment` TEXT NULL DEFAULT NULL,
   `attribution` TEXT NULL DEFAULT NULL,
   `url` VARCHAR(255) NULL DEFAULT NULL,
   `source` VARCHAR(255) NULL DEFAULT NULL,
   `subtype` VARCHAR(255) NULL DEFAULT NULL,
-  `size` INT(11) NULL DEFAULT NULL,
-  `md5` VARCHAR(16) NULL DEFAULT NULL,
+  `filename` VARCHAR(255) NOT NULL,
+  `size` INT(11) NOT NULL,
+  `md5` VARCHAR(16) NOT NULL,
   `entry_created` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `entry_modified` DATETIME NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  PRIMARY KEY (`id`, `entry_created`),
+  `entry_modified` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
   INDEX `fk_asset_part_id_idx` (`part_id` ASC),
   INDEX `fk_asset_asset_type_id_idx` (`asset_type_id` ASC),
+  UNIQUE INDEX `md5_UNIQUE` (`md5` ASC),
   CONSTRAINT `fk_asset_asset_type_id`
     FOREIGN KEY (`asset_type_id`)
     REFERENCES `partsdatabase`.`asset_type` (`id`)
@@ -210,15 +212,47 @@ CREATE TABLE IF NOT EXISTS `partsdatabase`.`category_asset` (
   `metadata` TEXT NULL DEFAULT NULL,
   `asset_type_id` INT(11) NOT NULL,
   `category_id` INT(11) NOT NULL,
+  `filename` VARCHAR(255) NOT NULL,
+  `size` INT NOT NULL,
+  `md5` VARCHAR(16) NOT NULL,
+  `entry_created` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `entry_modified` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`id`),
-  INDEX `fk_category_asset_category_id_idx` (`category_id` ASC),
   INDEX `fk_category_asset_type_id_idx` (`asset_type_id` ASC),
+  UNIQUE INDEX `md5_UNIQUE` (`md5` ASC),
+  INDEX `fk_category_asset_category_id_idx` (`category_id` ASC),
+  CONSTRAINT `fk_category_asset_type_id`
+    FOREIGN KEY (`asset_type_id`)
+    REFERENCES `partsdatabase`.`asset_type` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
   CONSTRAINT `fk_category_asset_category_id`
     FOREIGN KEY (`category_id`)
     REFERENCES `partsdatabase`.`category` (`id`)
     ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
-  CONSTRAINT `fk_category_asset_type_id`
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8;
+
+
+-- -----------------------------------------------------
+-- Table `partsdatabase`.`order_asset`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `partsdatabase`.`order_asset` (
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
+  `asset` MEDIUMBLOB NOT NULL,
+  `metadata` TEXT NULL DEFAULT NULL,
+  `asset_type_id` INT(11) NOT NULL,
+  `order_number` VARCHAR(45) NOT NULL,
+  `filename` VARCHAR(255) NOT NULL,
+  `size` INT NOT NULL,
+  `md5` VARCHAR(16) NOT NULL,
+  `entry_created` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `entry_modified` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  UNIQUE INDEX `md5_UNIQUE` (`md5` ASC),
+  INDEX `fk_order_asset_asset_id_idx` (`asset_type_id` ASC),
+  CONSTRAINT `fk_order_asset_asset_id`
     FOREIGN KEY (`asset_type_id`)
     REFERENCES `partsdatabase`.`asset_type` (`id`)
     ON DELETE NO ACTION
@@ -231,17 +265,19 @@ DEFAULT CHARACTER SET = utf8;
 -- Table `partsdatabase`.`orders`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `partsdatabase`.`orders` (
-  `id` INT(11) NOT NULL,
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
   `order_number` VARCHAR(45) NULL DEFAULT NULL,
   `part_id` INT(11) NOT NULL,
   `supplier_id` INT(11) NOT NULL,
   `quantity` INT(11) NOT NULL,
   `price` FLOAT NULL DEFAULT NULL,
+  `order_asset_id` INT NULL,
   `comment` TEXT NULL DEFAULT NULL,
   `entry_created` DATETIME NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (`id`),
   INDEX `fk_orders_part_id_idx` (`part_id` ASC),
   INDEX `fk_orders_supplier_idx` (`supplier_id` ASC),
+  INDEX `fk_order_order_asset_id_idx` (`order_asset_id` ASC),
   CONSTRAINT `fk_orders_part_id`
     FOREIGN KEY (`part_id`)
     REFERENCES `partsdatabase`.`part` (`id`)
@@ -250,6 +286,11 @@ CREATE TABLE IF NOT EXISTS `partsdatabase`.`orders` (
   CONSTRAINT `fk_orders_supplier`
     FOREIGN KEY (`supplier_id`)
     REFERENCES `partsdatabase`.`supplier` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_order_order_asset_id`
+    FOREIGN KEY (`order_asset_id`)
+    REFERENCES `partsdatabase`.`order_asset` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB
@@ -274,7 +315,7 @@ DEFAULT CHARACTER SET = utf8;
 -- Table `partsdatabase`.`part_parameter`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `partsdatabase`.`part_parameter` (
-  `id` INT(11) NOT NULL,
+  `id` INT(11) NOT NULL AUTO_INCREMENT,
   `part_id` INT(11) NOT NULL,
   `parameter` VARCHAR(45) NOT NULL,
   `value` VARCHAR(45) NOT NULL,
