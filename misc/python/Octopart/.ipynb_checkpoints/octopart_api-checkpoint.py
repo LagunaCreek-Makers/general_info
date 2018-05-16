@@ -16,7 +16,6 @@ class OctopartService:
         self.callback = callback
         self.pretty_print = pretty_print
         self.suppress_status_codes = suppress_status_codes
-        self.save_directory = None
         if include is None:
             self.include = ['short_description',
                             'datasheets',
@@ -340,3 +339,6 @@ class OctopartService:
             return ops.ServerErrorResponse(r.json())
 
         return r.json()
+
+
+##Schemas

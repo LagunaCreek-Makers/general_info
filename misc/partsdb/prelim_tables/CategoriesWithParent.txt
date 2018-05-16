@@ -1,1878 +1,717 @@
-1	Integrated Circuits (ICs)	None
-2	Clock and Timing	1
-3	Clock Buffers, Drivers	2
-4	Clock Generators, PLLs, Frequency Synthesizers	2
-5	Real Time Clocks	2
-6	Timers and Oscillators	2
-7	Data Converter ICs	1
-8	Analog to Digital Converters (ADCs)	7
-9	Digital Potentiometers	7
-10	Digital to Analog Converters (DACs)	7
-11	Touch Screen Controllers	7
-12	Embedded Processors and Controllers	1
-13	CPLDs - Complex Programming Logic Devices	12
-14	DSPs - Digital Signal Processors	12
-15	FPGAs - Field Programmable Gate Arrays	12
-16	Microcontrollers	12
-17	Microprocessors	12
-18	Single Board Computers (SBCs)	12
-19	Interface ICs	1
-20	CODECs	19
-21	Ethernet Interface ICs	19
-22	RS-232 / RS-422 / RS-485 Interface ICs	19
-23	UART Interface ICs	19
-24	USB Interface ICs	19
-25	Linear ICs	1
-26	Amplifiers - Audio	25
-27	Amplifiers - Op Amps, Buffer, Instrumentation	25
-28	Comparators	25
-29	Logic ICs	1
-30	Buffers, Drivers and Transceivers	29
-31	Counters	29
-32	Decoders, Multiplexers	29
-33	Latches and Flip Flops	29
-34	Logic Gates	29
-35	Shift Registers	29
-36	Voltage Level Shifters	29
-37	Memory	1
-38	EEPROM	37
-39	FIFO	37
-40	Flash	37
-41	RAM	37
-42	Power Management ICs	1
-43	Battery Management	42
-44	Gate Drivers	42
-45	Hot Swap Controllers	42
-46	LED Drivers	42
-47	Motor Drivers	42
-48	Voltage References	42
-49	Voltage Regulators - Linear	42
-50	Voltage Regulators - Switching	42
-51	Voltage Supervisors	42
-52	RF Semiconductors and Devices	1
-53	RF Amplifiers	52
-54	RF Antennas	52
-55	RF Mixers	52
-56	RF Receivers, Transceivers	52
-57	Discrete Semiconductors	None
-58	Diodes	57
-59	Rectifier Diodes	58
-60	Schottky Diodes	58
-61	Zener Diodes	58
-62	Thyristors	57
-63	DIACs, SIDACs	62
-64	SCRs	62
-65	TRIACs	62
-66	Transistors	57
-67	BJTs	66
-68	IGBTs	66
-69	JFETs	66
-70	MOSFETs	66
-71	Passive Components	None
-72	Capacitors	71
-73	Aluminum Electrolytic Capacitors	72
-74	Capacitor Arrays	72
-75	Capacitor Kits	72
-76	Ceramic Capacitors	72
-77	Film Capacitors	72
-78	Mica Capacitors	72
-79	Polymer Capacitors	72
-80	Tantalum Capacitors	72
-81	Trimmer / Variable Capacitors	72
-82	Crystals / Oscillators	71
-83	Crystals	82
-84	Oscillators	82
-85	Resonators	82
-86	EMI / RFI Components	71
-87	Common Mode Chokes	86
-88	Ferrite Beads and Chips	86
-89	Inductors	71
-90	Fixed Inductors	89
-91	Inductor Kits	89
-92	Variable Inductors	89
-93	Resistors	71
-94	Chip SMD Resistors	93
-95	Resistor Arrays	93
-96	Resistor Kits	93
-97	Thermistors	93
-98	Through-Hole Resistors	93
-99	Variable Resistors and Potentiometers	93
-100	Wirewound Resistors	93
-101	Transformers	71
-102	Electromechanical	None
-103	Audio Products	102
-104	Buzzers	103
-105	Microphones	103
-106	Speakers	103
-107	Motors and Drives	102
-108	AC, DC and Servo Motors	107
-109	Motor Drives	107
-110	Stepper Motors	107
-111	Relays	102
-112	Power Relays	111
-113	Signal Relays	111
-114	Solid State Relays	111
-115	Time Delay Relays	111
-116	Switches	102
-117	Accessories	116
-118	DIP Switches	116
-119	Encoders	116
-120	Keylock Switches	116
-121	Pushbutton Switches	116
-122	Rocker Switches	116
-123	Rotary Switches	116
-124	Slide Switches	116
-125	Snap Action / Limit Switches	116
-126	Tactile Switches	116
-127	Toggle Switches	116
-128	Thermal Management	102
-129	Fans and Blowers	128
-130	Heat Sinks	128
-131	Connectors	None
-132	Audio / Video Connectors	131
-133	Automotive Connectors	131
-134	Backplane Connectors	131
-135	DIN 41612 Connectors	134
-136	Hard Metric Connectors	134
-137	Board to Board Connectors	131
-138	Card Edge Connectors	131
-139	Circular Connectors	131
-140	D-Sub Connectors	131
-141	FFC / FPC	131
-142	Fiber Optic Connectors	131
-143	Headers and Wire Housings	131
-144	IC and Component Sockets	131
-145	Memory Connectors	131
-146	Modular / Ethernet Connectors	131
-147	Photovoltaic / Solar Connectors	131
-148	Power Connectors	131
-149	RF / Coaxial Connectors	131
-150	Terminal Blocks	131
-151	Terminals	131
-152	USB Connectors	131
-153	Test Equipment	None
-154	Benchtop Power Supplies	153
-155	Function Generators	153
-156	Multimeters	153
-157	Oscilloscopes	153
-158	Spectrum Analyzers	153
-159	Test Probes, Leads and Clips	153
-160	Thermometers	153
-161	Tools and Supplies	None
-162	Anti-Static Control	161
-163	Chemicals	161
-164	Enclosures	161
-165	Flashlights	161
-166	Hand Tools	161
-167	Drills	166
-168	Hammers	166
-169	Heat Guns	166
-170	Knives and Blades	166
-171	Micrometers	166
-172	Pliers and Tweezers	166
-173	Screw and Nut Drivers	166
-174	Wrenches	166
-175	Hardware, Fasteners	161
-176	Anchors	175
-177	Screws and Fasteners	175
-178	Spacers, Standoffs	175
-179	Thread Inserts	175
-180	Washers	175
-181	Prototype Boards and Breadboards	161
-182	Raw Materials	161
-183	Soldering Supplies and Tools	161
-184	Storage Bins	161
-185	Wire Crimpers and Strippers	161
-186	Sensors	None
-187	Current Sensors	186
-188	Flow Sensors	186
-189	Magnetic Sensors	186
-190	Motion Sensors	186
-191	Accelerometers	190
-192	Gyroscopes	190
-193	Inertial Measurement Units (IMUs)	190
-194	Optical Sensors	186
-195	Photodiodes	194
-196	Photoelectric Sensors	194
-197	Phototransistor	194
-198	Pressure Sensors	186
-199	Proximity Sensors	186
-200	Temperature and Humidity Sensors	186
-201	Optoelectronics	None
-202	Displays	201
-203	LCD, OLED, Graphic Displays	202
-204	LED Displays	202
-205	Fiber Optics	201
-206	LEDs	201
-207	Lamps	201
-208	Laser Products	201
-209	Optocouplers	201
-210	Circuit Protection	None
-211	Circuit Breakers	210
-212	ESD and Circuit Protection ICs	210
-213	Fuse Holders	210
-214	Fuses	210
-215	PTC Resettable Fuses	210
-216	TVS Diodes	210
-217	Varistors	210
-218	Power Products	None
-219	Batteries and Accessories	218
-220	DC to AC Inverters	218
-221	Power Supply Modules	218
-222	Board Mount Modules	221
-223	Off-Board Modules	221
-224	Wall Adapters	221
-225	Surge Protectors	218
-226	Uninterruptible Power Supply (UPS)	218
-227	Cables and Wire	None
-228	Audio / Video Cables	227
-229	Bulk Hook-up Wire	227
-230	Bulk Multiple Conductor Cables	227
-231	Coaxial / RF Cable Assemblies	227
-232	D-Sub Cables	227
-233	Ethernet Cables	227
-234	FFC / FPC Cables	227
-235	Fiber Optic Cables	227
-236	Flat Ribbon Cables	227
-237	USB Cables	227
-238	Wire Protection and Management	227
-239	Cable Markers	238
-240	Cable Ties	238
-241	Heat Shrink Tubing	238
-242	Non-Heat Shrink Tubing and Sleeves	238
-243	Wire Ducting	238
-244	Machining	None
-245	Indexable Inserts	244
-246	Milling Inserts	245
-247	Parting and Grooving Inserts	245
-248	Threading Inserts	245
-249	Turning Inserts	245
-250	Indexable Tools	244
-251	Machine Cutting Tools	244
-252	Countersinks and Center Reamers	251
-253	Grooving Tools	251
-254	Jobber Length Drill Bits	251
-255	Routing End Mills	251
-256	Screw Machine Length Drill Bits	251
-257	Solid Boring Bars	251
-258	Taper Length Drill Bits	251
-259	Taps	251
-260	Thread Mills	251
-261	Machine Fluids	244
-262	Machine Tool Accessories	244
-263	Collets	262
-264	Drill Bushings	262
-265	Hand Knobs and Wheels	262
-266	Machinery	244
-267	Industrial Control	None
-268	Hydraulics	267
-269	Panel Meters	267
-270	Pneumatics	267
-271	Programmable Logic Controllers (PLC)	267
-272	Temperature Controllers	267
-273	Automation Components	None
-274	Linear Motion	273
-275	Linear Shafts	274
-276	Shaft Supports	274
-277	Shaft Collars	274
-278	Linear Bushings	274
-279	Ball Guides	274
-280	Spline Shaft	274
-281	Oil Free Bushings, Washers	274
-282	Oil Free Bushings	281
-283	Oil Free Washers	281
-284	Lubrication-Free Material (Round Bars, Pipes)	281
-285	Oil Free Plates, Guide Rails	274
-286	Oil Free Slide Plates	285
-287	Oil Free Guide Rails	285
-288	Standard Guide Rails	285
-289	Linear Guides	274
-290	Standard Linear Guides	289
-291	Linear Guide Accessories	289
-292	Needle Roller Guides	289
-293	Cable Carriers	274
-294	Cable Carrier Peripheral Components	293
-295	Ball Screw	274
-296	Support Units	274
-297	Lead Screws, Slide Screws	274
-298	Lead Screws	297
-299	Nuts for Lead Screws	297
-300	Lead Screw Support Units	297
-301	Slide Screws, Change Nuts	297
-302	Digital Position Indicators	297
-303	Stopper Plates	297
-304	Cross Roller	274
-305	Cross Roller Guides	304
-306	Cross Roller Tables	304
-307	Linear Ball Slides	304
-308	Linear Rails, V Guides, Oil Free Guides Units	274
-309	Linear Rails (Retainer Type)	308
-310	V Guides	308
-311	Linear Rails (Bearing Type)	308
-312	Linear Rails (Ball Roller Type)	308
-313	Lubrication-Free Guide Units	308
-314	Actuators	274
-315	Single Axis Robots	314
-316	Single Axis Actuators	314
-317	Belt Actuators/Drives and Accessories	314
-318	Single Axis Units (KU)	314
-319	Rod Style Actuators	314
-320	Rotary Motion	273
-321	Bearings	320
-322	Ball Bearings	321
-323	Roller Bearings	321
-324	Bearing Accessories	320
-325	Bearing Lock Nuts	324
-326	Bearing Spacers	324
-327	Bearing Shaft Screws	324
-328	Bearing Covers, Seals	324
-329	Shaft End Plates / Caps	324
-330	Bearing Balls	324
-331	Bearing Units	320
-332	Pillow Type	331
-333	Flange Type	331
-334	Other Shapes	331
-335	Bearings with Housings	320
-336	Cam Followers, Roller Followers	320
-337	Rotary Shafts, Drive Shafts	320
-338	Rotary Shafts	337
-339	Drive Shafts	337
-340	Cantilever Shafts	320
-341	Connecting Parts	273
-342	Fulcrum Pins	341
-343	Hinge Pins	341
-344	Hinge Bases, Hinge Plates, Hinge Bolt	341
-345	Links	341
-346	Rod End Bearings, Spherical Bearings	341
-347	Connecting Bars, Link Cables/Wires	341
-348	Rotary Power Transmission	273
-349	Shaft Couplings	348
-350	Flexible Shaft Couplings	349
-351	Rigid Type	349
-352	Universal Joints	349
-353	Chain Couplings	349
-354	Flange Couplings	349
-355	Large Specialty Couplings	349
-356	Keyless Bushing (Fastening Fittings)	348
-357	Timing Belts, Pulleys	348
-358	Timing Belt	357
-359	Timing Pulleys, Idlers	357
-360	Round Belts, Pulleys	348
-361	Round Belts	360
-362	Round Belt Pulleys, Idlers	360
-363	V Belts, Pulleys	348
-364	V Belt Pulleys, Idlers	363
-365	V Belt Pulleys	364
-366	V Belt	363
-367	Chains, Sprockets	348
-368	Chains	367
-369	Roller Chain Sprockets	367
-370	Idlers	367
-371	Chain Guides	367
-372	Chain Bolts, Turnbuckles	367
-373	Roller Chain Installation Equipment	367
-374	Cleaners and Lubricants for Chain	367
-375	Tensioners	348
-376	Tensioners (for Idler Set)	375
-377	Chain Guide Tensioners	375
-378	Auto Tensioners	375
-379	Gears	348
-380	Spur Gears	379
-381	Bevel Gears	379
-382	Helical Gear	379
-383	Worm Gears	379
-384	Rack Gears	379
-385	Ratchet	379
-386	Non-contact magnetic drives	348
-387	Other Belts, Pulleys	348
-388	Other Belts	387
-389	Motors	273
-390	Reducers, Clutches, Brakes	389
-391	Transmissions, Reducers	390
-392	Clutches, Brakes	390
-393	Small AC Motors	389
-394	Gear Motors	389
-395	Other Motor Related Components	389
-396	Servo Motors/Drives	389
-397	Conveyors & Material Handling	273
-398	Belt and Plastic Chain Conveyors	397
-399	Belt Conveyors, Plastic Chain Conveyors	398
-400	Stands for Conveyors	398
-401	Maintenance Parts for Conveyors	398
-402	Belt Support Covers for Conveyor	401
-403	Driving Parts for Conveyor	401
-404	Conveyor Drive Section Covers	401
-405	Aluminum Frames for Conveyor	401
-406	Tensioning Parts for Conveyor	401
-407	Pulley Holders for Conveyor	401
-408	Connecting Parts for Conveyor	401
-409	Accessories for Conveyors	398
-410	Post-Assembly Insertion Nuts for Belt Conveyor	409
-411	Accessories for Belt Top Surface	409
-412	Stands, Brackets, Worktables Accessories for Conveyors	409
-413	Accessories for Conveyor Line Under	409
-414	Accessories for Conveyor Line Entry and Exit	409
-415	Stopper for Conveyor	409
-416	Roller Conveyors	397
-417	Gravity Conveyors	416
-418	Wheel Conveyors	397
-419	Accessories for Conveyor	397
-420	Conveyor Guides	419
-421	Flat Belts, Pulleys	397
-422	Flat Belt	421
-423	Flat Belt Pulleys, Idlers	421
-424	Conveyer Timing Belts	397
-425	Conveyer Chains, Sprockets	397
-426	Chains with Attachments	425
-427	Chains with Rollers	425
-428	Specialty Chains	425
-429	Sprockets for Conveyer Chains	425
-430	Conveyor Chain Accessories	425
-431	Plastic Chains	397
-432	Sprockets for Plastic Chains	431
-433	Idlers for Plastic Chains	431
-434	Rollers	397
-435	Conveyer Rollers	434
-436	Wheels	434
-437	Guide Rollers	434
-438	Pipe Rollers	434
-439	Industrial Brushes	397
-440	Bearings with Resin	397
-441	Ball Rollers	397
-442	Locating, Positioning, Jigs & Fixtures	273
-443	Locating Pins, Bushings	442
-444	Bushings for Fixtures	443
-445	Locating Pins for Jigs and Fixtures	443
-446	Height Adjusting Pins	443
-447	Locating Pins	443
-448	NAAMS Locating Pins	443
-449	NAAMS Pin Retainer	443
-450	Stop Pins, Stopper Blocks	442
-451	Stop Pins, Stopper Bolts	450
-452	Stopper Block	450
-453	Stoppers, Point Pads	450
-454	Adjustment Screws, Blocks	442
-455	Adjustment Screws	454
-456	Clamp Plates	454
-457	Adjusting Bolts	454
-458	Grub Screws	454
-459	Adjusting Blocks and Shims for Welding Fixtures	454
-460	Clamping Screws	454
-461	Stopper Bolts	454
-462	Leveling Screws	454
-463	Blocks for Adjusting Bolts	454
-464	Threaded Stopper Blocks, Brackets	454
-465	NAAMS L-Block	454
-466	NAAMS NC Block	454
-467	Locating and Guide Components	442
-468	Locating Block Sets	467
-469	Guides	467
-470	Rough Guide Pins	467
-471	Rough Guide for Welding Fixtures	467
-472	NAAMS Rough Locators	467
-473	Locating Units	442
-474	Automotive Inspection Components	442
-475	Hinge/Slide Units, Base/Angle Plates for Inspection Jigs	474
-476	Locating Balls	474
-477	Height Adjusting Pins, Shim Plates for Jigs	474
-478	Components for Inspection Jigs	474
-479	L Pin / T Pin for Inspection Jigs	474
-480	Slot Pins for Inspection Jigs	474
-481	Bushings for Inspection Jigs	474
-482	Plungers, Index Plungers	442
-483	Spring Plungers	482
-484	Special Purpose Plungers	482
-485	Ball Lock Pins, Slot Pins	482
-486	Roller Plungers	482
-487	Plunger Accessories	482
-488	Ball Buttons	482
-489	Other Peripheral Components	482
-490	Ball Plungers	482
-491	Indexing Plungers	482
-492	Toggle Clamp	442
-493	Horizontal Hold-Down  Toggle Clamps	492
-494	Vertical Hold-Down Toggle Clamps	492
-495	Push-Pull Toggle Clamps	492
-496	Heavy Duty Welded Toggle Clamps	492
-497	Plier Clamps	492
-498	Pneumatic Clamps	492
-499	Toggle Clamp Accessories	492
-500	Workpiece Clamps	442
-501	Push-Down Clamps	500
-502	Straight Line Action Clamp	500
-503	Slide Pushers	500
-504	NAAMS Components	442
-505	NAAMS Risers	504
-506	NAAMS Shims & Spacers	504
-507	NAAMS Socket Screws	504
-508	NAAMS Hardened Washers	504
-509	NAAMS Pull Dowel Pins	504
-510	NAAMS Nuts	504
-511	NAAMS Leveling Screw Assemblies	504
-512	Inspection	273
-513	Motorized Stages	512
-514	Motorized Stage Accessories	513
-515	Controllers	514
-516	Other Controller Accessories	514
-517	X-Axis	513
-518	Z-Axis	513
-519	XY-Axis	513
-520	XYZ-Axis	513
-521	Rotary	513
-522	Goniometer	513
-523	Manual Stages	512
-524	X Axis	523
-525	Z Axis	523
-526	XY Axis	523
-527	XZ Axis	523
-528	XYZ Axis	523
-529	Goniometers	523
-530	Tilts	523
-531	Multi Axis	523
-532	Rods, Stands, Cross Clamps	523
-533	Micrometer Heads, Feed Screw	523
-534	Base Plates for Manual Stage	523
-535	Brackets for Manual Stage	523
-536	Scales for Manual Stage	523
-537	Attraction Plates for Stage	523
-538	Mounting Accessories for CCD Camera	523
-539	Simplified Adjustment Units	512
-540	Centering Unit	512
-541	Lens	512
-542	CCTV Lens	541
-543	Macro Lens	541
-544	Optoronics Related Components	512
-545	Holder	544
-546	Mirror Holders	545
-547	Cross Motion Holder	545
-548	Cross Motion Adaper	545
-549	Lens Holders	545
-550	Polarizer Holders	545
-551	Prism Holders	545
-552	Filter Holders	545
-553	Pin Holes, Diaphragms	545
-554	Shutters, Optical Path Shutters	545
-555	Laser Holders	545
-556	Fixed Holders, Holder Accessories	545
-557	Opt Station Units	545
-558	Base	544
-559	Tooling Plates	558
-560	Post System	558
-561	Rods, Rod Stands	558
-562	Cross Clamps	558
-563	Optical Rails	558
-564	Magnetic Bases	558
-565	Spacers (for OPS)	558
-566	Spacers (for Light Axis Positioning)	558
-567	Platforms	558
-568	Base Plate	558
-569	Adapter Plates	558
-570	L-Shaped Brackets	558
-571	Optics	544
-572	Mirrors	571
-573	Polarizers	571
-574	Beam Splitters	571
-575	Prisms	571
-576	Dichroic	571
-577	Filter	571
-578	Circuit Boards	571
-579	Pin Holes	571
-580	Laser Related Items	544
-581	Table	544
-582	Vibration Reduction Boards with Frames	581
-583	Desk Type Vibration Reduction Boards	581
-584	Desktop Type Vibration Reduction Boards	581
-585	Optical Surface Plates	581
-586	Measurement Equipment Shelves, Darkroom	581
-587	Open Racks	581
-588	Lamps for Inspection	512
-589	Lamp Fixtures for Inspection	588
-590	Power Source, Light Source for Illumination	588
-591	Contact Probes	512
-592	Sensors, Switches	273
-593	Photoelectric Sensors, Fiber Sensors	186
-594	Brackets & Stands for Sensors	593
-595	Reflectors (for Photoelectric Sensors and Fiber Sensors)	593
-596	Photomicrosensors	186
-597	Small Screws for Photo-micro Sensors	596
-598	Peripheral Components (for Proximity Sensors)	199
-599	Contact Switches	116
-600	Sensor Rails, DIN Rails	592
-601	Sensor Peripheral Components	592
-602	Sensor Flags, Slit Cams	601
-603	Pneumatics, Hydraulics	273
-604	Cylinders, Rotary Actuators	603
-605	Air Cylinders	604
-606	General Purpose Cylinders	605
-607	Compact Cylinders	605
-608	Cylinders with Guides	605
-609	Other Cylinders	605
-610	Pneumatic Slide Cylinders	604
-611	Rotary Actuators	604
-612	Clamp Cylinders	604
-613	Hands, Grippers	604
-614	Sensors for Cylinders	604
-615	Metal Fittings for Cylinders	604
-616	Hands, Fingers for Grippers	604
-617	Cylinder / Rotary Actuator / Gripper Accessories	604
-618	Cylinder Connecting Components	603
-619	Floating Joints	618
-620	Knuckle Joints	618
-621	Pushers	618
-622	Coupling Rod	618
-623	Filters, Regulators, Lubricators	603
-624	FRL Units	623
-625	Regulators, Pressure Boosting Valves	623
-626	Lubricators	623
-627	Drain	623
-628	Solenoid Valves	603
-629	Electromagnetic Valves	603
-630	Pneumatic Pipe Fittings	603
-631	One-Touch Couplings	630
-632	Miniature Couplings	630
-633	Tightening Fittings	630
-634	Speed Controllers	603
-635	Auxiliary Devices	603
-636	Manual-Type Valves, Mechanical-Type Valves	603
-637	Hand Valves	636
-638	Check Valves	636
-639	Manual Switching Valves	636
-640	Step Switching Valves	636
-641	High Speed Exhaust Valves, Shuttle Valves	636
-642	Tubes	603
-643	Fitting	630
-644	Valves	630
-645	Pressure, Flow Rate Sensors	603
-646	Pressure Sensors, Flow Rate Sensors	645
-647	Pressure Gauge	645
-648	Compressors, Blowers	603
-649	Blowers	648
-650	Vacuum Pumps, Vacuum Ejectors	603
-651	Vacuum Generators, Vacuum Ejectors	650
-652	Dryers	603
-653	Grippers	603
-654	Other Pneumatic Devices	603
-655	Escapement	654
-656	Detecting Devices	654
-657	Other Pneumatic Related Devices	654
-658	Vacuum Components	273
-659	Vacuum Fitting Parts	658
-660	Fittings for Vacuum Plumbing	659
-661	(NW/KF Standard) Plumbing Components, Flanges	660
-662	(NW/KF Standard) Clamps, Center Rings and Others	660
-663	Vacuum Plumbing Parts (JIS Standard)	659
-664	Vacuum Plumbing Parts (ISO-MF Standard)	659
-665	Vacuum Plumbing Parts (ICF Standard)	659
-666	Flexible Tubes for Vacuum	659
-667	Tubes, Hoses for Vacuum	659
-668	Vacuum Filters	658
-669	Vacuum Gauges	658
-670	Suction Cups, Components for Suctioning	658
-671	Suction Cups	670
-672	Vacuum Tweezers, Manual Wands	670
-673	Hydraulic Equipment	273
-674	Hydraulic Valves	673
-675	Flow Control (not throttle)	674
-676	Hydraulic Hoses, Adaptors	673
-677	Hydraulic Hoses	676
-678	Hydraulic Hose Adaptors	676
-679	Oil Gauges, Oil Caps	673
-680	Oil Gauges	679
-681	Spray Equipment And Accessories	273
-682	Air Blowing Accessories	681
-683	Nozzles	681
-684	Adjustable Hoses	683
-685	Air Nozzles	683
-686	Spray Nozzles	683
-687	Tanks And Accessories	681
-688	Pressurized Tanks	687
-689	Open Tanks	687
-690	Tank Accessories	687
-691	Agitators	687
-692	Pipe, Tubes, Hoses & Fittings	273
-693	Steel Pipes, Copper Pipes, Stainless Steel Pipes	692
-694	Steel Tube	693
-695	Stainless Steel Pipes	693
-696	Copper Pipes	693
-697	PVC Pipes	693
-698	Plastic Pipes	693
-699	Pipe Accessories	693
-700	Screw Fittings	692
-701	Screw Fittings, Screw-In Type Flanges	700
-702	Hose Fittings	700
-703	Fittings for Stainless Steel Pipes	700
-704	Fittings for Steel Pipes and Copper Pipes	700
-705	Weld-On Type Fittings	700
-706	Welding Flanges	700
-707	Rotary / Swivel Joints	700
-708	Mechanical Type Pipe Fittings	700
-709	Plastic Pipe Fittings	700
-710	Elastic Pipe Fittings	700
-711	Fittings for PVC Pipes	700
-712	Couplers, One-Touch Joints	692
-713	Other Coupler, One-Touch Joint Related Components	712
-714	Ball Valves	644
-715	Needle Valves	644
-716	Gate Valves	644
-717	Globe Valves	644
-718	Butterfly Valves	644
-719	Diaphragm / Pinch Valves	644
-720	Air Operated Valves	644
-721	Valves for various applications	644
-722	Strainers	644
-723	Other Valve Related Components	644
-724	Safety Valves, Control Valves	692
-725	Pipe Supports	692
-726	Metal Fittings for Hung Plumbing	725
-727	Pipe Stand-off Clamps	725
-728	Floor Through Metal Fittings	725
-729	Level Bands	725
-730	Pipe U-Straps	725
-731	Pipe Saddle Clamps	725
-732	Pipe Support Brackets	725
-733	Pipe Clamps	725
-734	Manifolds	692
-735	Manifold Blocks	734
-736	Pipe Manifolds	734
-737	Rotary Manifolds	734
-738	Bracket With Fittings	734
-739	Aluminum Extrusion Manifolds	734
-740	Resins, Ducts, Flexible Hoses	692
-741	Hose Clamps	740
-742	Hose Reels	740
-743	Piping Parts for Duct Hoses	740
-744	Duct Hoses, Duct Plumbing Components	692
-745	Duct Hoses	744
-746	Ducts Fittings	744
-747	Duct Hose Accessories	744
-748	Duct Tubes	744
-749	Flexible Hoses	692
-750	Sanitary Pipes	692
-751	Sanitary Valves	750
-752	Sanitary Fittings	750
-753	Sanitary Pipe Peripheral Components	750
-754	Sight Glasses	750
-755	Seal Materials	692
-756	O-Rings	755
-757	Oil Seals	755
-758	Gaskets	755
-759	Seal Washers, Others	755
-760	Sealing Caps	755
-761	Rubber Seal	755
-762	Tanks	692
-763	Modules, Units	273
-764	Part Feeders	763
-765	Bowl Feeders	764
-766	Inline Feeders	764
-767	Other Part Feeder Related Components	764
-768	Pick and Place Units	763
-769	Heaters, Temperature Control	273
-770	Temperature Control Equipment	769
-771	Temperature Conditioning Components	770
-772	Temperature Sensors	769
-773	Standard Sheath Type	772
-774	Screw Mounting Type	772
-775	Terminal Type	772
-776	Surface Temperature Measurement Type	772
-777	Temperature Safety Measure Components	772
-778	Thermocouples & Peripheral Components	772
-779	Heaters	769
-780	Cartridge Heaters	779
-781	Plate Heaters	779
-782	Sheathed Heaters for Air Heating	779
-783	Sheathed Heaters for Liquid Heating	779
-784	Rubber Heaters	779
-785	Radiant Heaters	779
-786	Other Heaters	779
-787	Heat Resistant Components	779
-788	Hot Air Generators	769
-789	Cooling Related Products	769
-790	Jet Coolers	789
-791	Heat Radiation Gel Sheets	789
-792	Peltier Cooling Unit	789
-793	Air Conditioners, Air Holes	769
-794	Aluminum Extrusions, Framing, Support & Posts	273
-795	Aluminum Extrusion and Brackets	794
-796	Aluminum Extrusions	795
-797	Special AEX	795
-798	Fence Extrusions	797
-799	Flat Aluminum Extrusions	797
-800	Aluminum Channels	797
-801	Safety Fence Frames	797
-802	Aliminum Extrusions for Doors	797
-803	Aluminum Bracket Extrusions	797
-804	AEX Units	795
-805	Brackets and Joint Parts	795
-806	90 degree Brackets	805
-807	Corner Brackets	805
-808	Blind Brackets	805
-809	Blind Joint Parts	805
-810	AEX Corner Gussets	805
-811	Post-Assembly Easy Brackets	805
-812	Block Brackets and Plate Brackets	805
-813	Angular Brackets	805
-814	Metal Brackets	805
-815	Nuts	795
-816	Bolts	795
-817	Frame Caps	795
-818	Slot Covers	795
-819	Handles for Aluminum Extrusions	795
-820	Hinges	795
-821	Catches and Locks	795
-822	Casters	795
-823	Foot Bases	795
-824	Adjuster Pads	795
-825	Panel Mounts	795
-826	Curtains, Sheets	795
-827	Door Sliders	795
-828	Conveyor Parts	795
-829	Clamps, Holders, Hooks	795
-830	Jigs, Maintenace Parts	795
-831	Pipe Frames	794
-832	Accessories for Pipe Frames	831
-833	Joints for Pipe Frames	831
-834	Metal Joints	833
-835	Plastic Joints	833
-836	Joints, Accessory Parts	833
-837	Casters for Pipe Frame	831
-838	Leveling Mounts for Pipe Frame	831
-839	Lifting Parts	831
-840	Conveyor Components	831
-841	Assembly Tools	831
-842	Pipe Frame Units	831
-843	Mounting Plates & Brackets	794
-844	Plates	843
-845	L-Brackets	843
-846	Round Plates	843
-847	Convex Bend Plates	843
-848	Z Plates	843
-849	Angle Plates	794
-850	Gussets	794
-851	Welded Standoffs, Metal Boxes	794
-852	Welded Standoffs	851
-853	Metal Boxes	851
-854	Posts, Strut Clamps, Stands	794
-855	Posts	854
-856	Strut Clamps	854
-857	Single Post	856
-858	Double Post	856
-859	Strut Clamps Accessories	856
-860	Post Stands	854
-861	Free Guide Arms, Magnet Bases	854
-862	Pipe Stands	854
-863	Rotary Connectors	854
-864	Spacer Blocks	854
-865	Casters, Leveling Mounts, Posts	273
-866	Caster Related Components	822
-867	Leveling Mounts, Rubber Feet	865
-868	Adjuster	867
-869	Leveling Mount Related Components	867
-870	Leveling Bolts	867
-871	Angle Brackets	865
-872	Leveling Mounts	865
-873	Doors, Cabinet Hardware	273
-874	Catches	873
-875	Door Stays	873
-876	Telescopic Slide Rails	873
-877	Fasteners, Draw Latches	873
-878	Draw Latches	877
-879	Stainless Steel - Standard Type	877
-880	Stainless Steel - Corner Type	877
-881	Stainless Steel - Spring Tension Type	877
-882	Stainless Steel - with Adjustment Function	877
-883	Steel - Standard Type	877
-884	Steel - Corner Type	877
-885	Steel - with Adjustment Function	877
-886	Resin	877
-887	Special Type	877
-888	Latch Handles, Locks, Keys	873
-889	Handle Type	888
-890	T-Shaped Handles	889
-891	Swing Handles	889
-892	Latch Handles	889
-893	Lever Handles	889
-894	Embedding Type	888
-895	Key Locks	888
-896	Electric Keys	888
-897	Barrel Slide Bolt Latches, Slide Bar Latches, Inside Locks	888
-898	Airtight Latch	888
-899	Key Switches	888
-900	Lighting System	873
-901	Other Lightings	900
-902	Gas Springs	873
-903	Mounting Brackets for Gas Springs	902
-904	Wires, Chains, Metal Fittings, Small Work Pieces	873
-905	Wire	904
-906	Parts, Small Work Pieces	873
-907	Water Levels	906
-908	Scale	906
-909	Hanging Tools	873
-910	Grip Handles	873
-911	Knobs, Screws	873
-912	Lever	873
-913	Rotation Handles, Crank Handles	873
-914	Hanger Hooks	873
-915	Single Hooks	914
-916	Handles	873
-917	Flat Hinges	820
-918	Detachable Hinges	820
-919	Damper Hinges, Spring Hinges	820
-920	Other Hinges and Nuts for Hinge	820
-921	Springs, Shock Absorbers	273
-922	Springs	921
-923	Torsion Springs	922
-924	Tension Springs	922
-925	Compression Springs	922
-926	Round Wire Springs	925
-927	Irregular Cross Section Wire Springs	925
-928	Washers - SW Type	925
-929	Disc Springs	922
-930	Constant Load Springs	922
-931	Other Springs	922
-932	Posts for Tension Springs	922
-933	Flat Springs	922
-934	Battery Springs	922
-935	Hooks for Tension Springs	922
-936	Shock Absorbers, Gas Springs	921
-937	Fixed Type	936
-938	Adjustable	936
-939	Other Shock Absorbers	936
-940	Shock Absorber Related Products	936
-941	Adjusting, Fastening,  Magnets	273
-942	Magnets	941
-943	Magnets - Round	942
-944	Magnets - Rectangular	942
-945	Magnets with Holders	942
-946	Magnets - Ball Type	942
-947	Magnets-Threaded	942
-948	Rubber Magnets	942
-949	Magnet Hooks / Holders	942
-950	Electromagnetic Holders, Rectifiers	942
-951	Dowel Pins, Spring Pins, Stepped Pins	941
-952	Grease Nipples	941
-953	Washers, Collars	941
-954	Metal Washers, Collars	953
-955	Non-Metal Washers, Collars	953
-956	Shims	941
-957	Shim Tapes	956
-958	Shim Plates	956
-959	Shim Rings	956
-960	Rectangular Shims	956
-961	Hair Pins, Cotter Pins	941
-962	Machine Keys	941
-963	Retaining Rings	941
-964	Antivibration, Soundproofing Materials, Safety Products	273
-965	Sound Proofing, Antivibration	964
-966	Sound Proofing Materials	965
-967	Antivibration Materials	965
-968	Antivibration Pads	965
-969	Wire Ropes	965
-970	Antivibration Mounts	965
-971	Safety Protection Materials	964
-972	Trims	971
-973	Edge Trim Seals	971
-974	Antistatic Materials	964
-975	Ionizer	974
-976	Conductive Rubber, Sponge Related	974
-977	Stickers, Plates	964
-978	Stickers	977
-979	Fasteners	None
-980	Screws, Bolts	979
-981	Cross Recessed Bolts	980
-982	Pan Head Screws	981
-983	Flat Head Machine Screws	981
-984	Round Flat Head Screws	981
-985	Small Truss Screws	981
-986	Binding Head Screws	981
-987	Upset bolts	981
-988	Micro Screws, Pan Head Machine Screws for Precision Instruments	980
-989	Screws with Captured Washer	980
-990	Self Tapping Screws, Taptite High Tech Screws	980
-991	Tamper Proof Button Head Cap Screws	980
-992	Hex Screws	980
-993	Hex Socket Head Cap Screws	980
-994	Space Saving Bolts	980
-995	Small Screws	980
-996	Screws with Through Hole	980
-997	Hex Socket Button Head Cap Screws	980
-998	Hex Socket Flat Head Cap Screws	980
-999	Unified screw, Inch screw	980
-1000	Hex Socket Set Screws	980
-1001	Fully Threaded, Stud Bolts	980
-1002	Knurled Wing Screws	980
-1003	Thumbscrews	1002
-1004	Ornamental Screws	1002
-1005	Wing Screws	1002
-1006	Square bolts	980
-1007	Plastic Screws	980
-1008	Cover Screws	980
-1009	Strippers, Reamer Bolts	980
-1010	I-Bolts, U-Bolts for Plumbing	980
-1011	Wing Hinge Screws	1010
-1012	Lifting Eyebolts	1010
-1013	U-Bolts	980
-1014	Fastening Related Components	980
-1015	Hex Nuts	815
-1016	Domed (Acorn) Nuts	815
-1017	Flanged Nuts	815
-1018	Rectangular Nuts	815
-1019	Hex Nut (Tall)	815
-1020	Lock Nuts	815
-1021	Resin Hex Nuts	815
-1022	Wing Nuts	815
-1023	Knurled Nuts	815
-1024	Cylindrical Nuts	815
-1025	Rivet	979
-1026	Insert	979
-1027	Tangless Inserts	1026
-1028	Threaded Inserts	1026
-1029	Tangless Inserts Dedicated Tools	1026
-1030	Threaded Inserts Dedicated Tools	1026
-1031	Tools	979
-1032	Manual Work Tools	1031
-1033	Screw Plugs	979
-1034	Materials	None
-1035	Metal Materials	1034
-1036	Material Plates, Blocks	1035
-1037	Circular Plates	1035
-1038	Rods	1035
-1039	Pipes, Metal Tubes	1035
-1040	Hex Rods	1035
-1041	L-Shaped Angles	1035
-1042	U-Shaped Channels	1035
-1043	L-Shaped Blocks	1035
-1044	U-Shaped Blocks	1035
-1045	T-Shaped Blocks	1035
-1046	Inclined Blocks	1035
-1047	Resin Materials	1034
-1048	Resin Plates	1047
-1049	Resin Round Plates	1047
-1050	Resin Rods	1047
-1051	Resin Pipes	1047
-1052	Thermal Insulation Material	1034
-1053	Ceramics	1034
-1054	Glass Plate, Mirrored Plate	1034
-1055	Resin Covers (Transparent Resin)	1034
-1056	Transperent Resin Covers	1055
-1057	Transperent Resin Round Plates	1055
-1058	L-Shaped Plastic Covers	1055
-1059	U-Shaped Plastic Covers	1055
-1060	Plastic Cases	1055
-1061	Transparent Resin Rods	1055
-1062	Transparent Resin Hollow Tubes	1055
-1063	Perforated Metals, Fences, Nets, Panels	1034
-1064	Cover Panels	1063
-1065	Painted Panels	1063
-1066	Perforated Metals	1063
-1067	Expanded Metals	1063
-1068	Fences, Nets	1063
-1069	Plywood Panels	1063
-1070	Urethane, Rubber, Sponge, Felt	1034
-1071	Urethane, Rubber, Sponge, Felt - Sheets	1070
-1072	Urethane, Rubber, Sponge, Felt - Round Shape	1070
-1073	Rubber Cords, Rubber Sponge Ropes	1070
-1074	Adhesives / Mounting Components for Urethane, Rubber	1070
-1075	Mesh	1034
-1076	Wiring Components	None
-1077	Connector	1076
-1078	Square connector	1077
-1079	Round connector	1077
-1080	Coaxial connector	1077
-1081	Nylon connector	1077
-1082	Contact pin	1077
-1083	Between circuit board connector	1077
-1084	Conversion adapter	1077
-1085	Cap	1077
-1086	Connector (option, other)	1077
-1087	Connector set product	1077
-1088	Wire/Cable	1076
-1089	Power cable	1088
-1090	Robot cable for machinery	1088
-1091	Insulation Wire	1088
-1092	Flat cable	1088
-1093	Curled cord	1088
-1094	Information communication cable	1088
-1095	Coaxial cable	1088
-1096	Wire-saving/Network cable	1088
-1097	Electric wire housing tool	1088
-1098	Control/Instrumentation cable	1088
-1099	Emergency alarm cable	1088
-1100	Eco-Wire cable	1088
-1101	Crimp terminal	1076
-1102	Crimp terminal (option, other)	1101
-1103	Equipment supported cable	1076
-1104	PLC compatible cable	1103
-1105	Mitsubishi ElectricQ Series	1104
-1106	Mitsubishi Electric FX Series	1104
-1107	Keyence/KV/KZ/KV/Nano Series	1104
-1108	Omron CJ series	1104
-1109	Omron CS series	1104
-1110	Omron CPC Series	1104
-1111	Yokogawa Electric Corporation FA-R Series	1104
-1112	Fuji Electric MICREX-SX Series	1104
-1113	PLC Press harness	1104
-1114	Other PLC manufacturers/series	1104
-1115	Relay terminal cable	1103
-1116	Touch panel compatible cable	1103
-1117	Mitsubishi/GOT Series	1116
-1118	Keyence VT Series	1116
-1119	Digital GP4000/GP3000/GP2000 Series	1116
-1120	Omron NB/NS/NT631/NT31	1116
-1121	MISUMI GX Series	1116
-1122	AC servo motor cable	1103
-1123	Mitsubishi Electric	1122
-1124	Yasukawa Electric	1122
-1125	Keyence	1122
-1126	Panasonic	1122
-1127	Omron	1122
-1128	ORIENTAL MOTOR	1122
-1129	I/O output/Harness for control signals	1122
-1130	Image Sensor Compatible Cables	1103
-1131	Harness (option)	1103
-1132	Zip tie	1076
-1133	Zip tie fixture/Options	1132
-1134	Cable gland	1076
-1135	Cable gland options	1134
-1136	Cable Bushing/Clip/Sticker	1076
-1137	Cable bushing	1136
-1138	Cable clip	1136
-1139	Cable sticker	1136
-1140	Screw/Spacer	1076
-1141	Cable accessories	1076
-1142	Tube	1076
-1143	General purpose tube	1142
-1144	Heat Shrink Tube	1142
-1145	Braided tube	1142
-1146	Spiral tube	1142
-1147	Sheet-type tube	1142
-1148	Tube Options	1142
-1149	Protection tube	1076
-1150	Resin Tube	1149
-1151	Metal tube	1149
-1152	Resin tube options	1149
-1153	Metal tube options	1149
-1154	Duct/Wiring	1076
-1155	Duct	1154
-1156	Wiring	1154
-1157	Wiring options	1154
-1158	Duct options	1154
-1159	General purpose tool	1076
-1160	Crimping tool/Pressure welding tool	1159
-1161	Cutting tool	1159
-1162	Wire peeler tool	1159
-1163	Screwdriver (for wiring connections)	1159
-1164	Tweezers/Wrench	1159
-1165	Binding tool	1159
-1166	General purpose tool (option, other)	1159
-1167	Dedicated tools	1076
-1168	Connector dedicated tool	1167
-1169	Terminal extraction tool	1167
-1170	Dedicated tool (option, other)	1167
-1171	Soldering supplies	1076
-1172	Soldering Iron	1171
-1173	Soldering iron holder	1171
-1174	Solder Wire	1171
-1175	Solder absorbing wire/absorber	1171
-1176	Personal computer/AV cable	1076
-1177	USB cable	1176
-1178	USB adapter	1177
-1179	Display cable	1176
-1180	AV cable	1176
-1181	Printer cable	1176
-1182	PS/2 Standard cable	1176
-1183	SCSI Cable	1176
-1184	Antenna cable	1176
-1185	LAN/Network cable	1076
-1186	LAN Cable	1185
-1187	LAN Bulk Cable	1186
-1188	LAN Connector	1185
-1189	LAN Cable/Connector Options	1185
-1190	LAN Pressure welding tool	1189
-1191	LAN Cable (option, other)	1189
-1192	LAN Adapter	1185
-1193	Telephone line (RJ11)	1185
-1194	Telephone line (RJ11) connector	1193
-1195	Telephone line (RJ11) tool	1193
-1196	Telephone line (RJ11) Other options	1193
-1197	Optic fiber cable	1185
-1198	Cable with connector	1076
-1199	Cable with square connector	1198
-1200	Conversion/Branching cable	1198
-1201	Cable with coaxial connector	1198
-1202	Cable with round connector	1198
-1203	Cable with nylon connector	1198
-1204	RS232C Cable	1076
-1205	Electrical & Controls	None
-1206	Control	1205
-1207	Pushbutton	116
-1208	Emergency Stop Safety Switch	116
-1209	Select Switch	116
-1210	Rocker Switch	116
-1211	Toggle Switch	116
-1212	Switch Unit	116
-1213	Foot Switches	116
-1214	Switches (Options, Others)	116
-1215	Small Indicator Lights	1206
-1216	Small Indicator Lamp	1215
-1217	Stack Lights	1206
-1218	Stack Lights (Options, Others)	1217
-1219	Display Lights	1206
-1220	Alarms/Buzzers	1206
-1221	Alarms/Buzzers (Options, Others)	1220
-1222	Meters	1206
-1223	Analog Meter	1222
-1224	PC Parts	1205
-1225	Extension Boards	1224
-1226	Chassis	1224
-1227	PC Power Supplies	1224
-1228	HDD/SSD	1224
-1229	KVM/Display Extenders	1224
-1230	Terminal Block	1205
-1231	Interface Terminal Base (Bar Terminal Style)	1230
-1232	Common Terminal Block	1230
-1233	Block Terminal Base (Round / Y Terminal Style)	1230
-1234	Block Terminal Base (Bar Terminal Style)	1230
-1235	Crossing Fittings	1230
-1236	End Plate	1230
-1237	Studs	1230
-1238	Marking Plate / Sheet	1230
-1239	Insulation Cover	1230
-1240	Terminal Base (Options / Others)	1230
-1241	Receiving and Distribution	1205
-1242	Fuse	1241
-1243	Glass Tube Fuse	1242
-1244	Fuse Holder	1242
-1245	Circuit Protector	1241
-1246	Circuit Breaker for Wiring	1241
-1247	Circuit Breaker for Wiring (Low Capacity)	1246
-1248	Earth Leakage Circuit Breaker	1241
-1249	Earth Leakage Circuit Breaker (Low Capacity)	1248
-1250	Electromagnetic Switch	1241
-1251	Magnetic Contactor	1250
-1252	Thermal Relay	1250
-1253	Electromagnetic Switch (Options / Others)	1250
-1254	Power	1205
-1255	Switching Power Supply	1254
-1256	Switching Power	1255
-1257	Switching Power (Options, Others)	1255
-1258	Noise Filter / Surge Protector	1254
-1259	Noise Filter	1258
-1260	AC Adapter	1254
-1261	Power Tap / Power Cord / Extension Cord	1254
-1262	Power Cord	1261
-1263	Multiple Standard Approved Power Cord / Extension Cord	1262
-1264	Overseas Standard Power Cord	1262
-1265	Power Cord Accessories	1262
-1266	Power Tap / Power Cord / Extension Cord (Options / Others)	1261
-1267	Extension Cords	1261
-1268	Power Taps	1261
-1269	Overseas Standard Power Taps	1268
-1270	AC Receptacle / Inlets	1254
-1271	AC Receptacle / Inlets (Options / Others)	1270
-1272	SPD Arrester (Lightning Arresters)	1254
-1273	Ferrite Core	1254
-1274	Communication	1205
-1275	Data Converters	1274
-1276	Board/Cabinet parts	1205
-1277	Board/Cabinet/Box	1276
-1278	Control box	1277
-1279	Relay box	1277
-1280	Aluminum/Plastic box	1277
-1281	Switch box	1277
-1282	Terminal block box	1277
-1283	Board parts	1276
-1284	DIN rail, dedicated bracket	1283
-1285	Ground/Copper bar	1283
-1286	Drawing holder	1283
-1287	Insulating support	1283
-1288	Board cable clamp	1283
-1289	Earth leakage breaker mounting base	1283
-1290	Interior parts	1283
-1291	Board handle	1283
-1292	Louver	1283
-1293	Window frame	1283
-1294	Packing	1283
-1295	Exterior parts	1283
-1296	Line tape/Conductivity tape	1283
-1297	Mounting bracket	1283
-1298	Board Trestle/Stand/Mounting Pole	1283
-1299	Installation parts	1283
-1300	Maintenance parts	1283
-1301	Board heater/Heat sink	1283
-1303	Lighting (option, other)	1302
-1304	Fan	1276
-1305	Fan (option, other)	1304
-1306	Display parts	1276
-1307	Warning label	1306
-1308	Inspection / Measurement	1205
-1309	Test Terminal	1308
-1310	Alligator / Electrical Clip	1309
-1311	Analog USB Camera	1308
-1312	Camera	1311
-1313	Parts for Board	1205
-1321	Substrate Accessories	1313
-1322	Jumper Pin	1321
-1323	Terminal Block for Substrate	1321
-1324	Electric Facility Materials	1205
-1325	Display Lights (Options, Others)	1219
-1326	Cutting Tools	None
-1327	Carbide End Mill	1326
-1328	Carbide Square End Mill	1327
-1329	Square End Mill (Carbide)	1328
-1330	Multi-function Square End Mill (Carbide)	1328
-1331	High Helical End Mill (Carbide)	1328
-1332	Roughing End Mill (Carbide)	1328
-1333	Long Neck Square End Mill (Carbide)	1328
-1334	Carbide Ball End Mill	1327
-1335	Long Neck Ball End Mill (Carbide)	1334
-1336	Carbide Radius End Mill	1327
-1337	Long Neck Radius End Mill (Carbide)	1336
-1338	Carbide Taper End Mill	1327
-1339	Taper Square End Mill (Carbide)	1338
-1340	Carbide Taper Ball End Mill	1338
-1341	Taper Radius End Mill (Carbide)	1338
-1342	HSS End Mill	1326
-1343	HSS Square End Mill	1342
-1344	Square End Mill (HSS)	1343
-1345	Roughing End Mill (HSS)	1343
-1346	High Helical End Mill (HSS)	1343
-1347	HSS Ball End Mill	1342
-1348	HSS Radius End Mill	1342
-1349	Milling Cutter Insert / Holder	1326
-1350	Cutter / Indexable End Mill	1349
-1351	Insert (for Milling)	1349
-1352	Customized Straight Blade End Mill	1326
-1353	Ram Ball (Customized Straight Blade Size)	1352
-1354	Radius (Customized Straight Blade Size)	1352
-1355	V Groove / Chamfer (Customized Straight Blade Size)	1352
-1356	Carbide Blank	1352
-1357	Dedicated Cutter	1326
-1358	For O-ring Groove	1357
-1359	For Countersinking	1357
-1360	T-Slot	1357
-1361	Molding Blank	1357
-1362	Turning Tool	1326
-1363	Chip (for Turning)	1362
-1364	Drill	1326
-1365	Carbide Drill	1364
-1366	Straight Shank, End Mill Shank Drill (Carbide)	1365
-1367	Step Drill (Carbide)	1365
-1368	HSS Drill	1364
-1369	Straight Shank, End Mill Shank Drill (HSS)	1368
-1370	Taper Shank Drill (HSS)	1368
-1371	Screw Hole Related Tools	1326
-1372	Hand Tap	1371
-1373	Spiral Tap	1371
-1374	Point Tap	1371
-1375	Roll Tap	1371
-1376	Threading Cutter	1371
-1377	Tap Wrench	1371
-1378	Reamer	1326
-1379	Carbide Reamer	1378
-1380	Straight Reamer (Carbide)	1379
-1381	Spiral Reamer (Carbide)	1379
-1382	HSS Reamer	1378
-1383	Straight Reamer (HSS)	1382
-1384	Spiral Reamer (HSS)	1382
-1385	Chamfering, Centering Tool	1326
-1386	Centering / Countersink	1385
-1387	Chamfering, V Groove	1385
-1388	Step Drill	1326
-1389	Processing Tools	None
-1390	Machine Tool	1389
-1391	Jig	1390
-1392	Hand Tightening Jig	1391
-1393	Clamping Parts (for Hand Tightening)	1392
-1394	Clamp Unit (for Hand Tightening)	1392
-1395	Screws, Accessories	1391
-1396	Clamping Parts (Screw Accessories)	1395
-1397	Lathe Jig	1391
-1398	Vise	1391
-1399	Clamp	1398
-1400	Precision Machine Vise	1398
-1401	Measurement Tools / Measurement Equipment	1389
-1402	Gauge	1401
-1403	Thickness Gauge	1402
-1404	Speed Square	1401
-1405	Electric Discharge Tool	1389
-1406	Wire Electrode Line	1405
-1407	Wire Cut Filter	1405
-1408	Sinker Electrical Discharge Filter	1405
-1409	Electric Discharge Jig	1405
-1410	Grinding and Polishing Supplies	1389
-1411	DIA / CBN Grinding Wheel	1410
-1412	Flat Grinding Wheel	1410
-1413	Grinding stone dresser	1410
-1414	Disk	1410
-1415	Sheet Polishing Material	1410
-1416	Belt Polishing Material	1410
-1417	Grinding Stone with Shaft	1410
-1418	DIA / CBN Bar	1410
-1419	Wheel with Shaft	1410
-1420	Stick Grinding Stone	1410
-1421	File	1410
-1422	Deburring Tool	1410
-1423	Abrasive for Grinder	1410
-1424	Manual Tools	1389
-1425	Wrench / Box Wrench / Ratchet Wrench	1424
-1426	Engraver / Punch	1424
-1427	Safety Products	None
-1428	Safety / Protection Supplies	1427
-1429	Gloves	1428
-1430	Cotton Work Gloves	1429
-1431	Leather Gloves	1429
-1432	Non-slip Gloves	1429
-1433	Safety Glasses / Disaster Prevention	1428
-1434	Safety Glasses	1433
-1435	Disaster Prevention	1433
-1436	Earplugs / Earmuffs	1428
-1437	Helmet / Related Goods	1428
-1438	Helmet	1437
-1439	Helmet Related Goods	1437
-1440	Rain Gear	1428
-1441	Protective Equipment	1428
-1442	Supporter	1441
-1443	Disaster Prevention / Crime Prevention Supplies	1428
-1444	Evacuation Supplies	1443
-1445	Construction Supplies	1427
-1446	Safety Vest	1427
-1447	Press Die Components	None
-1448	Punches & Dies	1447
-1449	Punches	1448
-1450	Key Flat Shank Punches	1449
-1451	Tapped Punches	1449
-1452	Punches With Key Grooves	1449
-1453	Flange Stopper Punches	1449
-1454	Straight Punches	1449
-1455	Blanking Punches	1449
-1456	Punches With Locating Dowel Holes	1449
-1457	Punches For Heavy Load	1449
-1458	Straight Punches For Heavy Load	1449
-1459	Punches For Heavy Load, With Dowel Holes	1449
-1460	Tapered Head Punches	1449
-1461	Punch Blanks	1449
-1462	Components for Punches	1449
-1463	Jector Pin Sets	1462
-1464	Punch Holders	1462
-1465	Punch Spacers And Shims	1462
-1466	Fixing Keys For Punches With Key Grooves	1462
-1467	Key Flats	1462
-1468	Spare Punch Boxes	1462
-1469	Pilot Punches	1448
-1470	Flange Stopper Pilot Punches	1469
-1471	Tapped Pilot Punches	1469
-1472	Pilot Punches With Key Grooves	1469
-1473	Straight Pilot Punches	1469
-1474	Tapped Straight Pilot Punches	1469
-1475	Straight Pilot Punches With Key Grooves	1469
-1476	Pilot Punches With Locating Dowel Holes	1469
-1477	Pilot Punches For Fixing To Stripper Plates	1469
-1478	Straight Pilot Punches for Stripper Plates	1469
-1479	Pilot Punches, Movable Type	1469
-1480	Pilot Ejector Bushings	1469
-1481	Punch Guide Bushings	1448
-1482	Button Dies	1448
-1483	Scrap Retention Button Dies	1482
-1484	Scrap Retention Reverse Tapered Dies	1482
-1485	Non-Clogging Button Dies	1482
-1486	Button Die Blanks	1482
-1487	Scrapping Components	1482
-1488	Scrap Vacuum Units	1487
-1489	Product Shooters	1487
-1490	Scrap Removers	1487
-1491	Spacers, Collars For Button Dies	1482
-1492	Spacers For Button Dies	1491
-1493	Collars For Headed Button Dies	1491
-1494	Block Punches	1448
-1495	Block Punches For Heavy Load	1494
-1496	Straight Block Punches	1494
-1497	Block Punch Blanks	1494
-1498	Flange Holders	1494
-1499	Block Dies	1448
-1500	Scrap Retention Block Dies	1499
-1501	Block Die Blanks	1499
-1502	Carbide Punches	1448
-1503	Key Flat Shank Carbide Punches	1502
-1504	Carbide Punches With Taps	1502
-1505	Carbide Punches With Key Grooves	1502
-1506	Carbide Straight Punches	1502
-1507	Carbide Pilot Punches	1448
-1508	Carbide Straight Pilot Punches	1507
-1509	Carbide Pilot Punches For Fixing To Stripper Plates	1507
-1510	Carbide Straight Pilot Punches For Fixing To Stripper Plates	1507
-1511	Movable Carbide Pilot Punches	1507
-1512	Carbide Button Dies	1448
-1513	Scrap Retention Carbide Button Dies	1512
-1514	Non-Clogging Carbide Button Dies	1512
-1515	Carbide Button Die Blanks	1512
-1516	Carbide Block Punches	1448
-1517	Carbide Straight Block Punches	1516
-1518	Carbide Block Punch Blanks	1516
-1519	Carbide Block Dies	1448
-1520	Scrap Retention Carbide Block Dies	1519
-1521	Carbide Block Die Blanks	1519
-1522	Precision Punches & Dies	1448
-1523	Precision Punches	1522
-1524	Precision Carbide Block Punches	1522
-1525	Precision Carbide Straight Punches	1522
-1526	Precision Carbide Pilot Punches	1522
-1527	Precision Button Dies	1522
-1528	Precision Non-Clogging Carbide Button Dies	1522
-1529	Precision Scrap Retention Carbide Button Dies	1522
-1530	Misfeed Sensor Units	1448
-1531	Contact Type Misfeed Sensors	1530
-1532	Brackets For Sensors	1530
-1533	Punches and  Dies for Forming	1448
-1534	Burring Punches	1533
-1535	Burring Die Units	1533
-1536	Embossing Punches	1533
-1537	Chamfering Punches	1533
-1538	Drawing Punches (30 Shapes)	1533
-1539	Drawing Dies (10 Shapes)	1533
-1540	Bending And Chamfering Punches & Dies (16 Shapes)	1533
-1541	Bending Dies	1533
-1542	Rib Punches	1533
-1543	Engraving Punches	1533
-1544	Engraving Punch Holder Set	1533
-1545	Die Check Buttons	1533
-1546	Components For Punches & Dies For Forming	1533
-1547	Engraving Punch Shims	1546
-1548	Camber Correction Height Adjustment Units	1546
-1549	General Purpose Scrap Cutters	1546
-1550	Special Shaped Punches and Dies	1448
-1551	Special Shaped Punches	1550
-1552	Special Shaped Ball-Lock Punches	1550
-1553	Special Shaped Block Punches	1550
-1554	Special Shaped Straight Punches	1550
-1555	Special Shaped Punch Guide Bushings	1550
-1556	Special Shaped Button Dies	1550
-1557	Special Shaped Block Dies	1550
-1558	Retainers	1448
-1559	Select Retainer Sets	1558
-1560	Special Retainers	1558
-1561	Urethane Strippers	1558
-1562	Strippers For Cams	1558
-1563	Ball-lock Punches, Dies and Retainers	1448
-1564	Ball-Lock Punches	1563
-1565	Ball-Lock Button Dies	1563
-1566	Ball-Lock Retainers	1563
-1567	Guide Components	1447
-1568	Stripper Guide Pins and Bushings	1567
-1569	Stripper Guide Pins	1568
-1570	Stripper Guide Bushings	1568
-1571	Stripper Guide Pins - Tolerance Range 3MIC -	1568
-1572	Stripper Guide Bushings - Tolerance Range 3MIC -	1568
-1573	Stripper Guide Pins - Tolerance Range 2MIC -	1568
-1574	Stripper Guide Bushings - Tolerance Range 2MIC -	1568
-1575	Roller Stripper Guides	1568
-1576	Components For Stripper Guide Pins & Bushings	1568
-1577	Fixed-Type Stopper For High-Rigidity Stripper Guide Pins	1576
-1578	Clamps For Stripper Guide Pins	1576
-1579	Ball Cages	1576
-1580	Springs For Ball Cages	1576
-1581	Fixed-Type Stopper For Roller Guide Posts	1576
-1582	Guide Posts and Bushings for Die Sets	1567
-1583	Roller Guide Post Sets For Die Sets	1582
-1584	Ball Guide Post Sets For Die Sets	1582
-1585	Plain Guide Post Sets For Die Sets	1582
-1586	Guide Posts For Die Sets	1582
-1587	Ball Guide Bushings For Die Sets	1582
-1588	Plain Guide Bushings For Die Sets	1582
-1589	Components For Guide Posts & Bushings For Die Sets	1582
-1590	Roller Guide Retainers	1589
-1591	Roller Guide Post Springs	1589
-1592	Rings For Preventing Cage Lifting	1589
-1593	Roller Guide Post Stoppers	1589
-1594	Springs For Ball Guide Bushings For Lower Die Sets	1589
-1595	Stoppers For Ball Guide	1589
-1596	Springs For Ball Guide	1589
-1597	Rings For Preventing Cage Lifting - For Ball Guide -	1589
-1598	Shanks For Die Sets	1589
-1599	Holder Guide Post Sets	1567
-1600	Plain Guide Post Sets	1599
-1601	Ball Guide Post Sets	1599
-1602	Guide Post Sets	1599
-1603	Guide Holders	1599
-1604	Guide Bushings	1599
-1605	Guide Posts	1599
-1606	Components For Holder Guide Post Sets	1599
-1607	Ball Cages For Die Sets	1606
-1608	Stoppers For Ball Guide Post Set	1606
-1609	Washers For Preventing Dowel Pin Fall-Out	1606
-1610	Springs For Ball Guide Post Sets	1606
-1611	Spacers For Holder Guide Post Set	1606
-1612	Stroke End Blocks	1606
-1613	Distance Guide Rings	1567
-1614	Heel Guide Plates	1567
-1615	Keepers, Pad Guides	1567
-1616	Oil-free Slide Plates	1567
-1617	Oil-Free Slide Plates	1616
-1618	Shims For Oil-Free Slide Plates	1616
-1619	Components/Peripheral Components	1447
-1620	Components for Guide Lifters	1619
-1621	Guide Lifters	1620
-1622	Lifter Pins	1620
-1623	Stripper Pressure Pins	1620
-1624	Adjuster Pins, Pressure Pins	1620
-1625	Knockout Pins	1620
-1626	Pushing Pins	1620
-1627	Plungers	1620
-1628	Wrenches For Plungers	1627
-1629	Material Guides	1620
-1630	Material Guide Units, Parts	1629
-1631	Fitting Guides	1629
-1632	Components	1619
-1633	Dowel Pins	1632
-1634	Components for Dowel Pins	1633
-1635	Hexagon Socket Head Cap Screws	1632
-1636	Spacers, Shims	1632
-1637	Stripper Bolts	1632
-1638	Die Storage Components	1632
-1639	Name Plates, Seals	1638
-1640	Die Cooling Components	1632
-1641	Components for Automobile Dies	1619
-1642	Spool Retainers	1641
-1643	Retainer Pins	1641
-1644	Cushion Pins	1641
-1645	Plate Lifter Pins	1641
-1646	Die Clamping And Adjustment Components	1641
-1647	Distance Plates	1646
-1648	Shims For Distance Plates	1646
-1649	Locating Keys	1646
-1650	Backup Keys	1646
-1651	Washers For Die Fastening	1646
-1652	Air Vents For Drawing Dies	1646
-1653	Hole Repair Screws	1646
-1654	Angle Stays	1646
-1655	Scrap Breakers For Cam Pierce Dies	1646
-1656	Link Components For Hemming Dies	1641
-1657	Locating Components for Automobile Dies	1619
-1658	Panel Input Detectors	1657
-1659	Nest Guides	1657
-1660	Rough Guides	1659
-1661	Nest Guide Blanks	1659
-1662	Locating Pilot Pins	447
-1663	Locating Pins For Arrangement	447
-1664	Location Pins	1657
-1665	Pre-Holding Pins	1657
-1666	Skid Brackets	1657
-1667	Square	1666
-1668	Round	1666
-1669	With Slide Adjustment Function	1666
-1670	Drawing-Out Pins	1657
-1671	Push-Out Pins	1657
-1672	Limit Unit	1657
-1673	Conveyance Components for Automobile Dies	1619
-1674	Material Lifters	1673
-1675	Conveyance Components	1673
-1676	Piping And Wiring Components	1673
-1677	Misgripping Sensor Units	1673
-1678	Junction Boxes With Terminal Blocks	1673
-1679	Flange Lifters	1673
-1680	Cams	1619
-1681	Under Cam Units	1680
-1682	Flying Cam Units	1680
-1683	Cam Upper Plates	1680
-1684	Cam Side Parts	1680
-1685	Cam Bottom Parts	1680
-1686	Cam Center Parts	1680
-1687	Cam Stroke Plates	1680
-1688	Cam Pad Guide Parts	1680
-1689	Cam Positive Return Parts	1680
-1690	Cam Stoppers	1680
-1691	Cam Return Units	1680
-1692	Components for Lifting and Die Storing	1619
-1693	Lifting Tools	1692
-1694	Casting Die Storing Components	1692
-1695	Die Fixing Plates	1694
-1696	Holding Pipes For Transport	1694
-1697	Die Storage Bushings	1694
-1698	Urethane Stock Blocks	1694
-1699	Urethane Absorbers, Urethane Pads	1694
-1700	Inspection Jig Components	1619
-1701	Limit Gauges	1700
-1702	Pin Gauges	1700
-1703	Plug Gauges For Checking Fixtures	1700
-1704	Locating Bars For Tapping Positions	1700
-1705	Shim Plates For Inspection Jigs	1700
-1706	Hemming Components	1619
-1707	NAAMS	1619
-1708	NAAMS Accessory	1707
-1709	Coil Springs	922
-1710	Spring-Related Components	1709
-1711	Components For Gas Spring	902
-1712	Urethane Springs	922
-1713	Urethane Springs - Square Type -	1712
-1714	Urethane Sheets	1712
-1715	Plastic Mold Components	None
-1716	Ejector Pins	1715
-1717	Straight Ejector Pins	1716
-1718	No Tip Processing	1717
-1719	Ejector Pins With Tip Process	1717
-1720	With Engraving	1717
-1721	Gas Release	1717
-1722	Stepped Ejector Pins	1716
-1723	One-Step	1722
-1724	Two-Steps	1722
-1725	Free Flange-Position Ejector Pins	1716
-1726	Straight	1725
-1727	Stepped	1725
-1728	Blade	1725
-1729	Pusher Pins	1716
-1730	Ejector Blades	1716
-1731	D Type	1730
-1732	Rectangular Shank	1730
-1733	Air-jet Valves	1716
-1734	Air-Jet Valves	1733
-1735	Air-Jet Valve Accessories	1733
-1736	Pins for Ejector Block	1716
-1737	Sleeves, Center Pins	1715
-1738	Straight Ejector Sleeves	1737
-1739	Ejector Sleeves	1738
-1740	One-Step Center Pin Sets	1738
-1741	Stepped Ejector Sleeves	1737
-1742	Straight Center Pins	1737
-1743	Taperless Center Pins	1737
-1744	Stepped Center Pins	1737
-1745	Core Pins	1715
-1746	Straight Core Pins	1745
-1747	Without Tip Processing	1746
-1748	Steps-type Round Core Pins	1745
-1749	Taperless Core Pins	1745
-1750	For Boss, Round Shank, Inlay Core Pins	1745
-1751	Inlay Core Pins	1750
-1752	Inlay Bushings	1750
-1753	Round Core Pins For Boss	1750
-1754	Straight Core Sleeves	1750
-1755	Round Shank, Tip Processed Core Pins	1750
-1756	Large-Diameter Core Pins	1750
-1757	Sprue bushings, Gates, and other components	1715
-1758	Pin Point Gate Bushings	1757
-1759	Steel Pin Gate	1758
-1760	Carbide Pin Gate	1758
-1761	Electroformed Pin Gate	1758
-1762	Pin Gate Extension Bushings	1757
-1763	Rolling Gate Cut Unit	1757
-1764	Components of Runner	1757
-1765	Runner Lock	1764
-1766	Runner Ejector Sets	1764
-1767	Runner Change Pins	1764
-1768	Flow Rate Adjustment Pin	1764
-1769	Electrodes	1757
-1770	Sprue Bushings	1757
-1771	Steel Sprue	1770
-1772	Electroformed Sprue	1770
-1773	Sprue-Related Components	1770
-1774	Locating Rings	1757
-1775	Date Mark Inserts, Recycle Mark Inserts, Pins with Gas Vent	1715
-1776	Gas Release Unit	1775
-1777	Cavity Inserts for Gas Release	1775
-1778	Date Mark Inserts	1775
-1779	Pl Exchange Type	1778
-1780	Plate Side Exchange Type	1778
-1781	Double Ring Type	1778
-1782	L Adjustable Type	1778
-1783	Recycle Mark Inserts	1775
-1784	Undercut, Plates	1715
-1785	Angled Pins	1784
-1786	Angled Pins Components	1785
-1787	Angled Cams	1785
-1788	Locking Blocks	1784
-1789	Guide Rails, Center Rails	1784
-1790	Steel Guide Rail	1789
-1791	Plate Guide Rails	1789
-1792	Slide Plates	1789
-1793	Slide Cores, Loose Cores	1784
-1794	Slide Cores	1793
-1795	Slide Components	1793
-1796	Mini Slide Core Units	1793
-1797	Loose Cores	1793
-1798	Block Core Pins, Cavity Inserts	1784
-1799	Hardened Plates For Core	1798
-1800	Block Core Pins	1798
-1801	Cavity Insert Blocks	1798
-1802	Cavity Insert Wedges	1798
-1803	Leader Components, Components for Ejector Space	1715
-1804	Components for Ejector Space	1803
-1805	Ejector Leader Pins	1804
-1806	Ejector Leader Bushings	1804
-1807	Components For Ejector Space	1804
-1808	Support Pillars	1804
-1809	Plate Return Detection Switch	1804
-1810	Return Pins	1804
-1811	Early Return Unit	1804
-1812	Leader Components	1803
-1813	Leader Pins	1812
-1814	Guide For Rubber Type	1812
-1815	Support Pins	1812
-1816	Support Pin Collars	1812
-1817	Leader Bushings	1812
-1818	Oil-Free Leader Bushings	1812
-1819	Stopper Plates For Guide Bushings For Middle & Large Mold	1812
-1820	Components for Positioning	1803
-1821	Straight Pin Sets	1820
-1822	Positioning Pins	1820
-1823	Straight Block Sets	1820
-1824	Tapered Leader Pin Sets	1820
-1825	Tapered Pin Spacer	1820
-1826	Tapered Interlocks	1820
-1827	Tapered Block Sets	1820
-1828	Side Cotter Blocks	1820
-1829	Mold Opening Controllers	1715
-1830	Stop Bolts, Puller Bolts	1829
-1831	Parting Lock Sets	1829
-1832	Resin Sleeve Type	1831
-1833	Side Mounting Type	1831
-1834	Roller Side InterLock Sets	1831
-1835	Magnetic Lock Sets	1831
-1836	Tension Links	1829
-1837	Special Bolts For Tension Link	1836
-1838	Tension Chains	1836
-1839	Tension Chain Holders	1836
-1840	Mold Opening Components	1829
-1841	Mold Opening Prevention Plates	1829
-1842	Cooling or Heating  Components	1715
-1843	Heating Items	1842
-1844	Thermocouples	1843
-1845	Heat Insulation Sheets	1842
-1846	Without Hole Boring	1845
-1847	With Hole Boring	1845
-1848	Couplers, Plugs, One-touch Joints	1842
-1849	Sockets	1848
-1850	Plugs	1848
-1851	Nipples	1848
-1852	Joints	1848
-1853	Tubes, Hoses, Peripheral Components	1842
-1854	Hose, Tube	1853
-1855	Hose-Specific Plugs	1853
-1856	Hose Peripheral Components	1853
-1857	Cooling Joint Plugs	1853
-1858	Inside of Mold Cooling Components	1842
-1859	Baffle Boards	1858
-1860	Heat Transaction Pipes	1858
-1861	Cooling Pipes	1858
-1862	Cooling Circuit	1858
-1863	Cooling Circuit Plugs	1858
-1864	Accessories For Cooling	1858
-1865	Accessories, Others	1715
-1866	Gate Cut Spring	1709
-1867	Heat-Resistant Coil Springs	1709
-1868	Spring Guide Pins	1865
-1869	Screws, Washers	1865
-1870	Spacers, Washers	1869
-1871	Bolt	1869
-1872	Lifting Eye Bolts	1865
-1873	Lifting Bars for Mold	1865
-1874	Others	1865
-1875	Components for Molding	1715
-1876	Hoses for Molding, Joints	1875
-1877	Sockets, Plugs, Joints	1876
-1878	Components of Large Mold, Die Casting	1715
-1879	Die Casting	1878
-1880	Cooling Units	1879
-1881	Ejector Pins For Die Cast	1879
-1882	Ejector Sleeves For Die Cast	1879
-1883	Die Cast Core Pins	1879
-1884	Burr Cutting Pins	1879
-1885	Date Mark Inserts For Die Cast	1879
-1886	Components for Large Mold or Hot Runners	1878
+1	Integrated Circuits (ICs)	None	Integrated Circuits (ICs)	Integrated Circuits (ICs)
+2	Clock and Timing	1	    Clock and Timing	Integrated Circuits (ICs) → Clock and Timing
+3	Clock Buffers, Drivers	2	        Clock Buffers, Drivers	Integrated Circuits (ICs) → Clock and Timing → Clock Buffers, Drivers
+4	Clock Generators, PLLs, Frequency Synthesizers	2	        Clock Generators, PLLs, Frequency Synthesizers	Integrated Circuits (ICs) → Clock and Timing → Clock Generators, PLLs, Frequency Synthesizers
+5	Real Time Clocks	2	        Real Time Clocks	Integrated Circuits (ICs) → Clock and Timing → Real Time Clocks
+6	Timers and Oscillators	2	        Timers and Oscillators	Integrated Circuits (ICs) → Clock and Timing → Timers and Oscillators
+7	Data Converter ICs	1	    Data Converter ICs	Integrated Circuits (ICs) → Data Converter ICs
+8	Analog to Digital Converters (ADCs)	7	        Analog to Digital Converters (ADCs)	Integrated Circuits (ICs) → Data Converter ICs → Analog to Digital Converters (ADCs)
+9	Digital Potentiometers	7	        Digital Potentiometers	Integrated Circuits (ICs) → Data Converter ICs → Digital Potentiometers
+10	Digital to Analog Converters (DACs)	7	        Digital to Analog Converters (DACs)	Integrated Circuits (ICs) → Data Converter ICs → Digital to Analog Converters (DACs)
+11	Touch Screen Controllers	7	        Touch Screen Controllers	Integrated Circuits (ICs) → Data Converter ICs → Touch Screen Controllers
+12	Embedded Processors and Controllers	1	    Embedded Processors and Controllers	Integrated Circuits (ICs) → Embedded Processors and Controllers
+13	CPLDs - Complex Programming Logic Devices	12	        CPLDs - Complex Programming Logic Devices	Integrated Circuits (ICs) → Embedded Processors and Controllers → CPLDs - Complex Programming Logic Devices
+14	DSPs - Digital Signal Processors	12	        DSPs - Digital Signal Processors	Integrated Circuits (ICs) → Embedded Processors and Controllers → DSPs - Digital Signal Processors
+15	FPGAs - Field Programmable Gate Arrays	12	        FPGAs - Field Programmable Gate Arrays	Integrated Circuits (ICs) → Embedded Processors and Controllers → FPGAs - Field Programmable Gate Arrays
+16	Microcontrollers	12	        Microcontrollers	Integrated Circuits (ICs) → Embedded Processors and Controllers → Microcontrollers
+17	Microprocessors	12	        Microprocessors	Integrated Circuits (ICs) → Embedded Processors and Controllers → Microprocessors
+18	Single Board Computers (SBCs)	12	        Single Board Computers (SBCs)	Integrated Circuits (ICs) → Embedded Processors and Controllers → Single Board Computers (SBCs)
+19	Interface ICs	1	    Interface ICs	Integrated Circuits (ICs) → Interface ICs
+20	CODECs	19	        CODECs	Integrated Circuits (ICs) → Interface ICs → CODECs
+21	Ethernet Interface ICs	19	        Ethernet Interface ICs	Integrated Circuits (ICs) → Interface ICs → Ethernet Interface ICs
+22	RS-232 / RS-422 / RS-485 Interface ICs	19	        RS-232 / RS-422 / RS-485 Interface ICs	Integrated Circuits (ICs) → Interface ICs → RS-232 / RS-422 / RS-485 Interface ICs
+23	UART Interface ICs	19	        UART Interface ICs	Integrated Circuits (ICs) → Interface ICs → UART Interface ICs
+24	USB Interface ICs	19	        USB Interface ICs	Integrated Circuits (ICs) → Interface ICs → USB Interface ICs
+25	Linear ICs	1	    Linear ICs	Integrated Circuits (ICs) → Linear ICs
+26	Amplifiers - Audio	25	        Amplifiers - Audio	Integrated Circuits (ICs) → Linear ICs → Amplifiers - Audio
+27	Amplifiers - Op Amps, Buffer, Instrumentation	25	        Amplifiers - Op Amps, Buffer, Instrumentation	Integrated Circuits (ICs) → Linear ICs → Amplifiers - Op Amps, Buffer, Instrumentation
+28	Comparators	25	        Comparators	Integrated Circuits (ICs) → Linear ICs → Comparators
+29	Logic ICs	1	    Logic ICs	Integrated Circuits (ICs) → Logic ICs
+30	Buffers, Drivers and Transceivers	29	        Buffers, Drivers and Transceivers	Integrated Circuits (ICs) → Logic ICs → Buffers, Drivers and Transceivers
+31	Counters	29	        Counters	Integrated Circuits (ICs) → Logic ICs → Counters
+32	Decoders, Multiplexers	29	        Decoders, Multiplexers	Integrated Circuits (ICs) → Logic ICs → Decoders, Multiplexers
+33	Latches and Flip Flops	29	        Latches and Flip Flops	Integrated Circuits (ICs) → Logic ICs → Latches and Flip Flops
+34	Logic Gates	29	        Logic Gates	Integrated Circuits (ICs) → Logic ICs → Logic Gates
+35	Shift Registers	29	        Shift Registers	Integrated Circuits (ICs) → Logic ICs → Shift Registers
+36	Voltage Level Shifters	29	        Voltage Level Shifters	Integrated Circuits (ICs) → Logic ICs → Voltage Level Shifters
+37	Memory	1	    Memory	Integrated Circuits (ICs) → Memory
+38	EEPROM	37	        EEPROM	Integrated Circuits (ICs) → Memory → EEPROM
+39	FIFO	37	        FIFO	Integrated Circuits (ICs) → Memory → FIFO
+40	Flash	37	        Flash	Integrated Circuits (ICs) → Memory → Flash
+41	RAM	37	        RAM	Integrated Circuits (ICs) → Memory → RAM
+42	Power Management ICs	1	    Power Management ICs	Integrated Circuits (ICs) → Power Management ICs
+43	Battery Management	42	        Battery Management	Integrated Circuits (ICs) → Power Management ICs → Battery Management
+44	Gate Drivers	42	        Gate Drivers	Integrated Circuits (ICs) → Power Management ICs → Gate Drivers
+45	Hot Swap Controllers	42	        Hot Swap Controllers	Integrated Circuits (ICs) → Power Management ICs → Hot Swap Controllers
+46	LED Drivers	42	        LED Drivers	Integrated Circuits (ICs) → Power Management ICs → LED Drivers
+47	Motor Drivers	42	        Motor Drivers	Integrated Circuits (ICs) → Power Management ICs → Motor Drivers
+48	Voltage References	42	        Voltage References	Integrated Circuits (ICs) → Power Management ICs → Voltage References
+49	Voltage Regulators - Linear	42	        Voltage Regulators - Linear	Integrated Circuits (ICs) → Power Management ICs → Voltage Regulators - Linear
+50	Voltage Regulators - Switching	42	        Voltage Regulators - Switching	Integrated Circuits (ICs) → Power Management ICs → Voltage Regulators - Switching
+51	Voltage Supervisors	42	        Voltage Supervisors	Integrated Circuits (ICs) → Power Management ICs → Voltage Supervisors
+52	RF Semiconductors and Devices	1	    RF Semiconductors and Devices	Integrated Circuits (ICs) → RF Semiconductors and Devices
+53	RF Amplifiers	52	        RF Amplifiers	Integrated Circuits (ICs) → RF Semiconductors and Devices → RF Amplifiers
+54	RF Antennas	52	        RF Antennas	Integrated Circuits (ICs) → RF Semiconductors and Devices → RF Antennas
+55	RF Mixers	52	        RF Mixers	Integrated Circuits (ICs) → RF Semiconductors and Devices → RF Mixers
+56	RF Receivers, Transceivers	52	        RF Receivers, Transceivers	Integrated Circuits (ICs) → RF Semiconductors and Devices → RF Receivers, Transceivers
+57	Discrete Semiconductors	None	Discrete Semiconductors	Discrete Semiconductors
+58	Diodes	57	    Diodes	Discrete Semiconductors → Diodes
+59	Rectifier Diodes	58	        Rectifier Diodes	Discrete Semiconductors → Diodes → Rectifier Diodes
+60	Schottky Diodes	58	        Schottky Diodes	Discrete Semiconductors → Diodes → Schottky Diodes
+61	Zener Diodes	58	        Zener Diodes	Discrete Semiconductors → Diodes → Zener Diodes
+62	Thyristors	57	    Thyristors	Discrete Semiconductors → Thyristors
+63	DIACs, SIDACs	62	        DIACs, SIDACs	Discrete Semiconductors → Thyristors → DIACs, SIDACs
+64	SCRs	62	        SCRs	Discrete Semiconductors → Thyristors → SCRs
+65	TRIACs	62	        TRIACs	Discrete Semiconductors → Thyristors → TRIACs
+66	Transistors	57	    Transistors	Discrete Semiconductors → Transistors
+67	BJTs	66	        BJTs	Discrete Semiconductors → Transistors → BJTs
+68	IGBTs	66	        IGBTs	Discrete Semiconductors → Transistors → IGBTs
+69	JFETs	66	        JFETs	Discrete Semiconductors → Transistors → JFETs
+70	MOSFETs	66	        MOSFETs	Discrete Semiconductors → Transistors → MOSFETs
+71	Passive Components	None	Passive Components	Passive Components
+72	Capacitors	71	    Capacitors	Passive Components → Capacitors
+73	Aluminum Electrolytic Capacitors	72	        Aluminum Electrolytic Capacitors	Passive Components → Capacitors → Aluminum Electrolytic Capacitors
+74	Capacitor Arrays	72	        Capacitor Arrays	Passive Components → Capacitors → Capacitor Arrays
+75	Capacitor Kits	72	        Capacitor Kits	Passive Components → Capacitors → Capacitor Kits
+76	Ceramic Capacitors	72	        Ceramic Capacitors	Passive Components → Capacitors → Ceramic Capacitors
+77	Film Capacitors	72	        Film Capacitors	Passive Components → Capacitors → Film Capacitors
+78	Mica Capacitors	72	        Mica Capacitors	Passive Components → Capacitors → Mica Capacitors
+79	Polymer Capacitors	72	        Polymer Capacitors	Passive Components → Capacitors → Polymer Capacitors
+80	Tantalum Capacitors	72	        Tantalum Capacitors	Passive Components → Capacitors → Tantalum Capacitors
+81	Trimmer / Variable Capacitors	72	        Trimmer / Variable Capacitors	Passive Components → Capacitors → Trimmer / Variable Capacitors
+82	Crystals / Oscillators	71	    Crystals / Oscillators	Passive Components → Crystals / Oscillators
+83	Crystals	82	        Crystals	Passive Components → Crystals / Oscillators → Crystals
+84	Oscillators	82	        Oscillators	Passive Components → Crystals / Oscillators → Oscillators
+85	Resonators	82	        Resonators	Passive Components → Crystals / Oscillators → Resonators
+86	EMI / RFI Components	71	    EMI / RFI Components	Passive Components → EMI / RFI Components
+87	Common Mode Chokes	86	        Common Mode Chokes	Passive Components → EMI / RFI Components → Common Mode Chokes
+88	Ferrite Beads and Chips	86	        Ferrite Beads and Chips	Passive Components → EMI / RFI Components → Ferrite Beads and Chips
+89	Inductors	71	    Inductors	Passive Components → Inductors
+90	Fixed Inductors	89	        Fixed Inductors	Passive Components → Inductors → Fixed Inductors
+91	Inductor Kits	89	        Inductor Kits	Passive Components → Inductors → Inductor Kits
+92	Variable Inductors	89	        Variable Inductors	Passive Components → Inductors → Variable Inductors
+93	Resistors	71	    Resistors	Passive Components → Resistors
+94	Chip SMD Resistors	93	        Chip SMD Resistors	Passive Components → Resistors → Chip SMD Resistors
+95	Resistor Arrays	93	        Resistor Arrays	Passive Components → Resistors → Resistor Arrays
+96	Resistor Kits	93	        Resistor Kits	Passive Components → Resistors → Resistor Kits
+97	Thermistors	93	        Thermistors	Passive Components → Resistors → Thermistors
+98	Through-Hole Resistors	93	        Through-Hole Resistors	Passive Components → Resistors → Through-Hole Resistors
+99	Variable Resistors and Potentiometers	93	        Variable Resistors and Potentiometers	Passive Components → Resistors → Variable Resistors and Potentiometers
+100	Wirewound Resistors	93	        Wirewound Resistors	Passive Components → Resistors → Wirewound Resistors
+101	Transformers	71	    Transformers	Passive Components → Transformers
+102	Electromechanical	None	Electromechanical	Electromechanical
+103	Audio Products	102	    Audio Products	Electromechanical → Audio Products
+104	Buzzers	103	        Buzzers	Electromechanical → Audio Products → Buzzers
+105	Microphones	103	        Microphones	Electromechanical → Audio Products → Microphones
+106	Speakers	103	        Speakers	Electromechanical → Audio Products → Speakers
+107	Motors and Drives	102	    Motors and Drives	Electromechanical → Motors and Drives
+108	DC Motors	107	        DC Motors	Electromechanical → Motors and Drives → DC Motors
+109	Motor Drives	107	        Motor Drives	Electromechanical → Motors and Drives → Motor Drives
+110	Stepper Motors	107	        Stepper Motors	Electromechanical → Motors and Drives → Stepper Motors
+111	Reducers, Clutches, Brakes	107	        Reducers, Clutches, Brakes	Electromechanical → Motors and Drives → Reducers, Clutches, Brakes
+112	Transmissions, Reducers	111	            Transmissions, Reducers	Electromechanical → Motors and Drives → Reducers, Clutches, Brakes → Transmissions, Reducers
+113	Clutches, Brakes	111	            Clutches, Brakes	Electromechanical → Motors and Drives → Reducers, Clutches, Brakes → Clutches, Brakes
+114	Small AC Motors	107	        Small AC Motors	Electromechanical → Motors and Drives → Small AC Motors
+115	Gear Motors	107	        Gear Motors	Electromechanical → Motors and Drives → Gear Motors
+116	Other Motor Related Components	107	        Other Motor Related Components	Electromechanical → Motors and Drives → Other Motor Related Components
+117	Servo Motors/Drives	107	        Servo Motors/Drives	Electromechanical → Motors and Drives → Servo Motors/Drives
+118	Relays	102	    Relays	Electromechanical → Relays
+119	Power Relays	118	        Power Relays	Electromechanical → Relays → Power Relays
+120	Signal Relays	118	        Signal Relays	Electromechanical → Relays → Signal Relays
+121	Solid State Relays	118	        Solid State Relays	Electromechanical → Relays → Solid State Relays
+122	Time Delay Relays	118	        Time Delay Relays	Electromechanical → Relays → Time Delay Relays
+123	Thermal Management	102	    Thermal Management	Electromechanical → Thermal Management
+124	Fans and Blowers	123	        Fans and Blowers	Electromechanical → Thermal Management → Fans and Blowers
+125	Heat Sinks	123	        Heat Sinks	Electromechanical → Thermal Management → Heat Sinks
+126	Connectors	None	Connectors	Connectors
+127	Audio / Video Connectors	126	    Audio / Video Connectors	Connectors → Audio / Video Connectors
+128	Automotive Connectors	126	    Automotive Connectors	Connectors → Automotive Connectors
+129	Backplane Connectors	126	    Backplane Connectors	Connectors → Backplane Connectors
+130	DIN 41612 Connectors	129	        DIN 41612 Connectors	Connectors → Backplane Connectors → DIN 41612 Connectors
+131	Hard Metric Connectors	129	        Hard Metric Connectors	Connectors → Backplane Connectors → Hard Metric Connectors
+132	Board to Board Connectors	126	    Board to Board Connectors	Connectors → Board to Board Connectors
+133	Card Edge Connectors	126	    Card Edge Connectors	Connectors → Card Edge Connectors
+134	Circular Connectors	126	    Circular Connectors	Connectors → Circular Connectors
+135	D-Sub Connectors	126	    D-Sub Connectors	Connectors → D-Sub Connectors
+136	FFC / FPC	126	    FFC / FPC	Connectors → FFC / FPC
+137	Fiber Optic Connectors	126	    Fiber Optic Connectors	Connectors → Fiber Optic Connectors
+138	Headers and Wire Housings	126	    Headers and Wire Housings	Connectors → Headers and Wire Housings
+139	IC and Component Sockets	126	    IC and Component Sockets	Connectors → IC and Component Sockets
+140	Memory Connectors	126	    Memory Connectors	Connectors → Memory Connectors
+141	Modular / Ethernet Connectors	126	    Modular / Ethernet Connectors	Connectors → Modular / Ethernet Connectors
+142	Photovoltaic / Solar Connectors	126	    Photovoltaic / Solar Connectors	Connectors → Photovoltaic / Solar Connectors
+143	Power Connectors	126	    Power Connectors	Connectors → Power Connectors
+144	RF / Coaxial Connectors	126	    RF / Coaxial Connectors	Connectors → RF / Coaxial Connectors
+145	Terminal Blocks	126	    Terminal Blocks	Connectors → Terminal Blocks
+146	Terminals	126	    Terminals	Connectors → Terminals
+147	USB Connectors	126	    USB Connectors	Connectors → USB Connectors
+148	Test Equipment	None	Test Equipment	Test Equipment
+149	Benchtop Power Supplies	148	    Benchtop Power Supplies	Test Equipment → Benchtop Power Supplies
+150	Function Generators	148	    Function Generators	Test Equipment → Function Generators
+151	Multimeters	148	    Multimeters	Test Equipment → Multimeters
+152	Oscilloscopes	148	    Oscilloscopes	Test Equipment → Oscilloscopes
+153	Spectrum Analyzers	148	    Spectrum Analyzers	Test Equipment → Spectrum Analyzers
+154	Test Probes, Leads and Clips	148	    Test Probes, Leads and Clips	Test Equipment → Test Probes, Leads and Clips
+155	Thermometers	148	    Thermometers	Test Equipment → Thermometers
+156	Tools and Supplies	None	Tools and Supplies	Tools and Supplies
+157	Anti-Static Control	156	    Anti-Static Control	Tools and Supplies → Anti-Static Control
+158	Chemicals	156	    Chemicals	Tools and Supplies → Chemicals
+159	Enclosures	156	    Enclosures	Tools and Supplies → Enclosures
+160	Flashlights	156	    Flashlights	Tools and Supplies → Flashlights
+161	Hand Tools	156	    Hand Tools	Tools and Supplies → Hand Tools
+162	Drills	161	        Drills	Tools and Supplies → Hand Tools → Drills
+163	Hammers	161	        Hammers	Tools and Supplies → Hand Tools → Hammers
+164	Heat Guns	161	        Heat Guns	Tools and Supplies → Hand Tools → Heat Guns
+165	Knives and Blades	161	        Knives and Blades	Tools and Supplies → Hand Tools → Knives and Blades
+166	Micrometers	161	        Micrometers	Tools and Supplies → Hand Tools → Micrometers
+167	Pliers and Tweezers	161	        Pliers and Tweezers	Tools and Supplies → Hand Tools → Pliers and Tweezers
+168	Screw and Nut Drivers	161	        Screw and Nut Drivers	Tools and Supplies → Hand Tools → Screw and Nut Drivers
+169	Wrenches	161	        Wrenches	Tools and Supplies → Hand Tools → Wrenches
+170	Hardware, Fasteners	156	    Hardware, Fasteners	Tools and Supplies → Hardware, Fasteners
+171	Anchors	170	        Anchors	Tools and Supplies → Hardware, Fasteners → Anchors
+172	Screws and Fasteners	170	        Screws and Fasteners	Tools and Supplies → Hardware, Fasteners → Screws and Fasteners
+173	Spacers, Standoffs	170	        Spacers, Standoffs	Tools and Supplies → Hardware, Fasteners → Spacers, Standoffs
+174	Thread Inserts	170	        Thread Inserts	Tools and Supplies → Hardware, Fasteners → Thread Inserts
+175	Washers	170	        Washers	Tools and Supplies → Hardware, Fasteners → Washers
+176	Prototype Boards and Breadboards	156	    Prototype Boards and Breadboards	Tools and Supplies → Prototype Boards and Breadboards
+177	Raw Materials	156	    Raw Materials	Tools and Supplies → Raw Materials
+178	Soldering Supplies and Tools	156	    Soldering Supplies and Tools	Tools and Supplies → Soldering Supplies and Tools
+179	Soldering Iron	178	        Soldering Iron	Tools and Supplies → Soldering Supplies and Tools → Soldering Iron
+180	Soldering iron holder	178	        Soldering iron holder	Tools and Supplies → Soldering Supplies and Tools → Soldering iron holder
+181	Solder Wire	178	        Solder Wire	Tools and Supplies → Soldering Supplies and Tools → Solder Wire
+182	Solder absorbing wire	178	        Solder absorbing wire	Tools and Supplies → Soldering Supplies and Tools → Solder absorbing wire
+183	Storage Bins	156	    Storage Bins	Tools and Supplies → Storage Bins
+184	Wire Crimpers and Strippers	156	    Wire Crimpers and Strippers	Tools and Supplies → Wire Crimpers and Strippers
+185	Sensors	None	Sensors	Sensors
+186	Current Sensors	185	    Current Sensors	Sensors → Current Sensors
+187	Flow Sensors	185	    Flow Sensors	Sensors → Flow Sensors
+188	Magnetic Sensors	185	    Magnetic Sensors	Sensors → Magnetic Sensors
+189	Motion Sensors	185	    Motion Sensors	Sensors → Motion Sensors
+190	Accelerometers	189	        Accelerometers	Sensors → Motion Sensors → Accelerometers
+191	Gyroscopes	189	        Gyroscopes	Sensors → Motion Sensors → Gyroscopes
+192	Inertial Measurement Units (IMUs)	189	        Inertial Measurement Units (IMUs)	Sensors → Motion Sensors → Inertial Measurement Units (IMUs)
+193	Optical Sensors	185	    Optical Sensors	Sensors → Optical Sensors
+194	Photodiodes	193	        Photodiodes	Sensors → Optical Sensors → Photodiodes
+195	Photoelectric Sensors	193	        Photoelectric Sensors	Sensors → Optical Sensors → Photoelectric Sensors
+196	Phototransistor	193	        Phototransistor	Sensors → Optical Sensors → Phototransistor
+197	Pressure Sensors	185	    Pressure Sensors	Sensors → Pressure Sensors
+198	Proximity Sensors	185	    Proximity Sensors	Sensors → Proximity Sensors
+199	Temperature and Humidity Sensors	185	    Temperature and Humidity Sensors	Sensors → Temperature and Humidity Sensors
+200	Contact Switches	185	    Contact Switches	Sensors → Contact Switches
+201	Sensor Rails, DIN Rails	185	    Sensor Rails, DIN Rails	Sensors → Sensor Rails, DIN Rails
+202	Optoelectronics	None	Optoelectronics	Optoelectronics
+203	Displays	202	    Displays	Optoelectronics → Displays
+204	LCD, OLED, Graphic Displays	203	        LCD, OLED, Graphic Displays	Optoelectronics → Displays → LCD, OLED, Graphic Displays
+205	LED Displays	203	        LED Displays	Optoelectronics → Displays → LED Displays
+206	Fiber Optics	202	    Fiber Optics	Optoelectronics → Fiber Optics
+207	LEDs	202	    LEDs	Optoelectronics → LEDs
+208	Lamps	202	    Lamps	Optoelectronics → Lamps
+209	Laser Products	202	    Laser Products	Optoelectronics → Laser Products
+210	Optocouplers	202	    Optocouplers	Optoelectronics → Optocouplers
+211	Circuit Protection	None	Circuit Protection	Circuit Protection
+212	Circuit Breakers	211	    Circuit Breakers	Circuit Protection → Circuit Breakers
+213	ESD and Circuit Protection ICs	211	    ESD and Circuit Protection ICs	Circuit Protection → ESD and Circuit Protection ICs
+214	Fuse Holders	211	    Fuse Holders	Circuit Protection → Fuse Holders
+215	Fuses	211	    Fuses	Circuit Protection → Fuses
+216	PTC Resettable Fuses	211	    PTC Resettable Fuses	Circuit Protection → PTC Resettable Fuses
+217	TVS Diodes	211	    TVS Diodes	Circuit Protection → TVS Diodes
+218	Varistors	211	    Varistors	Circuit Protection → Varistors
+219	Power Products	None	Power Products	Power Products
+220	Batteries and Accessories	219	    Batteries and Accessories	Power Products → Batteries and Accessories
+221	DC to AC Inverters	219	    DC to AC Inverters	Power Products → DC to AC Inverters
+222	Power Supply Modules	219	    Power Supply Modules	Power Products → Power Supply Modules
+223	Board Mount Modules	222	        Board Mount Modules	Power Products → Power Supply Modules → Board Mount Modules
+224	Off-Board Modules	222	        Off-Board Modules	Power Products → Power Supply Modules → Off-Board Modules
+225	Wall Adapters	222	        Wall Adapters	Power Products → Power Supply Modules → Wall Adapters
+226	Surge Protectors	219	    Surge Protectors	Power Products → Surge Protectors
+227	Uninterruptible Power Supply (UPS)	219	    Uninterruptible Power Supply (UPS)	Power Products → Uninterruptible Power Supply (UPS)
+228	Cables and Wire	None	Cables and Wire	Cables and Wire
+229	Audio / Video Cables	228	    Audio / Video Cables	Cables and Wire → Audio / Video Cables
+230	Bulk Hook-up Wire	228	    Bulk Hook-up Wire	Cables and Wire → Bulk Hook-up Wire
+231	Bulk Multiple Conductor Cables	228	    Bulk Multiple Conductor Cables	Cables and Wire → Bulk Multiple Conductor Cables
+232	Coaxial / RF Cable Assemblies	228	    Coaxial / RF Cable Assemblies	Cables and Wire → Coaxial / RF Cable Assemblies
+233	D-Sub Cables	228	    D-Sub Cables	Cables and Wire → D-Sub Cables
+234	Ethernet Cables	228	    Ethernet Cables	Cables and Wire → Ethernet Cables
+235	FFC / FPC Cables	228	    FFC / FPC Cables	Cables and Wire → FFC / FPC Cables
+236	Fiber Optic Cables	228	    Fiber Optic Cables	Cables and Wire → Fiber Optic Cables
+237	Flat Ribbon Cables	228	    Flat Ribbon Cables	Cables and Wire → Flat Ribbon Cables
+238	USB Cables	228	    USB Cables	Cables and Wire → USB Cables
+239	Wire Protection and Management	228	    Wire Protection and Management	Cables and Wire → Wire Protection and Management
+240	Cable Markers	239	        Cable Markers	Cables and Wire → Wire Protection and Management → Cable Markers
+241	Cable Ties	239	        Cable Ties	Cables and Wire → Wire Protection and Management → Cable Ties
+242	Heat Shrink Tubing	239	        Heat Shrink Tubing	Cables and Wire → Wire Protection and Management → Heat Shrink Tubing
+243	Non-Heat Shrink Tubing and Sleeves	239	        Non-Heat Shrink Tubing and Sleeves	Cables and Wire → Wire Protection and Management → Non-Heat Shrink Tubing and Sleeves
+244	Wire Ducting	239	        Wire Ducting	Cables and Wire → Wire Protection and Management → Wire Ducting
+245	Zip tie	228	    Zip tie	Cables and Wire → Zip tie
+246	Machining	None	Machining	Machining
+247	Indexable Inserts	246	    Indexable Inserts	Machining → Indexable Inserts
+248	Milling Inserts	247	        Milling Inserts	Machining → Indexable Inserts → Milling Inserts
+249	Parting and Grooving Inserts	247	        Parting and Grooving Inserts	Machining → Indexable Inserts → Parting and Grooving Inserts
+250	Threading Inserts	247	        Threading Inserts	Machining → Indexable Inserts → Threading Inserts
+251	Turning Inserts	247	        Turning Inserts	Machining → Indexable Inserts → Turning Inserts
+252	Indexable Tools	246	    Indexable Tools	Machining → Indexable Tools
+253	Machine Cutting Tools	246	    Machine Cutting Tools	Machining → Machine Cutting Tools
+254	Countersinks and Center Reamers	253	        Countersinks and Center Reamers	Machining → Machine Cutting Tools → Countersinks and Center Reamers
+255	Grooving Tools	253	        Grooving Tools	Machining → Machine Cutting Tools → Grooving Tools
+256	Jobber Length Drill Bits	253	        Jobber Length Drill Bits	Machining → Machine Cutting Tools → Jobber Length Drill Bits
+257	Routing End Mills	253	        Routing End Mills	Machining → Machine Cutting Tools → Routing End Mills
+258	Screw Machine Length Drill Bits	253	        Screw Machine Length Drill Bits	Machining → Machine Cutting Tools → Screw Machine Length Drill Bits
+259	Solid Boring Bars	253	        Solid Boring Bars	Machining → Machine Cutting Tools → Solid Boring Bars
+260	Taper Length Drill Bits	253	        Taper Length Drill Bits	Machining → Machine Cutting Tools → Taper Length Drill Bits
+261	Taps	253	        Taps	Machining → Machine Cutting Tools → Taps
+262	Thread Mills	253	        Thread Mills	Machining → Machine Cutting Tools → Thread Mills
+263	Machine Fluids	246	    Machine Fluids	Machining → Machine Fluids
+264	Machine Tool Accessories	246	    Machine Tool Accessories	Machining → Machine Tool Accessories
+265	Collets	264	        Collets	Machining → Machine Tool Accessories → Collets
+266	Drill Bushings	264	        Drill Bushings	Machining → Machine Tool Accessories → Drill Bushings
+267	Hand Knobs and Wheels	264	        Hand Knobs and Wheels	Machining → Machine Tool Accessories → Hand Knobs and Wheels
+268	Machinery	246	    Machinery	Machining → Machinery
+269	Industrial Control	None	Industrial Control	Industrial Control
+270	Panel Meters	269	    Panel Meters	Industrial Control → Panel Meters
+271	Programmable Logic Controllers (PLC)	269	    Programmable Logic Controllers (PLC)	Industrial Control → Programmable Logic Controllers (PLC)
+272	Temperature Controllers	269	    Temperature Controllers	Industrial Control → Temperature Controllers
+273	Automation Components	None	Automation Components	Automation Components
+274	Linear Motion	273	    Linear Motion	Automation Components → Linear Motion
+275	Linear Shafts	274	        Linear Shafts	Automation Components → Linear Motion → Linear Shafts
+276	Shaft Supports	274	        Shaft Supports	Automation Components → Linear Motion → Shaft Supports
+277	Shaft Collars	274	        Shaft Collars	Automation Components → Linear Motion → Shaft Collars
+278	Linear Bushings	274	        Linear Bushings	Automation Components → Linear Motion → Linear Bushings
+279	Ball Guides	274	        Ball Guides	Automation Components → Linear Motion → Ball Guides
+280	Spline Shaft	274	        Spline Shaft	Automation Components → Linear Motion → Spline Shaft
+281	Oil Free Bushings, Washers	274	        Oil Free Bushings, Washers	Automation Components → Linear Motion → Oil Free Bushings, Washers
+282	Oil Free Bushings	281	            Oil Free Bushings	Automation Components → Linear Motion → Oil Free Bushings, Washers → Oil Free Bushings
+283	Oil Free Washers	281	            Oil Free Washers	Automation Components → Linear Motion → Oil Free Bushings, Washers → Oil Free Washers
+284	Lubrication-Free Material (Round Bars, Pipes)	281	            Lubrication-Free Material (Round Bars, Pipes)	Automation Components → Linear Motion → Oil Free Bushings, Washers → Lubrication-Free Material (Round Bars, Pipes)
+285	Oil Free Plates, Guide Rails	274	        Oil Free Plates, Guide Rails	Automation Components → Linear Motion → Oil Free Plates, Guide Rails
+286	Oil Free Slide Plates	285	            Oil Free Slide Plates	Automation Components → Linear Motion → Oil Free Plates, Guide Rails → Oil Free Slide Plates
+287	Oil Free Guide Rails	285	            Oil Free Guide Rails	Automation Components → Linear Motion → Oil Free Plates, Guide Rails → Oil Free Guide Rails
+288	Standard Guide Rails	285	            Standard Guide Rails	Automation Components → Linear Motion → Oil Free Plates, Guide Rails → Standard Guide Rails
+289	Linear Guides	274	        Linear Guides	Automation Components → Linear Motion → Linear Guides
+290	Standard Linear Guides	289	            Standard Linear Guides	Automation Components → Linear Motion → Linear Guides → Standard Linear Guides
+291	Linear Guide Accessories	289	            Linear Guide Accessories	Automation Components → Linear Motion → Linear Guides → Linear Guide Accessories
+292	Needle Roller Guides	289	            Needle Roller Guides	Automation Components → Linear Motion → Linear Guides → Needle Roller Guides
+293	Cable Carriers	274	        Cable Carriers	Automation Components → Linear Motion → Cable Carriers
+294	Cable Carrier Peripheral Components	293	            Cable Carrier Peripheral Components	Automation Components → Linear Motion → Cable Carriers → Cable Carrier Peripheral Components
+295	Ball Screw	274	        Ball Screw	Automation Components → Linear Motion → Ball Screw
+296	Support Units	274	        Support Units	Automation Components → Linear Motion → Support Units
+297	Lead Screws, Slide Screws	274	        Lead Screws, Slide Screws	Automation Components → Linear Motion → Lead Screws, Slide Screws
+298	Lead Screws	297	            Lead Screws	Automation Components → Linear Motion → Lead Screws, Slide Screws → Lead Screws
+299	Nuts for Lead Screws	297	            Nuts for Lead Screws	Automation Components → Linear Motion → Lead Screws, Slide Screws → Nuts for Lead Screws
+300	Lead Screw Support Units	297	            Lead Screw Support Units	Automation Components → Linear Motion → Lead Screws, Slide Screws → Lead Screw Support Units
+301	Slide Screws, Change Nuts	297	            Slide Screws, Change Nuts	Automation Components → Linear Motion → Lead Screws, Slide Screws → Slide Screws, Change Nuts
+302	Digital Position Indicators	297	            Digital Position Indicators	Automation Components → Linear Motion → Lead Screws, Slide Screws → Digital Position Indicators
+303	Stopper Plates	297	            Stopper Plates	Automation Components → Linear Motion → Lead Screws, Slide Screws → Stopper Plates
+304	Cross Roller	274	        Cross Roller	Automation Components → Linear Motion → Cross Roller
+305	Cross Roller Guides	304	            Cross Roller Guides	Automation Components → Linear Motion → Cross Roller → Cross Roller Guides
+306	Cross Roller Tables	304	            Cross Roller Tables	Automation Components → Linear Motion → Cross Roller → Cross Roller Tables
+307	Linear Ball Slides	304	            Linear Ball Slides	Automation Components → Linear Motion → Cross Roller → Linear Ball Slides
+308	Linear Rails, V Guides, Oil Free Guides Units	274	        Linear Rails, V Guides, Oil Free Guides Units	Automation Components → Linear Motion → Linear Rails, V Guides, Oil Free Guides Units
+309	Linear Rails (Retainer Type)	308	            Linear Rails (Retainer Type)	Automation Components → Linear Motion → Linear Rails, V Guides, Oil Free Guides Units → Linear Rails (Retainer Type)
+310	V Guides	308	            V Guides	Automation Components → Linear Motion → Linear Rails, V Guides, Oil Free Guides Units → V Guides
+311	Linear Rails (Bearing Type)	308	            Linear Rails (Bearing Type)	Automation Components → Linear Motion → Linear Rails, V Guides, Oil Free Guides Units → Linear Rails (Bearing Type)
+312	Linear Rails (Ball Roller Type)	308	            Linear Rails (Ball Roller Type)	Automation Components → Linear Motion → Linear Rails, V Guides, Oil Free Guides Units → Linear Rails (Ball Roller Type)
+313	Lubrication-Free Guide Units	308	            Lubrication-Free Guide Units	Automation Components → Linear Motion → Linear Rails, V Guides, Oil Free Guides Units → Lubrication-Free Guide Units
+314	Actuators	274	        Actuators	Automation Components → Linear Motion → Actuators
+315	Single Axis Robots	314	            Single Axis Robots	Automation Components → Linear Motion → Actuators → Single Axis Robots
+316	Single Axis Actuators	314	            Single Axis Actuators	Automation Components → Linear Motion → Actuators → Single Axis Actuators
+317	Belt Actuators/Drives and Accessories	314	            Belt Actuators/Drives and Accessories	Automation Components → Linear Motion → Actuators → Belt Actuators/Drives and Accessories
+318	Single Axis Units (KU)	314	            Single Axis Units (KU)	Automation Components → Linear Motion → Actuators → Single Axis Units (KU)
+319	Rod Style Actuators	314	            Rod Style Actuators	Automation Components → Linear Motion → Actuators → Rod Style Actuators
+320	Rotary Motion	273	    Rotary Motion	Automation Components → Rotary Motion
+321	Bearings	320	        Bearings	Automation Components → Rotary Motion → Bearings
+322	Ball Bearings	321	            Ball Bearings	Automation Components → Rotary Motion → Bearings → Ball Bearings
+323	Roller Bearings	321	            Roller Bearings	Automation Components → Rotary Motion → Bearings → Roller Bearings
+324	Bearing Accessories	320	        Bearing Accessories	Automation Components → Rotary Motion → Bearing Accessories
+325	Bearing Lock Nuts	324	            Bearing Lock Nuts	Automation Components → Rotary Motion → Bearing Accessories → Bearing Lock Nuts
+326	Bearing Spacers	324	            Bearing Spacers	Automation Components → Rotary Motion → Bearing Accessories → Bearing Spacers
+327	Bearing Shaft Screws	324	            Bearing Shaft Screws	Automation Components → Rotary Motion → Bearing Accessories → Bearing Shaft Screws
+328	Bearing Covers, Seals	324	            Bearing Covers, Seals	Automation Components → Rotary Motion → Bearing Accessories → Bearing Covers, Seals
+329	Shaft End Plates / Caps	324	            Shaft End Plates / Caps	Automation Components → Rotary Motion → Bearing Accessories → Shaft End Plates / Caps
+330	Bearing Balls	324	            Bearing Balls	Automation Components → Rotary Motion → Bearing Accessories → Bearing Balls
+331	Bearing Units	320	        Bearing Units	Automation Components → Rotary Motion → Bearing Units
+332	Pillow Type	331	            Pillow Type	Automation Components → Rotary Motion → Bearing Units → Pillow Type
+333	Flange Type	331	            Flange Type	Automation Components → Rotary Motion → Bearing Units → Flange Type
+334	Other Shapes	331	            Other Shapes	Automation Components → Rotary Motion → Bearing Units → Other Shapes
+335	Bearings with Housings	320	        Bearings with Housings	Automation Components → Rotary Motion → Bearings with Housings
+336	Cam Followers, Roller Followers	320	        Cam Followers, Roller Followers	Automation Components → Rotary Motion → Cam Followers, Roller Followers
+337	Rotary Shafts, Drive Shafts	320	        Rotary Shafts, Drive Shafts	Automation Components → Rotary Motion → Rotary Shafts, Drive Shafts
+338	Rotary Shafts	337	            Rotary Shafts	Automation Components → Rotary Motion → Rotary Shafts, Drive Shafts → Rotary Shafts
+339	Drive Shafts	337	            Drive Shafts	Automation Components → Rotary Motion → Rotary Shafts, Drive Shafts → Drive Shafts
+340	Cantilever Shafts	320	        Cantilever Shafts	Automation Components → Rotary Motion → Cantilever Shafts
+341	Connecting Parts	273	    Connecting Parts	Automation Components → Connecting Parts
+342	Fulcrum Pins	341	        Fulcrum Pins	Automation Components → Connecting Parts → Fulcrum Pins
+343	Hinge Pins	341	        Hinge Pins	Automation Components → Connecting Parts → Hinge Pins
+344	Hinge Bases, Hinge Plates, Hinge Bolt	341	        Hinge Bases, Hinge Plates, Hinge Bolt	Automation Components → Connecting Parts → Hinge Bases, Hinge Plates, Hinge Bolt
+345	Links	341	        Links	Automation Components → Connecting Parts → Links
+346	Rod End Bearings, Spherical Bearings	341	        Rod End Bearings, Spherical Bearings	Automation Components → Connecting Parts → Rod End Bearings, Spherical Bearings
+347	Connecting Bars, Link Cables/Wires	341	        Connecting Bars, Link Cables/Wires	Automation Components → Connecting Parts → Connecting Bars, Link Cables/Wires
+348	Rotary Power Transmission	273	    Rotary Power Transmission	Automation Components → Rotary Power Transmission
+349	Shaft Couplings	348	        Shaft Couplings	Automation Components → Rotary Power Transmission → Shaft Couplings
+350	Flexible Shaft Couplings	349	            Flexible Shaft Couplings	Automation Components → Rotary Power Transmission → Shaft Couplings → Flexible Shaft Couplings
+351	Rigid Type	349	            Rigid Type	Automation Components → Rotary Power Transmission → Shaft Couplings → Rigid Type
+352	Universal Joints	349	            Universal Joints	Automation Components → Rotary Power Transmission → Shaft Couplings → Universal Joints
+353	Chain Couplings	349	            Chain Couplings	Automation Components → Rotary Power Transmission → Shaft Couplings → Chain Couplings
+354	Flange Couplings	349	            Flange Couplings	Automation Components → Rotary Power Transmission → Shaft Couplings → Flange Couplings
+355	Large Specialty Couplings	349	            Large Specialty Couplings	Automation Components → Rotary Power Transmission → Shaft Couplings → Large Specialty Couplings
+356	Keyless Bushing (Fastening Fittings)	348	        Keyless Bushing (Fastening Fittings)	Automation Components → Rotary Power Transmission → Keyless Bushing (Fastening Fittings)
+357	Timing Belts, Pulleys	348	        Timing Belts, Pulleys	Automation Components → Rotary Power Transmission → Timing Belts, Pulleys
+358	Timing Belt	357	            Timing Belt	Automation Components → Rotary Power Transmission → Timing Belts, Pulleys → Timing Belt
+359	Timing Pulleys, Idlers	357	            Timing Pulleys, Idlers	Automation Components → Rotary Power Transmission → Timing Belts, Pulleys → Timing Pulleys, Idlers
+360	Round Belts, Pulleys	348	        Round Belts, Pulleys	Automation Components → Rotary Power Transmission → Round Belts, Pulleys
+361	Round Belts	360	            Round Belts	Automation Components → Rotary Power Transmission → Round Belts, Pulleys → Round Belts
+362	Round Belt Pulleys, Idlers	360	            Round Belt Pulleys, Idlers	Automation Components → Rotary Power Transmission → Round Belts, Pulleys → Round Belt Pulleys, Idlers
+363	V Belts, Pulleys	348	        V Belts, Pulleys	Automation Components → Rotary Power Transmission → V Belts, Pulleys
+364	V Belt Pulleys, Idlers	363	            V Belt Pulleys, Idlers	Automation Components → Rotary Power Transmission → V Belts, Pulleys → V Belt Pulleys, Idlers
+365	V Belt Pulleys	364	                V Belt Pulleys	Automation Components → Rotary Power Transmission → V Belts, Pulleys → V Belt Pulleys, Idlers → V Belt Pulleys
+366	V Belt	363	            V Belt	Automation Components → Rotary Power Transmission → V Belts, Pulleys → V Belt
+367	Chains, Sprockets	348	        Chains, Sprockets	Automation Components → Rotary Power Transmission → Chains, Sprockets
+368	Chains	367	            Chains	Automation Components → Rotary Power Transmission → Chains, Sprockets → Chains
+369	Roller Chain Sprockets	367	            Roller Chain Sprockets	Automation Components → Rotary Power Transmission → Chains, Sprockets → Roller Chain Sprockets
+370	Idlers	367	            Idlers	Automation Components → Rotary Power Transmission → Chains, Sprockets → Idlers
+371	Chain Guides	367	            Chain Guides	Automation Components → Rotary Power Transmission → Chains, Sprockets → Chain Guides
+372	Chain Bolts, Turnbuckles	367	            Chain Bolts, Turnbuckles	Automation Components → Rotary Power Transmission → Chains, Sprockets → Chain Bolts, Turnbuckles
+373	Roller Chain Installation Equipment	367	            Roller Chain Installation Equipment	Automation Components → Rotary Power Transmission → Chains, Sprockets → Roller Chain Installation Equipment
+374	Cleaners and Lubricants for Chain	367	            Cleaners and Lubricants for Chain	Automation Components → Rotary Power Transmission → Chains, Sprockets → Cleaners and Lubricants for Chain
+375	Tensioners	348	        Tensioners	Automation Components → Rotary Power Transmission → Tensioners
+376	Tensioners (for Idler Set)	375	            Tensioners (for Idler Set)	Automation Components → Rotary Power Transmission → Tensioners → Tensioners (for Idler Set)
+377	Chain Guide Tensioners	375	            Chain Guide Tensioners	Automation Components → Rotary Power Transmission → Tensioners → Chain Guide Tensioners
+378	Auto Tensioners	375	            Auto Tensioners	Automation Components → Rotary Power Transmission → Tensioners → Auto Tensioners
+379	Gears	348	        Gears	Automation Components → Rotary Power Transmission → Gears
+380	Spur Gears	379	            Spur Gears	Automation Components → Rotary Power Transmission → Gears → Spur Gears
+381	Bevel Gears	379	            Bevel Gears	Automation Components → Rotary Power Transmission → Gears → Bevel Gears
+382	Helical Gear	379	            Helical Gear	Automation Components → Rotary Power Transmission → Gears → Helical Gear
+383	Worm Gears	379	            Worm Gears	Automation Components → Rotary Power Transmission → Gears → Worm Gears
+384	Rack Gears	379	            Rack Gears	Automation Components → Rotary Power Transmission → Gears → Rack Gears
+385	Ratchet	379	            Ratchet	Automation Components → Rotary Power Transmission → Gears → Ratchet
+386	Non-contact magnetic drives	348	        Non-contact magnetic drives	Automation Components → Rotary Power Transmission → Non-contact magnetic drives
+387	Other Belts, Pulleys	348	        Other Belts, Pulleys	Automation Components → Rotary Power Transmission → Other Belts, Pulleys
+388	Other Belts	387	            Other Belts	Automation Components → Rotary Power Transmission → Other Belts, Pulleys → Other Belts
+389	Locating, Positioning, Jigs & Fixtures	273	    Locating, Positioning, Jigs & Fixtures	Automation Components → Locating, Positioning, Jigs & Fixtures
+390	Locating Pins, Bushings	389	        Locating Pins, Bushings	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating Pins, Bushings
+391	Bushings for Fixtures	390	            Bushings for Fixtures	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating Pins, Bushings → Bushings for Fixtures
+392	Locating Pins for Jigs and Fixtures	390	            Locating Pins for Jigs and Fixtures	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating Pins, Bushings → Locating Pins for Jigs and Fixtures
+393	Height Adjusting Pins	390	            Height Adjusting Pins	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating Pins, Bushings → Height Adjusting Pins
+394	Locating Pins	390	            Locating Pins	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating Pins, Bushings → Locating Pins
+395	Stop Pins, Stopper Blocks	389	        Stop Pins, Stopper Blocks	Automation Components → Locating, Positioning, Jigs & Fixtures → Stop Pins, Stopper Blocks
+396	Stop Pins, Stopper Bolts	395	            Stop Pins, Stopper Bolts	Automation Components → Locating, Positioning, Jigs & Fixtures → Stop Pins, Stopper Blocks → Stop Pins, Stopper Bolts
+397	Stopper Block	395	            Stopper Block	Automation Components → Locating, Positioning, Jigs & Fixtures → Stop Pins, Stopper Blocks → Stopper Block
+398	Stoppers, Point Pads	395	            Stoppers, Point Pads	Automation Components → Locating, Positioning, Jigs & Fixtures → Stop Pins, Stopper Blocks → Stoppers, Point Pads
+399	Adjustment Screws, Blocks	389	        Adjustment Screws, Blocks	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks
+400	Adjustment Screws	399	            Adjustment Screws	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Adjustment Screws
+401	Clamp Plates	399	            Clamp Plates	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Clamp Plates
+402	Adjusting Bolts	399	            Adjusting Bolts	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Adjusting Bolts
+403	Grub Screws	399	            Grub Screws	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Grub Screws
+404	Adjusting Blocks and Shims for Welding Fixtures	399	            Adjusting Blocks and Shims for Welding Fixtures	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Adjusting Blocks and Shims for Welding Fixtures
+405	Clamping Screws	399	            Clamping Screws	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Clamping Screws
+406	Stopper Bolts	399	            Stopper Bolts	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Stopper Bolts
+407	Leveling Screws	399	            Leveling Screws	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Leveling Screws
+408	Blocks for Adjusting Bolts	399	            Blocks for Adjusting Bolts	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Blocks for Adjusting Bolts
+409	Threaded Stopper Blocks, Brackets	399	            Threaded Stopper Blocks, Brackets	Automation Components → Locating, Positioning, Jigs & Fixtures → Adjustment Screws, Blocks → Threaded Stopper Blocks, Brackets
+410	Locating and Guide Components	389	        Locating and Guide Components	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating and Guide Components
+411	Locating Block Sets	410	            Locating Block Sets	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating and Guide Components → Locating Block Sets
+412	Guides	410	            Guides	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating and Guide Components → Guides
+413	Rough Guide Pins	410	            Rough Guide Pins	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating and Guide Components → Rough Guide Pins
+414	Rough Guide for Welding Fixtures	410	            Rough Guide for Welding Fixtures	Automation Components → Locating, Positioning, Jigs & Fixtures → Locating and Guide Components → Rough Guide for Welding Fixtures
+415	Plungers, Index Plungers	389	        Plungers, Index Plungers	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers
+416	Spring Plungers	415	            Spring Plungers	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Spring Plungers
+417	Special Purpose Plungers	415	            Special Purpose Plungers	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Special Purpose Plungers
+418	Ball Lock Pins, Slot Pins	415	            Ball Lock Pins, Slot Pins	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Ball Lock Pins, Slot Pins
+419	Roller Plungers	415	            Roller Plungers	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Roller Plungers
+420	Plunger Accessories	415	            Plunger Accessories	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Plunger Accessories
+421	Ball Buttons	415	            Ball Buttons	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Ball Buttons
+422	Other Peripheral Components	415	            Other Peripheral Components	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Other Peripheral Components
+423	Ball Plungers	415	            Ball Plungers	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Ball Plungers
+424	Indexing Plungers	415	            Indexing Plungers	Automation Components → Locating, Positioning, Jigs & Fixtures → Plungers, Index Plungers → Indexing Plungers
+425	Toggle Clamp	389	        Toggle Clamp	Automation Components → Locating, Positioning, Jigs & Fixtures → Toggle Clamp
+426	Horizontal Hold-Down Toggle Clamps	425	            Horizontal Hold-Down Toggle Clamps	Automation Components → Locating, Positioning, Jigs & Fixtures → Toggle Clamp → Horizontal Hold-Down Toggle Clamps
+427	Vertical Hold-Down Toggle Clamps	425	            Vertical Hold-Down Toggle Clamps	Automation Components → Locating, Positioning, Jigs & Fixtures → Toggle Clamp → Vertical Hold-Down Toggle Clamps
+428	Push-Pull Toggle Clamps	425	            Push-Pull Toggle Clamps	Automation Components → Locating, Positioning, Jigs & Fixtures → Toggle Clamp → Push-Pull Toggle Clamps
+429	Heavy Duty Welded Toggle Clamps	425	            Heavy Duty Welded Toggle Clamps	Automation Components → Locating, Positioning, Jigs & Fixtures → Toggle Clamp → Heavy Duty Welded Toggle Clamps
+430	Plier Clamps	425	            Plier Clamps	Automation Components → Locating, Positioning, Jigs & Fixtures → Toggle Clamp → Plier Clamps
+431	Pneumatic Clamps	425	            Pneumatic Clamps	Automation Components → Locating, Positioning, Jigs & Fixtures → Toggle Clamp → Pneumatic Clamps
+432	Toggle Clamp Accessories	425	            Toggle Clamp Accessories	Automation Components → Locating, Positioning, Jigs & Fixtures → Toggle Clamp → Toggle Clamp Accessories
+433	Workpiece Clamps	389	        Workpiece Clamps	Automation Components → Locating, Positioning, Jigs & Fixtures → Workpiece Clamps
+434	Push-Down Clamps	433	            Push-Down Clamps	Automation Components → Locating, Positioning, Jigs & Fixtures → Workpiece Clamps → Push-Down Clamps
+435	Straight Line Action Clamp	433	            Straight Line Action Clamp	Automation Components → Locating, Positioning, Jigs & Fixtures → Workpiece Clamps → Straight Line Action Clamp
+436	Slide Pushers	433	            Slide Pushers	Automation Components → Locating, Positioning, Jigs & Fixtures → Workpiece Clamps → Slide Pushers
+437	Contact Probes	273	    Contact Probes	Automation Components → Contact Probes
+438	Pneumatics, Hydraulics	273	    Pneumatics, Hydraulics	Automation Components → Pneumatics, Hydraulics
+439	Cylinders, Rotary Actuators	438	        Cylinders, Rotary Actuators	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators
+440	Air Cylinders	439	            Air Cylinders	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Air Cylinders
+441	General Purpose Cylinders	440	                General Purpose Cylinders	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Air Cylinders → General Purpose Cylinders
+442	Compact Cylinders	440	                Compact Cylinders	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Air Cylinders → Compact Cylinders
+443	Cylinders with Guides	440	                Cylinders with Guides	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Air Cylinders → Cylinders with Guides
+444	Other Cylinders	440	                Other Cylinders	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Air Cylinders → Other Cylinders
+445	Pneumatic Slide Cylinders	439	            Pneumatic Slide Cylinders	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Pneumatic Slide Cylinders
+446	Rotary Actuators	439	            Rotary Actuators	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Rotary Actuators
+447	Clamp Cylinders	439	            Clamp Cylinders	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Clamp Cylinders
+448	Hands, Grippers	439	            Hands, Grippers	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Hands, Grippers
+449	Sensors for Cylinders	439	            Sensors for Cylinders	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Sensors for Cylinders
+450	Metal Fittings for Cylinders	439	            Metal Fittings for Cylinders	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Metal Fittings for Cylinders
+451	Hands, Fingers for Grippers	439	            Hands, Fingers for Grippers	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Hands, Fingers for Grippers
+452	Cylinder / Rotary Actuator / Gripper Accessories	439	            Cylinder / Rotary Actuator / Gripper Accessories	Automation Components → Pneumatics, Hydraulics → Cylinders, Rotary Actuators → Cylinder / Rotary Actuator / Gripper Accessories
+453	Cylinder Connecting Components	438	        Cylinder Connecting Components	Automation Components → Pneumatics, Hydraulics → Cylinder Connecting Components
+454	Floating Joints	453	            Floating Joints	Automation Components → Pneumatics, Hydraulics → Cylinder Connecting Components → Floating Joints
+455	Knuckle Joints	453	            Knuckle Joints	Automation Components → Pneumatics, Hydraulics → Cylinder Connecting Components → Knuckle Joints
+456	Pushers	453	            Pushers	Automation Components → Pneumatics, Hydraulics → Cylinder Connecting Components → Pushers
+457	Coupling Rod	453	            Coupling Rod	Automation Components → Pneumatics, Hydraulics → Cylinder Connecting Components → Coupling Rod
+458	Filters, Regulators, Lubricators	438	        Filters, Regulators, Lubricators	Automation Components → Pneumatics, Hydraulics → Filters, Regulators, Lubricators
+459	FRL Units	458	            FRL Units	Automation Components → Pneumatics, Hydraulics → Filters, Regulators, Lubricators → FRL Units
+460	Regulators, Pressure Boosting Valves	458	            Regulators, Pressure Boosting Valves	Automation Components → Pneumatics, Hydraulics → Filters, Regulators, Lubricators → Regulators, Pressure Boosting Valves
+461	Lubricators	458	            Lubricators	Automation Components → Pneumatics, Hydraulics → Filters, Regulators, Lubricators → Lubricators
+462	Drain	458	            Drain	Automation Components → Pneumatics, Hydraulics → Filters, Regulators, Lubricators → Drain
+463	Solenoid Valves	438	        Solenoid Valves	Automation Components → Pneumatics, Hydraulics → Solenoid Valves
+464	Electromagnetic Valves	438	        Electromagnetic Valves	Automation Components → Pneumatics, Hydraulics → Electromagnetic Valves
+465	Pneumatic Pipe Fittings	438	        Pneumatic Pipe Fittings	Automation Components → Pneumatics, Hydraulics → Pneumatic Pipe Fittings
+466	One-Touch Couplings	465	            One-Touch Couplings	Automation Components → Pneumatics, Hydraulics → Pneumatic Pipe Fittings → One-Touch Couplings
+467	Miniature Couplings	465	            Miniature Couplings	Automation Components → Pneumatics, Hydraulics → Pneumatic Pipe Fittings → Miniature Couplings
+468	Tightening Fittings	465	            Tightening Fittings	Automation Components → Pneumatics, Hydraulics → Pneumatic Pipe Fittings → Tightening Fittings
+469	Tubes	438	        Tubes	Automation Components → Pneumatics, Hydraulics → Tubes
+470	Fitting	469	            Fitting	Automation Components → Pneumatics, Hydraulics → Tubes → Fitting
+471	Valves	469	            Valves	Automation Components → Pneumatics, Hydraulics → Tubes → Valves
+472	Pressure, Flow Rate Sensors	438	        Pressure, Flow Rate Sensors	Automation Components → Pneumatics, Hydraulics → Pressure, Flow Rate Sensors
+473	Pressure Sensors, Flow Rate Sensors	472	            Pressure Sensors, Flow Rate Sensors	Automation Components → Pneumatics, Hydraulics → Pressure, Flow Rate Sensors → Pressure Sensors, Flow Rate Sensors
+474	Pressure Gauge	472	            Pressure Gauge	Automation Components → Pneumatics, Hydraulics → Pressure, Flow Rate Sensors → Pressure Gauge
+475	Compressors, Blowers	438	        Compressors, Blowers	Automation Components → Pneumatics, Hydraulics → Compressors, Blowers
+476	Blowers	475	            Blowers	Automation Components → Pneumatics, Hydraulics → Compressors, Blowers → Blowers
+477	Vacuum Pumps, Vacuum Ejectors	438	        Vacuum Pumps, Vacuum Ejectors	Automation Components → Pneumatics, Hydraulics → Vacuum Pumps, Vacuum Ejectors
+478	Vacuum Components	273	    Vacuum Components	Automation Components → Vacuum Components
+479	Vacuum Fitting Parts	478	        Vacuum Fitting Parts	Automation Components → Vacuum Components → Vacuum Fitting Parts
+480	Fittings for Vacuum Plumbing	479	            Fittings for Vacuum Plumbing	Automation Components → Vacuum Components → Vacuum Fitting Parts → Fittings for Vacuum Plumbing
+481	(NW/KF Standard) Plumbing Components, Flanges	480	                (NW/KF Standard) Plumbing Components, Flanges	Automation Components → Vacuum Components → Vacuum Fitting Parts → Fittings for Vacuum Plumbing → (NW/KF Standard) Plumbing Components, Flanges
+482	(NW/KF Standard) Clamps, Center Rings and Others	480	                (NW/KF Standard) Clamps, Center Rings and Others	Automation Components → Vacuum Components → Vacuum Fitting Parts → Fittings for Vacuum Plumbing → (NW/KF Standard) Clamps, Center Rings and Others
+483	Vacuum Plumbing Parts (JIS Standard)	479	            Vacuum Plumbing Parts (JIS Standard)	Automation Components → Vacuum Components → Vacuum Fitting Parts → Vacuum Plumbing Parts (JIS Standard)
+484	Vacuum Plumbing Parts (ISO-MF Standard)	479	            Vacuum Plumbing Parts (ISO-MF Standard)	Automation Components → Vacuum Components → Vacuum Fitting Parts → Vacuum Plumbing Parts (ISO-MF Standard)
+485	Vacuum Plumbing Parts (ICF Standard)	479	            Vacuum Plumbing Parts (ICF Standard)	Automation Components → Vacuum Components → Vacuum Fitting Parts → Vacuum Plumbing Parts (ICF Standard)
+486	Flexible Tubes for Vacuum	479	            Flexible Tubes for Vacuum	Automation Components → Vacuum Components → Vacuum Fitting Parts → Flexible Tubes for Vacuum
+487	Tubes, Hoses for Vacuum	479	            Tubes, Hoses for Vacuum	Automation Components → Vacuum Components → Vacuum Fitting Parts → Tubes, Hoses for Vacuum
+488	Vacuum Filters	478	        Vacuum Filters	Automation Components → Vacuum Components → Vacuum Filters
+489	Vacuum Gauges	478	        Vacuum Gauges	Automation Components → Vacuum Components → Vacuum Gauges
+490	Suction Cups, Components for Suctioning	478	        Suction Cups, Components for Suctioning	Automation Components → Vacuum Components → Suction Cups, Components for Suctioning
+491	Suction Cups	490	            Suction Cups	Automation Components → Vacuum Components → Suction Cups, Components for Suctioning → Suction Cups
+492	Vacuum Tweezers, Manual Wands	490	            Vacuum Tweezers, Manual Wands	Automation Components → Vacuum Components → Suction Cups, Components for Suctioning → Vacuum Tweezers, Manual Wands
+493	Hydraulic Equipment	273	    Hydraulic Equipment	Automation Components → Hydraulic Equipment
+494	Hydraulic Valves	493	        Hydraulic Valves	Automation Components → Hydraulic Equipment → Hydraulic Valves
+495	Flow Control (not throttle)	494	            Flow Control (not throttle)	Automation Components → Hydraulic Equipment → Hydraulic Valves → Flow Control (not throttle)
+496	Hydraulic Hoses, Adaptors	493	        Hydraulic Hoses, Adaptors	Automation Components → Hydraulic Equipment → Hydraulic Hoses, Adaptors
+497	Hydraulic Hoses	496	            Hydraulic Hoses	Automation Components → Hydraulic Equipment → Hydraulic Hoses, Adaptors → Hydraulic Hoses
+498	Hydraulic Hose Adaptors	496	            Hydraulic Hose Adaptors	Automation Components → Hydraulic Equipment → Hydraulic Hoses, Adaptors → Hydraulic Hose Adaptors
+499	Oil Gauges, Oil Caps	493	        Oil Gauges, Oil Caps	Automation Components → Hydraulic Equipment → Oil Gauges, Oil Caps
+500	Oil Gauges	499	            Oil Gauges	Automation Components → Hydraulic Equipment → Oil Gauges, Oil Caps → Oil Gauges
+501	Spray Equipment And Accessories	273	    Spray Equipment And Accessories	Automation Components → Spray Equipment And Accessories
+502	Air Blowing Accessories	501	        Air Blowing Accessories	Automation Components → Spray Equipment And Accessories → Air Blowing Accessories
+503	Nozzles	501	        Nozzles	Automation Components → Spray Equipment And Accessories → Nozzles
+504	Adjustable Hoses	503	            Adjustable Hoses	Automation Components → Spray Equipment And Accessories → Nozzles → Adjustable Hoses
+505	Air Nozzles	503	            Air Nozzles	Automation Components → Spray Equipment And Accessories → Nozzles → Air Nozzles
+506	Spray Nozzles	503	            Spray Nozzles	Automation Components → Spray Equipment And Accessories → Nozzles → Spray Nozzles
+507	Pipe, Tubes, Hoses & Fittings	273	    Pipe, Tubes, Hoses & Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings
+508	Steel Pipes, Copper Pipes, Stainless Steel Pipes	507	        Steel Pipes, Copper Pipes, Stainless Steel Pipes	Automation Components → Pipe, Tubes, Hoses & Fittings → Steel Pipes, Copper Pipes, Stainless Steel Pipes
+509	Steel Tube	508	            Steel Tube	Automation Components → Pipe, Tubes, Hoses & Fittings → Steel Pipes, Copper Pipes, Stainless Steel Pipes → Steel Tube
+510	Stainless Steel Pipes	508	            Stainless Steel Pipes	Automation Components → Pipe, Tubes, Hoses & Fittings → Steel Pipes, Copper Pipes, Stainless Steel Pipes → Stainless Steel Pipes
+511	Copper Pipes	508	            Copper Pipes	Automation Components → Pipe, Tubes, Hoses & Fittings → Steel Pipes, Copper Pipes, Stainless Steel Pipes → Copper Pipes
+512	PVC Pipes	508	            PVC Pipes	Automation Components → Pipe, Tubes, Hoses & Fittings → Steel Pipes, Copper Pipes, Stainless Steel Pipes → PVC Pipes
+513	Plastic Pipes	508	            Plastic Pipes	Automation Components → Pipe, Tubes, Hoses & Fittings → Steel Pipes, Copper Pipes, Stainless Steel Pipes → Plastic Pipes
+514	Pipe Accessories	508	            Pipe Accessories	Automation Components → Pipe, Tubes, Hoses & Fittings → Steel Pipes, Copper Pipes, Stainless Steel Pipes → Pipe Accessories
+515	Screw Fittings	507	        Screw Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings
+516	Screw Fittings, Screw-In Type Flanges	515	            Screw Fittings, Screw-In Type Flanges	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Screw Fittings, Screw-In Type Flanges
+517	Hose Fittings	515	            Hose Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Hose Fittings
+518	Fittings for Stainless Steel Pipes	515	            Fittings for Stainless Steel Pipes	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Fittings for Stainless Steel Pipes
+519	Fittings for Steel Pipes and Copper Pipes	515	            Fittings for Steel Pipes and Copper Pipes	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Fittings for Steel Pipes and Copper Pipes
+520	Weld-On Type Fittings	515	            Weld-On Type Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Weld-On Type Fittings
+521	Welding Flanges	515	            Welding Flanges	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Welding Flanges
+522	Rotary / Swivel Joints	515	            Rotary / Swivel Joints	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Rotary / Swivel Joints
+523	Mechanical Type Pipe Fittings	515	            Mechanical Type Pipe Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Mechanical Type Pipe Fittings
+524	Plastic Pipe Fittings	515	            Plastic Pipe Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Plastic Pipe Fittings
+525	Elastic Pipe Fittings	515	            Elastic Pipe Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Elastic Pipe Fittings
+526	Fittings for PVC Pipes	515	            Fittings for PVC Pipes	Automation Components → Pipe, Tubes, Hoses & Fittings → Screw Fittings → Fittings for PVC Pipes
+527	Couplers, One-Touch Joints	507	        Couplers, One-Touch Joints	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints
+528	Other Coupler, One-Touch Joint Related Components	527	            Other Coupler, One-Touch Joint Related Components	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Other Coupler, One-Touch Joint Related Components
+529	Ball Valves	527	            Ball Valves	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Ball Valves
+530	Needle Valves	527	            Needle Valves	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Needle Valves
+531	Gate Valves	527	            Gate Valves	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Gate Valves
+532	Globe Valves	527	            Globe Valves	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Globe Valves
+533	Butterfly Valves	527	            Butterfly Valves	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Butterfly Valves
+534	Diaphragm / Pinch Valves	527	            Diaphragm / Pinch Valves	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Diaphragm / Pinch Valves
+535	Air Operated Valves	527	            Air Operated Valves	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Air Operated Valves
+536	Valves for various applications	527	            Valves for various applications	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Valves for various applications
+537	Strainers	527	            Strainers	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Strainers
+538	Other Valve Related Components	527	            Other Valve Related Components	Automation Components → Pipe, Tubes, Hoses & Fittings → Couplers, One-Touch Joints → Other Valve Related Components
+539	Safety Valves, Control Valves	507	        Safety Valves, Control Valves	Automation Components → Pipe, Tubes, Hoses & Fittings → Safety Valves, Control Valves
+540	Pipe Supports	507	        Pipe Supports	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports
+541	Metal Fittings for Hung Plumbing	540	            Metal Fittings for Hung Plumbing	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports → Metal Fittings for Hung Plumbing
+542	Pipe Stand-off Clamps	540	            Pipe Stand-off Clamps	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports → Pipe Stand-off Clamps
+543	Floor Through Metal Fittings	540	            Floor Through Metal Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports → Floor Through Metal Fittings
+544	Level Bands	540	            Level Bands	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports → Level Bands
+545	Pipe U-Straps	540	            Pipe U-Straps	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports → Pipe U-Straps
+546	Pipe Saddle Clamps	540	            Pipe Saddle Clamps	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports → Pipe Saddle Clamps
+547	Pipe Support Brackets	540	            Pipe Support Brackets	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports → Pipe Support Brackets
+548	Pipe Clamps	540	            Pipe Clamps	Automation Components → Pipe, Tubes, Hoses & Fittings → Pipe Supports → Pipe Clamps
+549	Manifolds	507	        Manifolds	Automation Components → Pipe, Tubes, Hoses & Fittings → Manifolds
+550	Manifold Blocks	549	            Manifold Blocks	Automation Components → Pipe, Tubes, Hoses & Fittings → Manifolds → Manifold Blocks
+551	Pipe Manifolds	549	            Pipe Manifolds	Automation Components → Pipe, Tubes, Hoses & Fittings → Manifolds → Pipe Manifolds
+552	Rotary Manifolds	549	            Rotary Manifolds	Automation Components → Pipe, Tubes, Hoses & Fittings → Manifolds → Rotary Manifolds
+553	Bracket With Fittings	549	            Bracket With Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Manifolds → Bracket With Fittings
+554	Aluminum Extrusion Manifolds	549	            Aluminum Extrusion Manifolds	Automation Components → Pipe, Tubes, Hoses & Fittings → Manifolds → Aluminum Extrusion Manifolds
+555	Resins, Ducts, Flexible Hoses	507	        Resins, Ducts, Flexible Hoses	Automation Components → Pipe, Tubes, Hoses & Fittings → Resins, Ducts, Flexible Hoses
+556	Hose Clamps	555	            Hose Clamps	Automation Components → Pipe, Tubes, Hoses & Fittings → Resins, Ducts, Flexible Hoses → Hose Clamps
+557	Hose Reels	555	            Hose Reels	Automation Components → Pipe, Tubes, Hoses & Fittings → Resins, Ducts, Flexible Hoses → Hose Reels
+558	Piping Parts for Duct Hoses	555	            Piping Parts for Duct Hoses	Automation Components → Pipe, Tubes, Hoses & Fittings → Resins, Ducts, Flexible Hoses → Piping Parts for Duct Hoses
+559	Duct Hoses, Duct Plumbing Components	507	        Duct Hoses, Duct Plumbing Components	Automation Components → Pipe, Tubes, Hoses & Fittings → Duct Hoses, Duct Plumbing Components
+560	Duct Hoses	559	            Duct Hoses	Automation Components → Pipe, Tubes, Hoses & Fittings → Duct Hoses, Duct Plumbing Components → Duct Hoses
+561	Ducts Fittings	559	            Ducts Fittings	Automation Components → Pipe, Tubes, Hoses & Fittings → Duct Hoses, Duct Plumbing Components → Ducts Fittings
+562	Duct Hose Accessories	559	            Duct Hose Accessories	Automation Components → Pipe, Tubes, Hoses & Fittings → Duct Hoses, Duct Plumbing Components → Duct Hose Accessories
+563	Duct Tubes	559	            Duct Tubes	Automation Components → Pipe, Tubes, Hoses & Fittings → Duct Hoses, Duct Plumbing Components → Duct Tubes
+564	Flexible Hoses	507	        Flexible Hoses	Automation Components → Pipe, Tubes, Hoses & Fittings → Flexible Hoses
+565	Seal Materials	507	        Seal Materials	Automation Components → Pipe, Tubes, Hoses & Fittings → Seal Materials
+566	O-Rings	565	            O-Rings	Automation Components → Pipe, Tubes, Hoses & Fittings → Seal Materials → O-Rings
+567	Gaskets	565	            Gaskets	Automation Components → Pipe, Tubes, Hoses & Fittings → Seal Materials → Gaskets
+568	Seal Washers, Others	565	            Seal Washers, Others	Automation Components → Pipe, Tubes, Hoses & Fittings → Seal Materials → Seal Washers, Others
+569	Sealing Caps	565	            Sealing Caps	Automation Components → Pipe, Tubes, Hoses & Fittings → Seal Materials → Sealing Caps
+570	Rubber Seal	565	            Rubber Seal	Automation Components → Pipe, Tubes, Hoses & Fittings → Seal Materials → Rubber Seal
+571	Heaters, Temperature Control	273	    Heaters, Temperature Control	Automation Components → Heaters, Temperature Control
+572	Temperature Control Equipment	571	        Temperature Control Equipment	Automation Components → Heaters, Temperature Control → Temperature Control Equipment
+573	Temperature Conditioning Components	572	            Temperature Conditioning Components	Automation Components → Heaters, Temperature Control → Temperature Control Equipment → Temperature Conditioning Components
+574	Temperature Sensors	571	        Temperature Sensors	Automation Components → Heaters, Temperature Control → Temperature Sensors
+575	Thermocouples & Peripheral Components	574	            Thermocouples & Peripheral Components	Automation Components → Heaters, Temperature Control → Temperature Sensors → Thermocouples & Peripheral Components
+576	Heaters	571	        Heaters	Automation Components → Heaters, Temperature Control → Heaters
+577	Cartridge Heaters	576	            Cartridge Heaters	Automation Components → Heaters, Temperature Control → Heaters → Cartridge Heaters
+578	Peltier Cooling Unit	571	        Peltier Cooling Unit	Automation Components → Heaters, Temperature Control → Peltier Cooling Unit
+579	Aluminum Extrusions, Framing, Support & Posts	273	    Aluminum Extrusions, Framing, Support & Posts	Automation Components → Aluminum Extrusions, Framing, Support & Posts
+580	Aluminum Extrusion and Brackets	579	        Aluminum Extrusion and Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets
+581	Aluminum Extrusions	580	            Aluminum Extrusions	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Aluminum Extrusions
+582	Brackets and Joint Parts	580	            Brackets and Joint Parts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts
+583	90 degree Brackets	582	                90 degree Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts → 90 degree Brackets
+584	Corner Brackets	582	                Corner Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts → Corner Brackets
+585	Blind Brackets	582	                Blind Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts → Blind Brackets
+586	Blind Joint Parts	582	                Blind Joint Parts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts → Blind Joint Parts
+587	Post-Assembly Easy Brackets	582	                Post-Assembly Easy Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts → Post-Assembly Easy Brackets
+588	Block Brackets and Plate Brackets	582	                Block Brackets and Plate Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts → Block Brackets and Plate Brackets
+589	Angular Brackets	582	                Angular Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts → Angular Brackets
+590	Metal Brackets	582	                Metal Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Brackets and Joint Parts → Metal Brackets
+591	Nuts	580	            Nuts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Nuts
+592	Bolts	580	            Bolts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Bolts
+593	Frame Caps	580	            Frame Caps	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Frame Caps
+594	Slot Covers	580	            Slot Covers	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Slot Covers
+595	Handles for Aluminum Extrusions	580	            Handles for Aluminum Extrusions	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Handles for Aluminum Extrusions
+596	Hinges	580	            Hinges	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Hinges
+597	Catches and Locks	580	            Catches and Locks	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Catches and Locks
+598	Casters	580	            Casters	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Casters
+599	Foot Bases	580	            Foot Bases	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Foot Bases
+600	Adjuster Pads	580	            Adjuster Pads	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Adjuster Pads
+601	Panel Mounts	580	            Panel Mounts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Panel Mounts
+602	Curtains, Sheets	580	            Curtains, Sheets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Curtains, Sheets
+603	Door Sliders	580	            Door Sliders	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Door Sliders
+604	Conveyor Parts	580	            Conveyor Parts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Conveyor Parts
+605	Clamps, Holders, Hooks	580	            Clamps, Holders, Hooks	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Clamps, Holders, Hooks
+606	Jigs, Maintenace Parts	580	            Jigs, Maintenace Parts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Aluminum Extrusion and Brackets → Jigs, Maintenace Parts
+607	Pipe Frames	579	        Pipe Frames	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames
+608	Accessories for Pipe Frames	607	            Accessories for Pipe Frames	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Accessories for Pipe Frames
+609	Joints for Pipe Frames	607	            Joints for Pipe Frames	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Joints for Pipe Frames
+610	Metal Joints	609	                Metal Joints	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Joints for Pipe Frames → Metal Joints
+611	Plastic Joints	609	                Plastic Joints	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Joints for Pipe Frames → Plastic Joints
+612	Joints, Accessory Parts	609	                Joints, Accessory Parts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Joints for Pipe Frames → Joints, Accessory Parts
+613	Casters for Pipe Frame	607	            Casters for Pipe Frame	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Casters for Pipe Frame
+614	Leveling Mounts for Pipe Frame	607	            Leveling Mounts for Pipe Frame	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Leveling Mounts for Pipe Frame
+615	Lifting Parts	607	            Lifting Parts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Lifting Parts
+616	Conveyor Components	607	            Conveyor Components	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Conveyor Components
+617	Assembly Tools	607	            Assembly Tools	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Assembly Tools
+618	Pipe Frame Units	607	            Pipe Frame Units	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Pipe Frames → Pipe Frame Units
+619	Mounting Plates & Brackets	579	        Mounting Plates & Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Mounting Plates & Brackets
+620	Plates	619	            Plates	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Mounting Plates & Brackets → Plates
+621	L-Brackets	619	            L-Brackets	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Mounting Plates & Brackets → L-Brackets
+622	Round Plates	619	            Round Plates	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Mounting Plates & Brackets → Round Plates
+623	Convex Bend Plates	619	            Convex Bend Plates	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Mounting Plates & Brackets → Convex Bend Plates
+624	Z Plates	619	            Z Plates	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Mounting Plates & Brackets → Z Plates
+625	Angle Plates	579	        Angle Plates	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Angle Plates
+626	Welded Standoffs, Metal Boxes	579	        Welded Standoffs, Metal Boxes	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Welded Standoffs, Metal Boxes
+627	Welded Standoffs	626	            Welded Standoffs	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Welded Standoffs, Metal Boxes → Welded Standoffs
+628	Metal Boxes	626	            Metal Boxes	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Welded Standoffs, Metal Boxes → Metal Boxes
+629	Posts, Strut Clamps, Stands	579	        Posts, Strut Clamps, Stands	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands
+630	Posts	629	            Posts	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Posts
+631	Strut Clamps	629	            Strut Clamps	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Strut Clamps
+632	Single Post	631	                Single Post	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Strut Clamps → Single Post
+633	Double Post	631	                Double Post	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Strut Clamps → Double Post
+634	Strut Clamps Accessories	631	                Strut Clamps Accessories	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Strut Clamps → Strut Clamps Accessories
+635	Post Stands	629	            Post Stands	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Post Stands
+636	Free Guide Arms, Magnet Bases	629	            Free Guide Arms, Magnet Bases	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Free Guide Arms, Magnet Bases
+637	Pipe Stands	629	            Pipe Stands	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Pipe Stands
+638	Rotary Connectors	629	            Rotary Connectors	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Rotary Connectors
+639	Spacer Blocks	629	            Spacer Blocks	Automation Components → Aluminum Extrusions, Framing, Support & Posts → Posts, Strut Clamps, Stands → Spacer Blocks
+640	Casters, Leveling Mounts, Posts	273	    Casters, Leveling Mounts, Posts	Automation Components → Casters, Leveling Mounts, Posts
+641	Doors, Cabinet Hardware	273	    Doors, Cabinet Hardware	Automation Components → Doors, Cabinet Hardware
+642	Latch Handles, Locks, Keys	641	        Latch Handles, Locks, Keys	Automation Components → Doors, Cabinet Hardware → Latch Handles, Locks, Keys
+643	Knobs, Screws	641	        Knobs, Screws	Automation Components → Doors, Cabinet Hardware → Knobs, Screws
+644	Handles	641	        Handles	Automation Components → Doors, Cabinet Hardware → Handles
+645	Springs, Shock Absorbers	273	    Springs, Shock Absorbers	Automation Components → Springs, Shock Absorbers
+646	Springs	645	        Springs	Automation Components → Springs, Shock Absorbers → Springs
+647	Torsion Springs	646	            Torsion Springs	Automation Components → Springs, Shock Absorbers → Springs → Torsion Springs
+648	Tension Springs	646	            Tension Springs	Automation Components → Springs, Shock Absorbers → Springs → Tension Springs
+649	Disc Springs	646	            Disc Springs	Automation Components → Springs, Shock Absorbers → Springs → Disc Springs
+650	Constant Load Springs	646	            Constant Load Springs	Automation Components → Springs, Shock Absorbers → Springs → Constant Load Springs
+651	Other Springs	646	            Other Springs	Automation Components → Springs, Shock Absorbers → Springs → Other Springs
+652	Flat Springs	646	            Flat Springs	Automation Components → Springs, Shock Absorbers → Springs → Flat Springs
+653	Battery Springs	646	            Battery Springs	Automation Components → Springs, Shock Absorbers → Springs → Battery Springs
+654	Shock Absorbers, Gas Springs	645	        Shock Absorbers, Gas Springs	Automation Components → Springs, Shock Absorbers → Shock Absorbers, Gas Springs
+655	Adjusting, Fastening, Magnets	273	    Adjusting, Fastening, Magnets	Automation Components → Adjusting, Fastening, Magnets
+656	Magnets	655	        Magnets	Automation Components → Adjusting, Fastening, Magnets → Magnets
+657	Magnets - Round	656	            Magnets - Round	Automation Components → Adjusting, Fastening, Magnets → Magnets → Magnets - Round
+658	Magnets - Rectangular	656	            Magnets - Rectangular	Automation Components → Adjusting, Fastening, Magnets → Magnets → Magnets - Rectangular
+659	Magnets with Holders	656	            Magnets with Holders	Automation Components → Adjusting, Fastening, Magnets → Magnets → Magnets with Holders
+660	Magnets - Ball Type	656	            Magnets - Ball Type	Automation Components → Adjusting, Fastening, Magnets → Magnets → Magnets - Ball Type
+661	Magnets-Threaded	656	            Magnets-Threaded	Automation Components → Adjusting, Fastening, Magnets → Magnets → Magnets-Threaded
+662	Rubber Magnets	656	            Rubber Magnets	Automation Components → Adjusting, Fastening, Magnets → Magnets → Rubber Magnets
+663	Magnet Hooks / Holders	656	            Magnet Hooks / Holders	Automation Components → Adjusting, Fastening, Magnets → Magnets → Magnet Hooks / Holders
+664	Electromagnetic Holders, Rectifiers	656	            Electromagnetic Holders, Rectifiers	Automation Components → Adjusting, Fastening, Magnets → Magnets → Electromagnetic Holders, Rectifiers
+665	Washers, Collars	655	        Washers, Collars	Automation Components → Adjusting, Fastening, Magnets → Washers, Collars
+666	Metal Washers, Collars	665	            Metal Washers, Collars	Automation Components → Adjusting, Fastening, Magnets → Washers, Collars → Metal Washers, Collars
+667	Non-Metal Washers, Collars	665	            Non-Metal Washers, Collars	Automation Components → Adjusting, Fastening, Magnets → Washers, Collars → Non-Metal Washers, Collars
+668	Shims	655	        Shims	Automation Components → Adjusting, Fastening, Magnets → Shims
+669	Shim Tapes	668	            Shim Tapes	Automation Components → Adjusting, Fastening, Magnets → Shims → Shim Tapes
+670	Shim Plates	668	            Shim Plates	Automation Components → Adjusting, Fastening, Magnets → Shims → Shim Plates
+671	Shim Rings	668	            Shim Rings	Automation Components → Adjusting, Fastening, Magnets → Shims → Shim Rings
+672	Rectangular Shims	668	            Rectangular Shims	Automation Components → Adjusting, Fastening, Magnets → Shims → Rectangular Shims
+673	Hair Pins, Cotter Pins	655	        Hair Pins, Cotter Pins	Automation Components → Adjusting, Fastening, Magnets → Hair Pins, Cotter Pins
+674	Machine Keys	655	        Machine Keys	Automation Components → Adjusting, Fastening, Magnets → Machine Keys
+675	Retaining Rings	655	        Retaining Rings	Automation Components → Adjusting, Fastening, Magnets → Retaining Rings
+676	Materials	None	Materials	Materials
+677	Metal Materials	676	    Metal Materials	Materials → Metal Materials
+678	Material Plates, Blocks	677	        Material Plates, Blocks	Materials → Metal Materials → Material Plates, Blocks
+679	Circular Plates	677	        Circular Plates	Materials → Metal Materials → Circular Plates
+680	Rods	677	        Rods	Materials → Metal Materials → Rods
+681	Pipes, Metal Tubes	677	        Pipes, Metal Tubes	Materials → Metal Materials → Pipes, Metal Tubes
+682	Hex Rods	677	        Hex Rods	Materials → Metal Materials → Hex Rods
+683	L-Shaped Angles	677	        L-Shaped Angles	Materials → Metal Materials → L-Shaped Angles
+684	U-Shaped Channels	677	        U-Shaped Channels	Materials → Metal Materials → U-Shaped Channels
+685	L-Shaped Blocks	677	        L-Shaped Blocks	Materials → Metal Materials → L-Shaped Blocks
+686	U-Shaped Blocks	677	        U-Shaped Blocks	Materials → Metal Materials → U-Shaped Blocks
+687	T-Shaped Blocks	677	        T-Shaped Blocks	Materials → Metal Materials → T-Shaped Blocks
+688	Inclined Blocks	677	        Inclined Blocks	Materials → Metal Materials → Inclined Blocks
+689	Resin Materials	676	    Resin Materials	Materials → Resin Materials
+690	Resin Plates	689	        Resin Plates	Materials → Resin Materials → Resin Plates
+691	Resin Round Plates	689	        Resin Round Plates	Materials → Resin Materials → Resin Round Plates
+692	Resin Rods	689	        Resin Rods	Materials → Resin Materials → Resin Rods
+693	Resin Pipes	689	        Resin Pipes	Materials → Resin Materials → Resin Pipes
+694	Thermal Insulation Material	676	    Thermal Insulation Material	Materials → Thermal Insulation Material
+695	Ceramics	676	    Ceramics	Materials → Ceramics
+696	Glass Plate, Mirrored Plate	676	    Glass Plate, Mirrored Plate	Materials → Glass Plate, Mirrored Plate
+697	Resin Covers (Transparent Resin)	676	    Resin Covers (Transparent Resin)	Materials → Resin Covers (Transparent Resin)
+698	Transperent Resin Covers	697	        Transperent Resin Covers	Materials → Resin Covers (Transparent Resin) → Transperent Resin Covers
+699	Transperent Resin Round Plates	697	        Transperent Resin Round Plates	Materials → Resin Covers (Transparent Resin) → Transperent Resin Round Plates
+700	L-Shaped Plastic Covers	697	        L-Shaped Plastic Covers	Materials → Resin Covers (Transparent Resin) → L-Shaped Plastic Covers
+701	U-Shaped Plastic Covers	697	        U-Shaped Plastic Covers	Materials → Resin Covers (Transparent Resin) → U-Shaped Plastic Covers
+702	Plastic Cases	697	        Plastic Cases	Materials → Resin Covers (Transparent Resin) → Plastic Cases
+703	Transparent Resin Rods	697	        Transparent Resin Rods	Materials → Resin Covers (Transparent Resin) → Transparent Resin Rods
+704	Transparent Resin Hollow Tubes	697	        Transparent Resin Hollow Tubes	Materials → Resin Covers (Transparent Resin) → Transparent Resin Hollow Tubes
+705	Perforated Metals, Fences, Nets, Panels	676	    Perforated Metals, Fences, Nets, Panels	Materials → Perforated Metals, Fences, Nets, Panels
+706	Cover Panels	705	        Cover Panels	Materials → Perforated Metals, Fences, Nets, Panels → Cover Panels
+707	Painted Panels	705	        Painted Panels	Materials → Perforated Metals, Fences, Nets, Panels → Painted Panels
+708	Perforated Metals	705	        Perforated Metals	Materials → Perforated Metals, Fences, Nets, Panels → Perforated Metals
+709	Expanded Metals	705	        Expanded Metals	Materials → Perforated Metals, Fences, Nets, Panels → Expanded Metals
+710	Fences, Nets	705	        Fences, Nets	Materials → Perforated Metals, Fences, Nets, Panels → Fences, Nets
+711	Plywood Panels	705	        Plywood Panels	Materials → Perforated Metals, Fences, Nets, Panels → Plywood Panels
+712	Urethane, Rubber, Sponge, Felt	676	    Urethane, Rubber, Sponge, Felt	Materials → Urethane, Rubber, Sponge, Felt
+713	Urethane, Rubber, Sponge, Felt - Sheets	712	        Urethane, Rubber, Sponge, Felt - Sheets	Materials → Urethane, Rubber, Sponge, Felt → Urethane, Rubber, Sponge, Felt - Sheets
+714	Urethane, Rubber, Sponge, Felt - Round Shape	712	        Urethane, Rubber, Sponge, Felt - Round Shape	Materials → Urethane, Rubber, Sponge, Felt → Urethane, Rubber, Sponge, Felt - Round Shape
+715	Rubber Cords, Rubber Sponge Ropes	712	        Rubber Cords, Rubber Sponge Ropes	Materials → Urethane, Rubber, Sponge, Felt → Rubber Cords, Rubber Sponge Ropes
+716	Adhesives / Mounting Components for Urethane, Rubber	712	        Adhesives / Mounting Components for Urethane, Rubber	Materials → Urethane, Rubber, Sponge, Felt → Adhesives / Mounting Components for Urethane, Rubber
+717	Mesh	676	    Mesh	Materials → Mesh

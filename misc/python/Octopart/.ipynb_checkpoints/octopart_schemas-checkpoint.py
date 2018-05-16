@@ -531,6 +531,7 @@ class PartsMatchResponse:
         self.request = data['request']
         self.msec = data['msec']
         self.results = [ PartsMatchResult(x) for x in data['results']]
+        
         return
     
     def __str__(self):

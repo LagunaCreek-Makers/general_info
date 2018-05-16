@@ -1,0 +1,101 @@
+Chip Carrier	BCC	Bump Chip Carrier 
+Flat packages	BQFP	Bumpered Quad Flat Pack 
+Ball Grid Array	CBGA	Ceramic Ball Grid Array 
+Surface Mount	CCGA	Ceramic Column Grid Array (CGA)
+Through-hole Packages	CDIP	Ceramic DIP
+Through-hole Packages	CERDIP	Glass sealed ceramic DIP
+Surface Mount	CERPACK	Ceramic package 
+Flat packages	CFP	Ceramic Flat Pack 
+Surface Mount	CGA	Column Grid Array
+Chip Carrier	CLCC	Ceramic Leadless Chip Carrier 
+Chip-Scale Packages	COB	Chip-on-board
+Chip-Scale Packages	COF	Chip-on-flex
+Chip-Scale Packages	COG	Chip-on-glass
+Pin grid Arrays	CPGA	Ceramic Pin Grid Array 
+Flat packages	CQFP	Ceramic Quad Flat-Pack, similar to PQFP 
+Small Outline Packages	CSOP	Ceramic Small Outline Package
+Chip-Scale Packages	CSP	Chip Scale Package
+Surface Mount	DDPAK	Double Decawatt Package
+Surface Mount	D2PAK	Double Decawatt Package
+Surface Mount	D3PAK	Decawatt Package 3
+Surface Mount	DPAK	Decawatt Package
+Flat packages	DFN	Dual Flat Pack
+Through-hole Packages	DIP	Dual in-line package
+Chip Carrier	DLCC	Dual Lead-Less Chip Carrier (Ceramic) 
+Flat packages	ETQFP	Exposed Thin Quad Flat Package 
+Ball Grid Array	FBGA	Fine Pitch Ball Grid Array
+Pin grid Arrays	FCPGA	Flip-chip Pin Grid Array 
+Small Outline Packages	HSOP	Thermally Enhanced Small-Outline Package
+Flat packages	HVQFN	Heat-sink Very-thin Quad Flat-pack No-leads
+Chip Carrier	JLCC	J-Leaded Ceramic Chip Carrier
+Ball Grid Array	LBGA	Low Profile Ball Grid Array
+Chip Carrier	LLCC	Leadless Chip Carrier 
+Chip Carrier	LCC	Leaded Chip Carrier 
+Chip Carrier	LCCC	Leaded Ceramic Chip Carrier 
+Ball Grid Array	LFBGA	Low Profile Fine Pitch Ball Grid Array 
+Surface Mount	LGA	Land Grid Array
+Surface Mount	LLP	Lead-Less lead-frame Package
+Flat packages	LQFP	Low-profile Quad Flat Package 
+Surface Mount	LTCC	Low temperature co-fired ceramic
+Ball Grid Array	MAP-BGA	Mold Array Process - Ball Grid Array 
+Surface Mount	MCM	Multi-Chip Module
+Through-hole Packages	MDIP	Molded DIP
+Transistor, diode, small pin count IC	MELF	Metal Electrode Leadless Face (usually for resistors and diodes)
+Surface Mount	MICRO SMDXT	Micro Surface Mount Device extended technology
+Surface Mount	MLP	Micro Leadframe Package
+Flat packages	MQFP	Metric Quad Flat Package
+Small Outline Packages	MSOP	Mini Small-Outline Package
+Ball Grid Array	OBGA	Organic Ball Grid Array 
+Flat packages	ODFN	Optical Dual Flat No-Lead
+Pin grid Arrays	OPGA	Organic Pin Grid Array
+Pin grid Arrays	PAC	Pin Array Cartridge 
+Ball Grid Array	PBGA	Plastic Ball Grid Array 
+Through-hole Packages	PDIP	Plastic DIP
+Pin grid Arrays	PGA	Pin grid array
+Chip Carrier	PLCC	Plastic Leaded Chip Carrier 
+Pin grid Arrays	PPGA	Plastic Pin Grid Array
+Flat packages	PQFN	Power Quad Flat-Pack
+Flat packages	PQFP	Plastic Quad Flat Package 
+Small Outline Packages	PSON	Plastic Small-Outline No-Lead Package
+Small Outline Packages	PSOP	Plastic Small-Outline Package 
+Flat packages	QFN	Quad Flat No-leads package
+Flat packages	QFP	Quad Flat Package 
+Through-hole Packages	QIP	Quadruple in-line package
+Small Outline Packages	QSOP	Quarter-Size Small-Outline Package
+Ball Grid Array	SBGA	Super Ball Grid Array 
+Through-hole Packages	SBDIP	Sidebraze Dual-In-Line Package
+Surface Mount	SC	Small Outline Transistor
+Through-hole Packages	SDIP	Skinny DIP
+Through-hole Packages	SIP	Single in-line package
+Transistor, diode, small pin count IC	SOD	Small Outline Diode.
+Small Outline Packages	SOIC	Small Outline Integrated Circuit
+Small Outline Packages	SOJ	Small Outline J-Lead Package
+Small Outline Packages	SOP	Small Outline Package 
+Transistor, diode, small pin count IC	SOT	Small-outline transistor (also SOT-23, SOT-223, SOT-323).
+Through-hole Packages	SPDIP	Shrink Plastic Dual-In-Line Package
+Small Outline Packages	SSOP	Shrink Small-Outline Package 
+Ball Grid Array	TBGA	Thin Ball Grid Array 
+Chip-Scale Packages	TCSP	True Chip Size Package
+Flat packages	TDFN	Thin Diual Flat No Leads Package
+Chip-Scale Packages	TDSP	True Die Size Package
+Ball Grid Array	TEPBGA	Thermally Enhanced Plastic Ball Grid Array
+Ball Grid Array	TFBGA	Thin Fine Pitch Ball Grid Array 
+Through-hole Packages	TH	Basic Through-Hole
+Transistor, diode, small pin count IC	TO-XX	Transistor Outline
+Flat packages	TQFN	Thin Quad Flat No-Lead
+Flat packages	TQFP	Thin Quad Flat Pack 
+Small Outline Packages	TSOP	Thin Small-Outline Package 
+Small Outline Packages	TSSOP	Thin Shrink Small Outline Package 
+Small Outline Packages	TVSOP	Thin Very Small-Outline Package 
+Ball Grid Array	UCSP	Micro (μ) Chip Scale Package
+Ball Grid Array	UFBGA	Ultra Fine Ball Grid Aarray 
+Flat packages	UQFN	Ultra Thin Quad Flat Pack No-Lead
+Flat packages	UTQFN	Ultra Thin Quad Flat Pack No-Lead
+Flat packages	VQFN	Very Thin Quad Flat No-Lead
+Flat packages	VQFP	Very-thin Quad Flat Pack 
+Chip-Scale Packages	WCSP	Wafer-level Chip Scale Package
+Flat packages	WQFN	Very Very Thin Quad Flat No-Lead
+Small Outline Packages	WSON	Very Very Thin Small Outline No Lead Package
+Through-hole Packages	ZIP	Zig-zag in-line package
+Ball Grid Array	μBGA	Micro-Ball Grid Array
+Small Outline Packages	µMAX	Micro Max
